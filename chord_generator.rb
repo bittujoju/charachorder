@@ -1,7 +1,12 @@
+require "csv"
+
 class ChordGenerator
-  MIN_KEYS = 2.freeze
-  MIN_CHARS = 2.freeze
-  FILE_NAME = "words.txt".freeze
+  MIN_CHORD_LENGTH = 2.freeze
+  MIN_WORD_LENGTH = 2.freeze
+  ALT_KEYS = %w(LEFT_ALT RIGHT_ALT).freeze
+  # Setting this to true will cause shorter words to have shorter chords
+  # and longer words to have longer chords
+  LENGTH_PROPORTIONAL = false.freeze
   KEY_MIRROR_MAP_L = {
     "," => ";",
     "u" => "s",
@@ -17,115 +22,196 @@ class ChordGenerator
     "k" => "f",
     "z" => "q",
     "w" => "b",
-    "g" => "Dup",
+    "g" => "DUP",
     "x" => nil
   }.freeze
   KEY_MIRROR_MAP_R = KEY_MIRROR_MAP_L.invert.freeze
   KEY_FINGER_MAP = {
-     "LH_Ring_Primary" => %w(, u ' LH_Ring_Primary_Center),
-     "LH_Middle_Primary" => %w(. o i LH_Middle_Primary_Center),
-     "LH_Index" => %w(e r LH_Index_Center),
-     "LH_Thumb_1" => %w(m v k c LH_Thumb_1_Center),
-     "LH_Thumb_2" => %w(g z w LH_Thumb_2_Center),
-     "RH_Thumb_2" => %w(x b q RH_Thumb_2_Center),
-     "RH_Thumb_1" => %w(p f d h RH_Thumb_1_Center),
-     "RH_Index" => %w(a t RH_Index_Center),
-     "RH_Middle_Primary" => %w(l n j RH_Middle_Primary_Center),
-     "RH_Ring_Primary" => %w(y s ; RH_Ring_Primary_Center)
+     "LH_PINKY" => %w(LEFT_ALT),
+     "LH_RING_1" => %w(, u '),
+     "LH_MID_1" => %w(. o i),
+     "LH_INDEX" => %w(e r),
+     "LH_THUMB_1" => %w(m v k c),
+     "LH_THUMB_2" => %w(g z w),
+     "RH_THUMB_2" => %w(x b q),
+     "RH_THUMB_1" => %w(p f d h),
+     "RH_INDEX" => %w(a t),
+     "RH_MID_1" => %w(l n j),
+     "RH_RING_1" => %w(y s ;),
+     "RH_PINKY" => %w(RIGHT_ALT)
+  }.freeze
+  CONFLICTING_FINGER_GROUPS = {
+    "LH_PINKY" => %w(LEFT_ALT LH_PINKY_3D),
+    "LH_RING_1" => %w(, u ' LH_RING_1_3D),
+    "LH_MID_1" => %w(. o i LH_MID_1_3D),
+    "LH_INDEX" => %w(e r LH_INDEX_3D),
+    "LH_THUMB" => %w(m v k c LH_THUMB_1_3D g z w LH_THUMB_1_3D),
+    "RH_THUMB" => %w(x b q DUP RH_THUMB_1_3D p f d h RH_THUMB_2_3D),
+    "RH_INDEX" => %w(a t RH_INDEX_3D),
+    "RH_MID_1" => %w(l n j RH_MID_1_3D),
+    "RH_RING_1" => %w(y s ; RH_RING_1_3D),
+    "RH_PINKY" => %w(RIGHT_ALT RH_PINKY_3D)
   }.freeze
 
-  def initialize
+  # Rearrange the order of the following array to your preference
+  # ie, if you want to use 3d keys before using alt move use_3d_keys before use_alt_keys
+  CHORD_GENERATOR_LOGIC = %i[
+    skip_keys
+    all_keys
+    use_mirror_keys
+    use_alt_keys
+    use_3d_keys
+  ].freeze
+
+  def initialize(words_file, chords_file)
     @used_chords = {}
+    @words_file = words_file
+    @chords_file = chords_file
   end
 
   def generate
-    sorted_words.each do |word|
+    words_list.each do |word|
       raise "Word is blank" if word.nil?
+      next if word.length < MIN_WORD_LENGTH
 
-      next if word.length < MIN_CHARS
-
-      uniq_chars = word.chars.uniq.join
-      chord = less_keys_logic(uniq_chars) || more_keys_logic(uniq_chars) || mirror_keys_logic(uniq_chars) || three_d_keys_logic(uniq_chars)
-
+      chord = calculate_chord(get_chars(word))
       unless chord
-        puts "Could not find chord for #{word}"
+        puts "Could not generate chord for #{word}"
         next
       end
 
       assign_chord(word, chord)
-      puts "#{word},#{chord.join(" + ")}"
+      create_csv!
     end
+  end
+
+  def create_csv!
+    CSV.open(@chords_file, "w") do |csv|
+      @used_chords.each do |word, chord|
+        csv << [chord.join(" + "), word]
+      end
+    end
+  end
+
+  def words_list
+    return sorted_words if LENGTH_PROPORTIONAL
+
+    words
+  end
+
+  def calculate_chord(chars)
+    CHORD_GENERATOR_LOGIC.each do |logic|
+      chord = send(logic, chars)
+
+      return chord if chord
+    end
+
+    nil
+  end
+
+  def get_chars(word)
+    chars = word.chars
+    return chars.uniq.push("DUP") if has_duplicates?(chars)
+
+    chars.uniq
   end
 
   def assign_chord(word, chord)
     @used_chords[word] = chord.sort
   end
 
-  def less_keys_logic(word)
+  def skip_keys(chars)
     chord = []
-    word.each_char.with_index do |char, index|
+    chars.each_with_index do |char, index|
       chord << char
       next chord.pop if finger_conflict?(chord)
-      next if (index + 1) < MIN_KEYS
-      next chord.pop if already_used_chord?(chord)
+      next if (index + 1) < MIN_CHORD_LENGTH
+      next chord.pop if used_chord?(chord)
 
       return chord
     end
-    false
+
+    nil
   end
 
-  def more_keys_logic(word)
+  def all_keys(chars)
     chord = []
-    word.each_char.with_index do |char, index|
+    chars.each_with_index do |char, index|
       chord << char
       next chord.pop if finger_conflict?(chord)
-      next if (index + 1) < MIN_KEYS
-      next if already_used_chord?(chord)
+      next if (index + 1) < MIN_CHORD_LENGTH
+      next if used_chord?(chord)
 
       return chord
     end
-    false
+
+    nil
   end
 
-  def mirror_keys_logic(word)
+  def use_mirror_keys(chars)
     chord = []
-    word.each_char.with_index do |char, index|
+    chars.each_with_index do |char, index|
       chord << char
-      next if (index + 1) < MIN_KEYS
+      next if (index + 1) < MIN_CHORD_LENGTH
 
       mirror_key_combinations(chord).each do |mirror_chord|
-        next if finger_conflict?(chord)
-        next if already_used_chord?(mirror_chord)
+        next if finger_conflict?(mirror_chord)
+        next if used_chord?(mirror_chord)
 
         return mirror_chord
       end
     end
-    false
+
+    nil
   end
 
-  def three_d_keys_logic(word)
+  def use_3d_keys(chars)
     chord = []
-    word.each_char.with_index do |char, index|
+    chars.each_with_index do |char, index|
       chord << char
-      next if (index + 1) < MIN_KEYS
+      next if (index + 1) < MIN_CHORD_LENGTH
 
       three_d_key_combinations(chord).each do |three_d_chord|
         next if finger_conflict?(chord)
-        next if already_used_chord?(three_d_chord)
+        next if used_chord?(three_d_chord)
 
         return three_d_chord
       end
     end
-    false
+
+    nil
+  end
+
+  def use_alt_keys(chars)
+    ALT_KEYS.each do |alt_key|
+      chars_with_alt = chars + [alt_key]
+      chord = []
+      chars_with_alt.each_with_index do |char, index|
+        chord << char
+        next chord.pop if finger_conflict?(chord)
+        next if (index + 1) < MIN_CHORD_LENGTH
+        next if used_chord?(chord)
+
+        return chord
+      end
+    end
+
+    nil
   end
 
   def finger_conflict?(chord)
-    KEY_FINGER_MAP.values.any? do |finger_keys|
+    return true if has_duplicates?(chord)
+
+    CONFLICTING_FINGER_GROUPS.values.any? do |finger_keys|
       (finger_keys & chord).size > 1
     end
   end
 
-  def already_used_chord?(chord)
+  def has_duplicates?(chord)
+    chord.size > chord.uniq.size
+  end
+
+  def used_chord?(chord)
     return false if chord.nil?
 
     @used_chords.values.include?(chord.sort)
@@ -155,7 +241,7 @@ class ChordGenerator
 
   def get_three_d_key(char)
     KEY_FINGER_MAP.each do |finger, chars|
-      return "#{finger}_Center" if chars.include?(char)
+      return "#{finger}_3D" if chars.include?(char)
     end
 
     nil
@@ -164,7 +250,7 @@ class ChordGenerator
   def words
     @_words ||= begin
       words = []
-      File.foreach(FILE_NAME) do |line|
+      File.foreach(@words_file) do |line|
         words << line.chomp.downcase
       end
       words.uniq
@@ -180,4 +266,6 @@ class ChordGenerator
   end
 end
 
-ChordGenerator.new.generate
+# Replace words.txt with the path to your words file
+ChordGenerator.new("words.txt", "chords.csv").generate
+

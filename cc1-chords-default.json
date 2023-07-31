@@ -1,0 +1,5928 @@
+[
+    {
+        "hex-chord-string": "001D0721BC6819400000000000000000",
+        "phrase": "6F74686572",
+        "human-chord": [
+            "e",
+            "h",
+            "o",
+            "r",
+            "t"
+        ],
+        "human-phrase": "other"
+    },
+    {
+        "hex-chord-string": "001DC6E1840000000000000000000000",
+        "phrase": "77616E74",
+        "human-chord": [
+            "a",
+            "n",
+            "w"
+        ],
+        "human-phrase": "want"
+    },
+    {
+        "hex-chord-string": "001D4700000000000000000000000000",
+        "phrase": "7570",
+        "human-chord": [
+            "p",
+            "u"
+        ],
+        "human-phrase": "up"
+    },
+    {
+        "hex-chord-string": "001A06518C6100000000000000000000",
+        "phrase": "65616368",
+        "human-chord": [
+            "a",
+            "c",
+            "e",
+            "h"
+        ],
+        "human-phrase": "each"
+    },
+    {
+        "hex-chord-string": "001D0701B86C18400000000000000000",
+        "phrase": "706C616E74",
+        "human-chord": [
+            "a",
+            "l",
+            "n",
+            "p",
+            "t"
+        ],
+        "human-phrase": "plant"
+    },
+    {
+        "hex-chord-string": "001D0731BC6E1B46819C650000000000",
+        "phrase": "736F6D657468696E67",
+        "human-chord": [
+            "e",
+            "g",
+            "h",
+            "m",
+            "n",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "something"
+    },
+    {
+        "hex-chord-string": "00860791C86318400000000000000000",
+        "phrase": "6361727279",
+        "human-chord": [
+            "a",
+            "c",
+            "r",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "carry"
+    },
+    {
+        "hex-chord-string": "0053C660000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F014F",
+        "human-chord": [
+            "f",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "00540660000000000000000000000000",
+        "phrase": "0150015001500150015001500150",
+        "human-chord": [
+            "f",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001B8660000000000000000000000000",
+        "phrase": "66696E64",
+        "human-chord": [
+            "f",
+            "n"
+        ],
+        "human-phrase": "find"
+    },
+    {
+        "hex-chord-string": "001B0691986500000000000000000000",
+        "phrase": "6C696665",
+        "human-chord": [
+            "e",
+            "f",
+            "i",
+            "l"
+        ],
+        "human-phrase": "life"
+    },
+    {
+        "hex-chord-string": "001E4751C46C1AC6918C000000000000",
+        "phrase": "717569636B6C79",
+        "human-chord": [
+            "c",
+            "i",
+            "k",
+            "l",
+            "q",
+            "u",
+            "y"
+        ],
+        "human-phrase": "quickly"
+    },
+    {
+        "hex-chord-string": "001DC741946200000000000000000000",
+        "phrase": "6265747765656E",
+        "human-chord": [
+            "b",
+            "e",
+            "t",
+            "w"
+        ],
+        "human-phrase": "between"
+    },
+    {
+        "hex-chord-string": "001D46F1B86819C65000000000000000",
+        "phrase": "656E6F756768",
+        "human-chord": [
+            "e",
+            "g",
+            "h",
+            "n",
+            "o",
+            "u"
+        ],
+        "human-phrase": "enough"
+    },
+    {
+        "hex-chord-string": "001D46D1A00000000000000000000000",
+        "phrase": "6D756368",
+        "human-chord": [
+            "h",
+            "m",
+            "u"
+        ],
+        "human-phrase": "much"
+    },
+    {
+        "hex-chord-string": "001CC6F1B46500000000000000000000",
+        "phrase": "736F6D65",
+        "human-chord": [
+            "e",
+            "m",
+            "o",
+            "s"
+        ],
+        "human-phrase": "some"
+    },
+    {
+        "hex-chord-string": "001B86C19C0000000000000000000000",
+        "phrase": "6C6F6E67",
+        "human-chord": [
+            "g",
+            "l",
+            "n"
+        ],
+        "human-phrase": "long"
+    },
+    {
+        "hex-chord-string": "004A86C0000000000000000000000000",
+        "phrase": "012A012A012A012A",
+        "human-chord": [
+            "l",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001C8661840000000000000000000000",
+        "phrase": "666172",
+        "human-chord": [
+            "a",
+            "f",
+            "r"
+        ],
+        "human-phrase": "far"
+    },
+    {
+        "hex-chord-string": "001B0660000000000000000000000000",
+        "phrase": "6C696665",
+        "human-chord": [
+            "f",
+            "l"
+        ],
+        "human-phrase": "life"
+    },
+    {
+        "hex-chord-string": "008606F19C0000000000000000000000",
+        "phrase": "676F6F64",
+        "human-chord": [
+            "g",
+            "o",
+            "DUP"
+        ],
+        "human-phrase": "good"
+    },
+    {
+        "hex-chord-string": "00860791DC6100000000000000000000",
+        "phrase": "61776179",
+        "human-chord": [
+            "a",
+            "w",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "away"
+    },
+    {
+        "hex-chord-string": "001E4731840000000000000000000000",
+        "phrase": "736179",
+        "human-chord": [
+            "a",
+            "s",
+            "y"
+        ],
+        "human-phrase": "say"
+    },
+    {
+        "hex-chord-string": "001D0661940000000000000000000000",
+        "phrase": "66656574",
+        "human-chord": [
+            "e",
+            "f",
+            "t"
+        ],
+        "human-phrase": "feet"
+    },
+    {
+        "hex-chord-string": "001DC6F1B86400000000000000000000",
+        "phrase": "646F776E",
+        "human-chord": [
+            "d",
+            "n",
+            "o",
+            "w"
+        ],
+        "human-phrase": "down"
+    },
+    {
+        "hex-chord-string": "001D0721C06100000000000000000000",
+        "phrase": "70617274",
+        "human-chord": [
+            "a",
+            "p",
+            "r",
+            "t"
+        ],
+        "human-phrase": "part"
+    },
+    {
+        "hex-chord-string": "001B86D1842700000000000000000000",
+        "phrase": "6D616E79",
+        "human-chord": [
+            "'",
+            "a",
+            "m",
+            "n"
+        ],
+        "human-phrase": "many"
+    },
+    {
+        "hex-chord-string": "001B46B1946100000000000000000000",
+        "phrase": "6D616B65",
+        "human-chord": [
+            "a",
+            "e",
+            "k",
+            "m"
+        ],
+        "human-phrase": "make"
+    },
+    {
+        "hex-chord-string": "001D0721BC6E1A065184000000000000",
+        "phrase": "616E6F74686572",
+        "human-chord": [
+            "a",
+            "e",
+            "h",
+            "n",
+            "o",
+            "r",
+            "t"
+        ],
+        "human-phrase": "another"
+    },
+    {
+        "hex-chord-string": "001E4721B06518400000000000000000",
+        "phrase": "7265616C6C79",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "r",
+            "y"
+        ],
+        "human-phrase": "really"
+    },
+    {
+        "hex-chord-string": "001FC6B0000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F7F",
+        "human-chord": [
+            "k",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D0731BC6E1B4691A0671940000000",
+        "phrase": "736F6D657468696E67",
+        "human-chord": [
+            "e",
+            "g",
+            "h",
+            "i",
+            "m",
+            "n",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "something"
+    },
+    {
+        "hex-chord-string": "001D4741CC6400000000000000000000",
+        "phrase": "7374756479",
+        "human-chord": [
+            "d",
+            "s",
+            "t",
+            "u"
+        ],
+        "human-phrase": "study"
+    },
+    {
+        "hex-chord-string": "0053C680000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F014F014F014F",
+        "human-chord": [
+            "h",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001A0651840000000000000000000000",
+        "phrase": "68656172",
+        "human-chord": [
+            "a",
+            "e",
+            "h"
+        ],
+        "human-phrase": "hear"
+    },
+    {
+        "hex-chord-string": "001E46D0000000000000000000000000",
+        "phrase": "6D79",
+        "human-chord": [
+            "m",
+            "y"
+        ],
+        "human-phrase": "my"
+    },
+    {
+        "hex-chord-string": "001CC6F1946400000000000000000000",
+        "phrase": "646F6573",
+        "human-chord": [
+            "d",
+            "e",
+            "o",
+            "s"
+        ],
+        "human-phrase": "does"
+    },
+    {
+        "hex-chord-string": "001DC731C86E19461000000000000000",
+        "phrase": "616E73776572",
+        "human-chord": [
+            "a",
+            "e",
+            "n",
+            "r",
+            "s",
+            "w"
+        ],
+        "human-phrase": "answer"
+    },
+    {
+        "hex-chord-string": "001CC691A00000000000000000000000",
+        "phrase": "686973",
+        "human-chord": [
+            "h",
+            "i",
+            "s"
+        ],
+        "human-phrase": "his"
+    },
+    {
+        "hex-chord-string": "001CC6F1B86519063000000000000000",
+        "phrase": "7365636F6E64",
+        "human-chord": [
+            "c",
+            "d",
+            "e",
+            "n",
+            "o",
+            "s"
+        ],
+        "human-phrase": "second"
+    },
+    {
+        "hex-chord-string": "001D0731BC6819400000000000000000",
+        "phrase": "74686F7365",
+        "human-chord": [
+            "e",
+            "h",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "those"
+    },
+    {
+        "hex-chord-string": "001D0741CC6518400000000000000000",
+        "phrase": "7374617465",
+        "human-chord": [
+            "a",
+            "e",
+            "s",
+            "t",
+            "t"
+        ],
+        "human-phrase": "state"
+    },
+    {
+        "hex-chord-string": "001DC741B86100000000000000000000",
+        "phrase": "77616E74",
+        "human-chord": [
+            "a",
+            "n",
+            "t",
+            "w"
+        ],
+        "human-phrase": "want"
+    },
+    {
+        "hex-chord-string": "001E4741A06500000000000000000000",
+        "phrase": "74686579",
+        "human-chord": [
+            "e",
+            "h",
+            "t",
+            "y"
+        ],
+        "human-phrase": "they"
+    },
+    {
+        "hex-chord-string": "004A8660000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A012A",
+        "human-chord": [
+            "f",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001C8641840000000000000000000000",
+        "phrase": "72656164",
+        "human-chord": [
+            "a",
+            "d",
+            "r"
+        ],
+        "human-phrase": "read"
+    },
+    {
+        "hex-chord-string": "001BC6D1B06100000000000000000000",
+        "phrase": "616C6D6F7374",
+        "human-chord": [
+            "a",
+            "l",
+            "m",
+            "o"
+        ],
+        "human-phrase": "almost"
+    },
+    {
+        "hex-chord-string": "001A4651906100000000000000000000",
+        "phrase": "69646561",
+        "human-chord": [
+            "a",
+            "d",
+            "e",
+            "i"
+        ],
+        "human-phrase": "idea"
+    },
+    {
+        "hex-chord-string": "001B06B1A46500000000000000000000",
+        "phrase": "6C696B65",
+        "human-chord": [
+            "e",
+            "i",
+            "k",
+            "l"
+        ],
+        "human-phrase": "like"
+    },
+    {
+        "hex-chord-string": "001D4741C46919400000000000000000",
+        "phrase": "7175697465",
+        "human-chord": [
+            "e",
+            "i",
+            "q",
+            "t",
+            "u"
+        ],
+        "human-phrase": "quite"
+    },
+    {
+        "hex-chord-string": "001DC6F0000000000000000000000000",
+        "phrase": "6F776E",
+        "human-chord": [
+            "o",
+            "w"
+        ],
+        "human-phrase": "own"
+    },
+    {
+        "hex-chord-string": "001CC691946400000000000000000000",
+        "phrase": "73696465",
+        "human-chord": [
+            "d",
+            "e",
+            "i",
+            "s"
+        ],
+        "human-phrase": "side"
+    },
+    {
+        "hex-chord-string": "00540700000000000000000000000000",
+        "phrase": "01500150015001500150015001500150",
+        "human-chord": [
+            "p",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001FC760000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F7F7F",
+        "human-chord": [
+            "v",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "008606E0000000000000000000000000",
+        "phrase": "6E6F",
+        "human-chord": [
+            "n",
+            "DUP"
+        ],
+        "human-phrase": "no"
+    },
+    {
+        "hex-chord-string": "001D46D1A06300000000000000000000",
+        "phrase": "6D756368",
+        "human-chord": [
+            "c",
+            "h",
+            "m",
+            "u"
+        ],
+        "human-phrase": "much"
+    },
+    {
+        "hex-chord-string": "005406A0000000000000000000000000",
+        "phrase": "015001500150015001500150",
+        "human-chord": [
+            "j",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "00198651840000000000000000000000",
+        "phrase": "666174686572",
+        "human-chord": [
+            "a",
+            "e",
+            "f"
+        ],
+        "human-phrase": "father"
+    },
+    {
+        "hex-chord-string": "001CC6F1B06100000000000000000000",
+        "phrase": "616C736F",
+        "human-chord": [
+            "a",
+            "l",
+            "o",
+            "s"
+        ],
+        "human-phrase": "also"
+    },
+    {
+        "hex-chord-string": "00860771C86500000000000000000000",
+        "phrase": "77657265",
+        "human-chord": [
+            "e",
+            "r",
+            "w",
+            "DUP"
+        ],
+        "human-phrase": "were"
+    },
+    {
+        "hex-chord-string": "001C06F1B86500000000000000000000",
+        "phrase": "6F70656E",
+        "human-chord": [
+            "e",
+            "n",
+            "o",
+            "p"
+        ],
+        "human-phrase": "open"
+    },
+    {
+        "hex-chord-string": "001B8651840000000000000000000000",
+        "phrase": "6E616D65",
+        "human-chord": [
+            "a",
+            "e",
+            "n"
+        ],
+        "human-phrase": "name"
+    },
+    {
+        "hex-chord-string": "001DC721BC6C19000000000000000000",
+        "phrase": "776F726C64",
+        "human-chord": [
+            "d",
+            "l",
+            "o",
+            "r",
+            "w"
+        ],
+        "human-phrase": "world"
+    },
+    {
+        "hex-chord-string": "001D0651840000000000000000000000",
+        "phrase": "656174",
+        "human-chord": [
+            "a",
+            "e",
+            "t"
+        ],
+        "human-phrase": "eat"
+    },
+    {
+        "hex-chord-string": "001D0731BC6D1B061000000000000000",
+        "phrase": "616C6D6F7374",
+        "human-chord": [
+            "a",
+            "l",
+            "m",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "almost"
+    },
+    {
+        "hex-chord-string": "001D0690000000000000000000000000",
+        "phrase": "6974",
+        "human-chord": [
+            "i",
+            "t"
+        ],
+        "human-phrase": "it"
+    },
+    {
+        "hex-chord-string": "001DC740000000000000000000000000",
+        "phrase": "776974686F7574",
+        "human-chord": [
+            "t",
+            "w"
+        ],
+        "human-phrase": "without"
+    },
+    {
+        "hex-chord-string": "001E46F1880000000000000000000000",
+        "phrase": "626F79",
+        "human-chord": [
+            "b",
+            "o",
+            "y"
+        ],
+        "human-phrase": "boy"
+    },
+    {
+        "hex-chord-string": "001B8651900000000000000000000000",
+        "phrase": "656E64",
+        "human-chord": [
+            "d",
+            "e",
+            "n"
+        ],
+        "human-phrase": "end"
+    },
+    {
+        "hex-chord-string": "001D0731A42700000000000000000000",
+        "phrase": "69742773",
+        "human-chord": [
+            "'",
+            "i",
+            "s",
+            "t"
+        ],
+        "human-phrase": "it's"
+    },
+    {
+        "hex-chord-string": "001D4741BC6E1B400000000000000000",
+        "phrase": "6D6F756E7461696E",
+        "human-chord": [
+            "m",
+            "n",
+            "o",
+            "t",
+            "u"
+        ],
+        "human-phrase": "mountain"
+    },
+    {
+        "hex-chord-string": "001D0721BC6D1A000000000000000000",
+        "phrase": "6D6F74686572",
+        "human-chord": [
+            "h",
+            "m",
+            "o",
+            "r",
+            "t"
+        ],
+        "human-phrase": "mother"
+    },
+    {
+        "hex-chord-string": "001D4721BC6700000000000000000000",
+        "phrase": "67726F7570",
+        "human-chord": [
+            "g",
+            "o",
+            "r",
+            "u"
+        ],
+        "human-phrase": "group"
+    },
+    {
+        "hex-chord-string": "001E4751C86F00000000000000000000",
+        "phrase": "796F7572",
+        "human-chord": [
+            "o",
+            "r",
+            "u",
+            "y"
+        ],
+        "human-phrase": "your"
+    },
+    {
+        "hex-chord-string": "0053C2E0000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F",
+        "human-chord": [
+            ".",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001BC6E1AC0000000000000000000000",
+        "phrase": "6B6E6F77",
+        "human-chord": [
+            "k",
+            "n",
+            "o"
+        ],
+        "human-phrase": "know"
+    },
+    {
+        "hex-chord-string": "00198610000000000000000000000000",
+        "phrase": "6166746572",
+        "human-chord": [
+            "a",
+            "f"
+        ],
+        "human-phrase": "after"
+    },
+    {
+        "hex-chord-string": "001D06F1B86900000000000000000000",
+        "phrase": "696E746F",
+        "human-chord": [
+            "i",
+            "n",
+            "o",
+            "t"
+        ],
+        "human-phrase": "into"
+    },
+    {
+        "hex-chord-string": "001CC651840000000000000000000000",
+        "phrase": "736561",
+        "human-chord": [
+            "a",
+            "e",
+            "s"
+        ],
+        "human-phrase": "sea"
+    },
+    {
+        "hex-chord-string": "001D8721A46500000000000000000000",
+        "phrase": "7269766572",
+        "human-chord": [
+            "e",
+            "i",
+            "r",
+            "v"
+        ],
+        "human-phrase": "river"
+    },
+    {
+        "hex-chord-string": "00860771B06500000000000000000000",
+        "phrase": "77656C6C",
+        "human-chord": [
+            "e",
+            "l",
+            "w",
+            "DUP"
+        ],
+        "human-phrase": "well"
+    },
+    {
+        "hex-chord-string": "001FC700000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F7F7F",
+        "human-chord": [
+            "p",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001BC6B1880000000000000000000000",
+        "phrase": "626F6F6B",
+        "human-chord": [
+            "b",
+            "k",
+            "o"
+        ],
+        "human-phrase": "book"
+    },
+    {
+        "hex-chord-string": "00860741C86819400000000000000000",
+        "phrase": "7468726565",
+        "human-chord": [
+            "e",
+            "h",
+            "r",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "three"
+    },
+    {
+        "hex-chord-string": "001E4741C80000000000000000000000",
+        "phrase": "747279",
+        "human-chord": [
+            "r",
+            "t",
+            "y"
+        ],
+        "human-phrase": "try"
+    },
+    {
+        "hex-chord-string": "001D4741C86F1A067000000000000000",
+        "phrase": "7468726F756768",
+        "human-chord": [
+            "g",
+            "h",
+            "o",
+            "r",
+            "t",
+            "u"
+        ],
+        "human-phrase": "through"
+    },
+    {
+        "hex-chord-string": "001D4721BC6E18400000000000000000",
+        "phrase": "61726F756E64",
+        "human-chord": [
+            "a",
+            "n",
+            "o",
+            "r",
+            "u"
+        ],
+        "human-phrase": "around"
+    },
+    {
+        "hex-chord-string": "001B4661840000000000000000000000",
+        "phrase": "66616D696C79",
+        "human-chord": [
+            "a",
+            "f",
+            "m"
+        ],
+        "human-phrase": "family"
+    },
+    {
+        "hex-chord-string": "001DC6E1940000000000000000000000",
+        "phrase": "6E6577",
+        "human-chord": [
+            "e",
+            "n",
+            "w"
+        ],
+        "human-phrase": "new"
+    },
+    {
+        "hex-chord-string": "001D0701BC6E1A400000000000000000",
+        "phrase": "706F696E74",
+        "human-chord": [
+            "i",
+            "n",
+            "o",
+            "p",
+            "t"
+        ],
+        "human-phrase": "point"
+    },
+    {
+        "hex-chord-string": "001D0731C82700000000000000000000",
+        "phrase": "73746F7279",
+        "human-chord": [
+            "'",
+            "r",
+            "s",
+            "t"
+        ],
+        "human-phrase": "story"
+    },
+    {
+        "hex-chord-string": "001B46C1840000000000000000000000",
+        "phrase": "616C6D6F7374",
+        "human-chord": [
+            "a",
+            "l",
+            "m"
+        ],
+        "human-phrase": "almost"
+    },
+    {
+        "hex-chord-string": "001D0721A46819400000000000000000",
+        "phrase": "7468656972",
+        "human-chord": [
+            "e",
+            "h",
+            "i",
+            "r",
+            "t"
+        ],
+        "human-phrase": "their"
+    },
+    {
+        "hex-chord-string": "001BC6E1A06100000000000000000000",
+        "phrase": "616E6F74686572",
+        "human-chord": [
+            "a",
+            "h",
+            "n",
+            "o"
+        ],
+        "human-phrase": "another"
+    },
+    {
+        "hex-chord-string": "005406D0000000000000000000000000",
+        "phrase": "015001500150015001500150015001500150",
+        "human-chord": [
+            "m",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001CC681940000000000000000000000",
+        "phrase": "736865",
+        "human-chord": [
+            "e",
+            "h",
+            "s"
+        ],
+        "human-phrase": "she"
+    },
+    {
+        "hex-chord-string": "00860731940000000000000000000000",
+        "phrase": "736565",
+        "human-chord": [
+            "e",
+            "s",
+            "DUP"
+        ],
+        "human-phrase": "see"
+    },
+    {
+        "hex-chord-string": "0019C620000000000000000000000000",
+        "phrase": "626567696E",
+        "human-chord": [
+            "b",
+            "g"
+        ],
+        "human-phrase": "begin"
+    },
+    {
+        "hex-chord-string": "001D0721B86919865190000000000000",
+        "phrase": "646966666572656E74",
+        "human-chord": [
+            "d",
+            "e",
+            "f",
+            "i",
+            "n",
+            "r",
+            "t"
+        ],
+        "human-phrase": "different"
+    },
+    {
+        "hex-chord-string": "001CC701B00000000000000000000000",
+        "phrase": "7370656C6C",
+        "human-chord": [
+            "l",
+            "p",
+            "s"
+        ],
+        "human-phrase": "spell"
+    },
+    {
+        "hex-chord-string": "004A86F0000000000000000000000000",
+        "phrase": "012A012A012A012A012A",
+        "human-chord": [
+            "o",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001DC731BC6800000000000000000000",
+        "phrase": "73686F77",
+        "human-chord": [
+            "h",
+            "o",
+            "s",
+            "w"
+        ],
+        "human-phrase": "show"
+    },
+    {
+        "hex-chord-string": "001C8681906100000000000000000000",
+        "phrase": "68617264",
+        "human-chord": [
+            "a",
+            "d",
+            "h",
+            "r"
+        ],
+        "human-phrase": "hard"
+    },
+    {
+        "hex-chord-string": "001D0731B06900000000000000000000",
+        "phrase": "6C697374",
+        "human-chord": [
+            "i",
+            "l",
+            "s",
+            "t"
+        ],
+        "human-phrase": "list"
+    },
+    {
+        "hex-chord-string": "004A86B0000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A012A",
+        "human-chord": [
+            "k",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001D06B1940000000000000000000000",
+        "phrase": "74616B65",
+        "human-chord": [
+            "e",
+            "k",
+            "t"
+        ],
+        "human-phrase": "take"
+    },
+    {
+        "hex-chord-string": "0053C6B0000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F014F",
+        "human-chord": [
+            "k",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "004A8760000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A012A012A",
+        "human-chord": [
+            "v",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001D06E1AC691A000000000000000000",
+        "phrase": "7468696E6B",
+        "human-chord": [
+            "h",
+            "i",
+            "k",
+            "n",
+            "t"
+        ],
+        "human-phrase": "think"
+    },
+    {
+        "hex-chord-string": "001D0731940000000000000000000000",
+        "phrase": "736574",
+        "human-chord": [
+            "e",
+            "s",
+            "t"
+        ],
+        "human-phrase": "set"
+    },
+    {
+        "hex-chord-string": "001BC670000000000000000000000000",
+        "phrase": "676F",
+        "human-chord": [
+            "g",
+            "o"
+        ],
+        "human-phrase": "go"
+    },
+    {
+        "hex-chord-string": "001B8691A06700000000000000000000",
+        "phrase": "6E69676874",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "n"
+        ],
+        "human-phrase": "night"
+    },
+    {
+        "hex-chord-string": "001E4711B06B00000000000000000000",
+        "phrase": "717569636B6C79",
+        "human-chord": [
+            "k",
+            "l",
+            "q",
+            "y"
+        ],
+        "human-phrase": "quickly"
+    },
+    {
+        "hex-chord-string": "001D4731A06300000000000000000000",
+        "phrase": "73756368",
+        "human-chord": [
+            "c",
+            "h",
+            "s",
+            "u"
+        ],
+        "human-phrase": "such"
+    },
+    {
+        "hex-chord-string": "001D06C1986500000000000000000000",
+        "phrase": "6C656674",
+        "human-chord": [
+            "e",
+            "f",
+            "l",
+            "t"
+        ],
+        "human-phrase": "left"
+    },
+    {
+        "hex-chord-string": "00860791D86500000000000000000000",
+        "phrase": "6576657279",
+        "human-chord": [
+            "e",
+            "v",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "every"
+    },
+    {
+        "hex-chord-string": "00860741B40000000000000000000000",
+        "phrase": "6D6F756E7461696E",
+        "human-chord": [
+            "m",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "mountain"
+    },
+    {
+        "hex-chord-string": "0053C6A0000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F",
+        "human-chord": [
+            "j",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001C46B1A46300000000000000000000",
+        "phrase": "717569636B",
+        "human-chord": [
+            "c",
+            "i",
+            "k",
+            "q"
+        ],
+        "human-phrase": "quick"
+    },
+    {
+        "hex-chord-string": "001BC6C1946200000000000000000000",
+        "phrase": "62656C6F77",
+        "human-chord": [
+            "b",
+            "e",
+            "l",
+            "o"
+        ],
+        "human-phrase": "below"
+    },
+    {
+        "hex-chord-string": "001BC6C1900000000000000000000000",
+        "phrase": "6F6C64",
+        "human-chord": [
+            "d",
+            "l",
+            "o"
+        ],
+        "human-phrase": "old"
+    },
+    {
+        "hex-chord-string": "001D06E1A06100000000000000000000",
+        "phrase": "7468616E",
+        "human-chord": [
+            "a",
+            "h",
+            "n",
+            "t"
+        ],
+        "human-phrase": "than"
+    },
+    {
+        "hex-chord-string": "001B0690000000000000000000000000",
+        "phrase": "6C697374",
+        "human-chord": [
+            "i",
+            "l"
+        ],
+        "human-phrase": "list"
+    },
+    {
+        "hex-chord-string": "001E4741A46300000000000000000000",
+        "phrase": "63697479",
+        "human-chord": [
+            "c",
+            "i",
+            "t",
+            "y"
+        ],
+        "human-phrase": "city"
+    },
+    {
+        "hex-chord-string": "00860790000000000000000000000000",
+        "phrase": "776879",
+        "human-chord": [
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "why"
+    },
+    {
+        "hex-chord-string": "001BC6E1B06718400000000000000000",
+        "phrase": "616C6F6E67",
+        "human-chord": [
+            "a",
+            "g",
+            "l",
+            "n",
+            "o"
+        ],
+        "human-phrase": "along"
+    },
+    {
+        "hex-chord-string": "00860741B06919400000000000000000",
+        "phrase": "6C6974746C65",
+        "human-chord": [
+            "e",
+            "i",
+            "l",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "little"
+    },
+    {
+        "hex-chord-string": "001D47418C0000000000000000000000",
+        "phrase": "637574",
+        "human-chord": [
+            "c",
+            "t",
+            "u"
+        ],
+        "human-phrase": "cut"
+    },
+    {
+        "hex-chord-string": "001C86F1B46600000000000000000000",
+        "phrase": "66726F6D",
+        "human-chord": [
+            "f",
+            "m",
+            "o",
+            "r"
+        ],
+        "human-phrase": "from"
+    },
+    {
+        "hex-chord-string": "004A8680000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A012A012A012A",
+        "human-chord": [
+            "h",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001D8681946100000000000000000000",
+        "phrase": "68617665",
+        "human-chord": [
+            "a",
+            "e",
+            "h",
+            "v"
+        ],
+        "human-phrase": "have"
+    },
+    {
+        "hex-chord-string": "001C0671946100000000000000000000",
+        "phrase": "70616765",
+        "human-chord": [
+            "a",
+            "e",
+            "g",
+            "p"
+        ],
+        "human-phrase": "page"
+    },
+    {
+        "hex-chord-string": "001D4741C8701A46518C000000000000",
+        "phrase": "70696374757265",
+        "human-chord": [
+            "c",
+            "e",
+            "i",
+            "p",
+            "r",
+            "t",
+            "u"
+        ],
+        "human-phrase": "picture"
+    },
+    {
+        "hex-chord-string": "001CC691840000000000000000000000",
+        "phrase": "73616964",
+        "human-chord": [
+            "a",
+            "i",
+            "s"
+        ],
+        "human-phrase": "said"
+    },
+    {
+        "hex-chord-string": "001C86C1A46818C00000000000000000",
+        "phrase": "6368696C6472656E",
+        "human-chord": [
+            "c",
+            "h",
+            "i",
+            "l",
+            "r"
+        ],
+        "human-phrase": "children"
+    },
+    {
+        "hex-chord-string": "001D4731940000000000000000000000",
+        "phrase": "757365",
+        "human-chord": [
+            "e",
+            "s",
+            "u"
+        ],
+        "human-phrase": "use"
+    },
+    {
+        "hex-chord-string": "00860761B06518400000000000000000",
+        "phrase": "6C65617665",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "v",
+            "DUP"
+        ],
+        "human-phrase": "leave"
+    },
+    {
+        "hex-chord-string": "001AC631886100000000000000000000",
+        "phrase": "6261636B",
+        "human-chord": [
+            "a",
+            "b",
+            "c",
+            "k"
+        ],
+        "human-phrase": "back"
+    },
+    {
+        "hex-chord-string": "001C86D1980000000000000000000000",
+        "phrase": "666F726D",
+        "human-chord": [
+            "f",
+            "m",
+            "r"
+        ],
+        "human-phrase": "form"
+    },
+    {
+        "hex-chord-string": "001B8671946218400000000000000000",
+        "phrase": "626567616E",
+        "human-chord": [
+            "a",
+            "b",
+            "e",
+            "g",
+            "n"
+        ],
+        "human-phrase": "began"
+    },
+    {
+        "hex-chord-string": "004A86D0000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A012A012A012A",
+        "human-chord": [
+            "m",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001D86E1940000000000000000000000",
+        "phrase": "6576656E",
+        "human-chord": [
+            "e",
+            "n",
+            "v"
+        ],
+        "human-phrase": "even"
+    },
+    {
+        "hex-chord-string": "001CC691900000000000000000000000",
+        "phrase": "73696465",
+        "human-chord": [
+            "d",
+            "i",
+            "s"
+        ],
+        "human-phrase": "side"
+    },
+    {
+        "hex-chord-string": "0018C620000000000000000000000000",
+        "phrase": "62656361757365",
+        "human-chord": [
+            "b",
+            "c"
+        ],
+        "human-phrase": "because"
+    },
+    {
+        "hex-chord-string": "00881500000000000000000000000000",
+        "phrase": "015001500150",
+        "human-chord": [
+            "ARROW_LF",
+            "SPACERIGHT"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001DC721A06500000000000000000000",
+        "phrase": "7768657265",
+        "human-chord": [
+            "e",
+            "h",
+            "r",
+            "w"
+        ],
+        "human-phrase": "where"
+    },
+    {
+        "hex-chord-string": "001B0641840000000000000000000000",
+        "phrase": "6C616E64",
+        "human-chord": [
+            "a",
+            "d",
+            "l"
+        ],
+        "human-phrase": "land"
+    },
+    {
+        "hex-chord-string": "001C86F1986518800000000000000000",
+        "phrase": "6265666F7265",
+        "human-chord": [
+            "b",
+            "e",
+            "f",
+            "o",
+            "r"
+        ],
+        "human-phrase": "before"
+    },
+    {
+        "hex-chord-string": "00816010000000000000000000000000",
+        "phrase": "0139",
+        "human-chord": [
+            "LEFT_SHIFT",
+            "RIGHT_SHIFT"
+        ],
+        "human-phrase": " CAPSLOCK "
+    },
+    {
+        "hex-chord-string": "00860741C80000000000000000000000",
+        "phrase": "74726565",
+        "human-chord": [
+            "r",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "tree"
+    },
+    {
+        "hex-chord-string": "001DC731C86E18400000000000000000",
+        "phrase": "616E73776572",
+        "human-chord": [
+            "a",
+            "n",
+            "r",
+            "s",
+            "w"
+        ],
+        "human-phrase": "answer"
+    },
+    {
+        "hex-chord-string": "001C8701840000000000000000000000",
+        "phrase": "70617274",
+        "human-chord": [
+            "a",
+            "p",
+            "r"
+        ],
+        "human-phrase": "part"
+    },
+    {
+        "hex-chord-string": "005406E0000000000000000000000000",
+        "phrase": "01500150015001500150",
+        "human-chord": [
+            "n",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "00194610000000000000000000000000",
+        "phrase": "6174",
+        "human-chord": [
+            "a",
+            "e"
+        ],
+        "human-phrase": "at"
+    },
+    {
+        "hex-chord-string": "001B8641840000000000000000000000",
+        "phrase": "616E64",
+        "human-chord": [
+            "a",
+            "d",
+            "n"
+        ],
+        "human-phrase": "and"
+    },
+    {
+        "hex-chord-string": "00860741CC7200000000000000000000",
+        "phrase": "7374617274",
+        "human-chord": [
+            "r",
+            "s",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "start"
+    },
+    {
+        "hex-chord-string": "001D06F1B86619400000000000000000",
+        "phrase": "6F6674656E",
+        "human-chord": [
+            "e",
+            "f",
+            "n",
+            "o",
+            "t"
+        ],
+        "human-phrase": "often"
+    },
+    {
+        "hex-chord-string": "001B4651906100000000000000000000",
+        "phrase": "6D616465",
+        "human-chord": [
+            "a",
+            "d",
+            "e",
+            "m"
+        ],
+        "human-phrase": "made"
+    },
+    {
+        "hex-chord-string": "004A8690000000000000000000000000",
+        "phrase": "012A012A012A012A",
+        "human-chord": [
+            "i",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "00190610000000000000000000000000",
+        "phrase": "616464",
+        "human-chord": [
+            "a",
+            "d"
+        ],
+        "human-phrase": "add"
+    },
+    {
+        "hex-chord-string": "001BC640000000000000000000000000",
+        "phrase": "646F",
+        "human-chord": [
+            "d",
+            "o"
+        ],
+        "human-phrase": "do"
+    },
+    {
+        "hex-chord-string": "001D0731A06500000000000000000000",
+        "phrase": "7468657365",
+        "human-chord": [
+            "e",
+            "h",
+            "s",
+            "t"
+        ],
+        "human-phrase": "these"
+    },
+    {
+        "hex-chord-string": "001D4721B86D19462000000000000000",
+        "phrase": "6E756D626572",
+        "human-chord": [
+            "b",
+            "e",
+            "m",
+            "n",
+            "r",
+            "u"
+        ],
+        "human-phrase": "number"
+    },
+    {
+        "hex-chord-string": "008606E1940000000000000000000000",
+        "phrase": "6E656564",
+        "human-chord": [
+            "e",
+            "n",
+            "DUP"
+        ],
+        "human-phrase": "need"
+    },
+    {
+        "hex-chord-string": "004A86E0000000000000000000000000",
+        "phrase": "012A012A012A012A012A",
+        "human-chord": [
+            "n",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "008812A0000000000000000000000000",
+        "phrase": "012A012A012A",
+        "human-chord": [
+            "BKSP",
+            "SPACERIGHT"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001E4771CC6C18400000000000000000",
+        "phrase": "616C77617973",
+        "human-chord": [
+            "a",
+            "l",
+            "s",
+            "w",
+            "y"
+        ],
+        "human-phrase": "always"
+    },
+    {
+        "hex-chord-string": "001D4741CC6D00000000000000000000",
+        "phrase": "6D757374",
+        "human-chord": [
+            "m",
+            "s",
+            "t",
+            "u"
+        ],
+        "human-phrase": "must"
+    },
+    {
+        "hex-chord-string": "001DC721940000000000000000000000",
+        "phrase": "77657265",
+        "human-chord": [
+            "e",
+            "r",
+            "w"
+        ],
+        "human-phrase": "were"
+    },
+    {
+        "hex-chord-string": "001D46F1980000000000000000000000",
+        "phrase": "666F7572",
+        "human-chord": [
+            "f",
+            "o",
+            "u"
+        ],
+        "human-phrase": "four"
+    },
+    {
+        "hex-chord-string": "001D0721980000000000000000000000",
+        "phrase": "666174686572",
+        "human-chord": [
+            "f",
+            "r",
+            "t"
+        ],
+        "human-phrase": "father"
+    },
+    {
+        "hex-chord-string": "00860741CC6900000000000000000000",
+        "phrase": "7374696C6C",
+        "human-chord": [
+            "i",
+            "s",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "still"
+    },
+    {
+        "hex-chord-string": "001CC610000000000000000000000000",
+        "phrase": "736177",
+        "human-chord": [
+            "a",
+            "s"
+        ],
+        "human-phrase": "saw"
+    },
+    {
+        "hex-chord-string": "001E4721B06100000000000000000000",
+        "phrase": "7265616C6C79",
+        "human-chord": [
+            "a",
+            "l",
+            "r",
+            "y"
+        ],
+        "human-phrase": "really"
+    },
+    {
+        "hex-chord-string": "001D46F1B86619000000000000000000",
+        "phrase": "666F756E64",
+        "human-chord": [
+            "d",
+            "f",
+            "n",
+            "o",
+            "u"
+        ],
+        "human-phrase": "found"
+    },
+    {
+        "hex-chord-string": "001D4711AC6918C00000000000000000",
+        "phrase": "717569636B",
+        "human-chord": [
+            "c",
+            "i",
+            "k",
+            "q",
+            "u"
+        ],
+        "human-phrase": "quick"
+    },
+    {
+        "hex-chord-string": "001B86919C6100000000000000000000",
+        "phrase": "616761696E",
+        "human-chord": [
+            "a",
+            "g",
+            "i",
+            "n"
+        ],
+        "human-phrase": "again"
+    },
+    {
+        "hex-chord-string": "001D8721B00000000000000000000000",
+        "phrase": "6C61746572",
+        "human-chord": [
+            "l",
+            "r",
+            "v"
+        ],
+        "human-phrase": "later"
+    },
+    {
+        "hex-chord-string": "001B8651880000000000000000000000",
+        "phrase": "6265656E",
+        "human-chord": [
+            "b",
+            "e",
+            "n"
+        ],
+        "human-phrase": "been"
+    },
+    {
+        "hex-chord-string": "001BC6C1AC0000000000000000000000",
+        "phrase": "6C6F6F6B",
+        "human-chord": [
+            "k",
+            "l",
+            "o"
+        ],
+        "human-phrase": "look"
+    },
+    {
+        "hex-chord-string": "001D4721BC6E19061000000000000000",
+        "phrase": "61726F756E64",
+        "human-chord": [
+            "a",
+            "d",
+            "n",
+            "o",
+            "r",
+            "u"
+        ],
+        "human-phrase": "around"
+    },
+    {
+        "hex-chord-string": "001BC6D1946300000000000000000000",
+        "phrase": "636F6D65",
+        "human-chord": [
+            "c",
+            "e",
+            "m",
+            "o"
+        ],
+        "human-phrase": "come"
+    },
+    {
+        "hex-chord-string": "001D0731A46800000000000000000000",
+        "phrase": "74686973",
+        "human-chord": [
+            "h",
+            "i",
+            "s",
+            "t"
+        ],
+        "human-phrase": "this"
+    },
+    {
+        "hex-chord-string": "001D4731BC6E19000000000000000000",
+        "phrase": "736F756E64",
+        "human-chord": [
+            "d",
+            "n",
+            "o",
+            "s",
+            "u"
+        ],
+        "human-phrase": "sound"
+    },
+    {
+        "hex-chord-string": "001C4670000000000000000000000000",
+        "phrase": "7175657374696F6E",
+        "human-chord": [
+            "g",
+            "q"
+        ],
+        "human-phrase": "question"
+    },
+    {
+        "hex-chord-string": "001C8651840000000000000000000000",
+        "phrase": "617265",
+        "human-chord": [
+            "a",
+            "e",
+            "r"
+        ],
+        "human-phrase": "are"
+    },
+    {
+        "hex-chord-string": "001FC740000000000000000000000000",
+        "phrase": "7F7F",
+        "human-chord": [
+            "t",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001CC6C1840000000000000000000000",
+        "phrase": "6C617374",
+        "human-chord": [
+            "a",
+            "l",
+            "s"
+        ],
+        "human-phrase": "last"
+    },
+    {
+        "hex-chord-string": "001E4651840000000000000000000000",
+        "phrase": "79656172",
+        "human-chord": [
+            "a",
+            "e",
+            "y"
+        ],
+        "human-phrase": "year"
+    },
+    {
+        "hex-chord-string": "001BC6D1A06500000000000000000000",
+        "phrase": "686F6D65",
+        "human-chord": [
+            "e",
+            "h",
+            "m",
+            "o"
+        ],
+        "human-phrase": "home"
+    },
+    {
+        "hex-chord-string": "001C86C0000000000000000000000000",
+        "phrase": "6C6561726E",
+        "human-chord": [
+            "l",
+            "r"
+        ],
+        "human-phrase": "learn"
+    },
+    {
+        "hex-chord-string": "001DC6C1A46800000000000000000000",
+        "phrase": "7768696C65",
+        "human-chord": [
+            "h",
+            "i",
+            "l",
+            "w"
+        ],
+        "human-phrase": "while"
+    },
+    {
+        "hex-chord-string": "00860731B46C18400000000000000000",
+        "phrase": "736D616C6C",
+        "human-chord": [
+            "a",
+            "l",
+            "m",
+            "s",
+            "DUP"
+        ],
+        "human-phrase": "small"
+    },
+    {
+        "hex-chord-string": "001E4751D0721BC6E18C000000000000",
+        "phrase": "636F756E747279",
+        "human-chord": [
+            "c",
+            "n",
+            "o",
+            "r",
+            "t",
+            "u",
+            "y"
+        ],
+        "human-phrase": "country"
+    },
+    {
+        "hex-chord-string": "00860741BC6B00000000000000000000",
+        "phrase": "746F6F6B",
+        "human-chord": [
+            "k",
+            "o",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "took"
+    },
+    {
+        "hex-chord-string": "001B86109C0000000000000000000000",
+        "phrase": "616E79",
+        "human-chord": [
+            "'",
+            "a",
+            "n"
+        ],
+        "human-phrase": "any"
+    },
+    {
+        "hex-chord-string": "001B46C1A46500000000000000000000",
+        "phrase": "6D696C65",
+        "human-chord": [
+            "e",
+            "i",
+            "l",
+            "m"
+        ],
+        "human-phrase": "mile"
+    },
+    {
+        "hex-chord-string": "001DC731840000000000000000000000",
+        "phrase": "736177",
+        "human-chord": [
+            "a",
+            "s",
+            "w"
+        ],
+        "human-phrase": "saw"
+    },
+    {
+        "hex-chord-string": "001D4731BC6C1A000000000000000000",
+        "phrase": "73686F756C64",
+        "human-chord": [
+            "h",
+            "l",
+            "o",
+            "s",
+            "u"
+        ],
+        "human-phrase": "should"
+    },
+    {
+        "hex-chord-string": "001E0741B86500000000000000000000",
+        "phrase": "6E657874",
+        "human-chord": [
+            "e",
+            "n",
+            "t",
+            "x"
+        ],
+        "human-phrase": "next"
+    },
+    {
+        "hex-chord-string": "001DC741B80000000000000000000000",
+        "phrase": "77656E74",
+        "human-chord": [
+            "n",
+            "t",
+            "w"
+        ],
+        "human-phrase": "went"
+    },
+    {
+        "hex-chord-string": "001B8631840000000000000000000000",
+        "phrase": "63616E",
+        "human-chord": [
+            "a",
+            "c",
+            "n"
+        ],
+        "human-phrase": "can"
+    },
+    {
+        "hex-chord-string": "001A4670000000000000000000000000",
+        "phrase": "67697665",
+        "human-chord": [
+            "g",
+            "i"
+        ],
+        "human-phrase": "give"
+    },
+    {
+        "hex-chord-string": "001CC691906100000000000000000000",
+        "phrase": "73616964",
+        "human-chord": [
+            "a",
+            "d",
+            "i",
+            "s"
+        ],
+        "human-phrase": "said"
+    },
+    {
+        "hex-chord-string": "001DC751D0691A000000000000000000",
+        "phrase": "776974686F7574",
+        "human-chord": [
+            "h",
+            "i",
+            "t",
+            "u",
+            "w"
+        ],
+        "human-phrase": "without"
+    },
+    {
+        "hex-chord-string": "001C06919C6500000000000000000000",
+        "phrase": "67697665",
+        "human-chord": [
+            "e",
+            "g",
+            "i",
+            "p"
+        ],
+        "human-phrase": "give"
+    },
+    {
+        "hex-chord-string": "00860751D06F1B86D000000000000000",
+        "phrase": "6D6F756E7461696E",
+        "human-chord": [
+            "m",
+            "n",
+            "o",
+            "t",
+            "u",
+            "DUP"
+        ],
+        "human-phrase": "mountain"
+    },
+    {
+        "hex-chord-string": "001DC741C86518400000000000000000",
+        "phrase": "7761746572",
+        "human-chord": [
+            "a",
+            "e",
+            "r",
+            "t",
+            "w"
+        ],
+        "human-phrase": "water"
+    },
+    {
+        "hex-chord-string": "001DC741B86500000000000000000000",
+        "phrase": "77656E74",
+        "human-chord": [
+            "e",
+            "n",
+            "t",
+            "w"
+        ],
+        "human-phrase": "went"
+    },
+    {
+        "hex-chord-string": "001B86818C6100000000000000000000",
+        "phrase": "6368616E6765",
+        "human-chord": [
+            "a",
+            "c",
+            "h",
+            "n"
+        ],
+        "human-phrase": "change"
+    },
+    {
+        "hex-chord-string": "001D86F1946218400000000000000000",
+        "phrase": "61626F7665",
+        "human-chord": [
+            "a",
+            "b",
+            "e",
+            "o",
+            "v"
+        ],
+        "human-phrase": "above"
+    },
+    {
+        "hex-chord-string": "001DC741BC0000000000000000000000",
+        "phrase": "74776F",
+        "human-chord": [
+            "o",
+            "t",
+            "w"
+        ],
+        "human-phrase": "two"
+    },
+    {
+        "hex-chord-string": "001DC650000000000000000000000000",
+        "phrase": "7765",
+        "human-chord": [
+            "e",
+            "w"
+        ],
+        "human-phrase": "we"
+    },
+    {
+        "hex-chord-string": "001DC6C1A46819400000000000000000",
+        "phrase": "7768696C65",
+        "human-chord": [
+            "e",
+            "h",
+            "i",
+            "l",
+            "w"
+        ],
+        "human-phrase": "while"
+    },
+    {
+        "hex-chord-string": "001A4671940000000000000000000000",
+        "phrase": "67697665",
+        "human-chord": [
+            "e",
+            "g",
+            "i"
+        ],
+        "human-phrase": "give"
+    },
+    {
+        "hex-chord-string": "001B8681840000000000000000000000",
+        "phrase": "68616E64",
+        "human-chord": [
+            "a",
+            "h",
+            "n"
+        ],
+        "human-phrase": "hand"
+    },
+    {
+        "hex-chord-string": "001C06C18C6100000000000000000000",
+        "phrase": "706C616365",
+        "human-chord": [
+            "a",
+            "c",
+            "l",
+            "p"
+        ],
+        "human-phrase": "place"
+    },
+    {
+        "hex-chord-string": "001D4741880000000000000000000000",
+        "phrase": "627574",
+        "human-chord": [
+            "b",
+            "t",
+            "u"
+        ],
+        "human-phrase": "but"
+    },
+    {
+        "hex-chord-string": "001C8610000000000000000000000000",
+        "phrase": "617265",
+        "human-chord": [
+            "a",
+            "r"
+        ],
+        "human-phrase": "are"
+    },
+    {
+        "hex-chord-string": "0053C6E0000000000000000000000000",
+        "phrase": "014F014F014F014F014F",
+        "human-chord": [
+            "n",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "00860791C86C18400000000000000000",
+        "phrase": "7265616C6C79",
+        "human-chord": [
+            "a",
+            "l",
+            "r",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "really"
+    },
+    {
+        "hex-chord-string": "001DC6F1B06600000000000000000000",
+        "phrase": "666F6C6C6F77",
+        "human-chord": [
+            "f",
+            "l",
+            "o",
+            "w"
+        ],
+        "human-phrase": "follow"
+    },
+    {
+        "hex-chord-string": "001DC741A06100000000000000000000",
+        "phrase": "7761746368",
+        "human-chord": [
+            "a",
+            "h",
+            "t",
+            "w"
+        ],
+        "human-phrase": "watch"
+    },
+    {
+        "hex-chord-string": "001CC6F1B86700000000000000000000",
+        "phrase": "736F6E67",
+        "human-chord": [
+            "g",
+            "n",
+            "o",
+            "s"
+        ],
+        "human-phrase": "song"
+    },
+    {
+        "hex-chord-string": "001E4750000000000000000000000000",
+        "phrase": "796F75",
+        "human-chord": [
+            "u",
+            "y"
+        ],
+        "human-phrase": "you"
+    },
+    {
+        "hex-chord-string": "0053C200000000000000000000000000",
+        "phrase": "014F014F014F",
+        "human-chord": [
+            "SPACE",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001C8691A06700000000000000000000",
+        "phrase": "7269676874",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "r"
+        ],
+        "human-phrase": "right"
+    },
+    {
+        "hex-chord-string": "001DC6F1B86B00000000000000000000",
+        "phrase": "6B6E6F77",
+        "human-chord": [
+            "k",
+            "n",
+            "o",
+            "w"
+        ],
+        "human-phrase": "know"
+    },
+    {
+        "hex-chord-string": "00860741CC7218400000000000000000",
+        "phrase": "7374617274",
+        "human-chord": [
+            "a",
+            "r",
+            "s",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "start"
+    },
+    {
+        "hex-chord-string": "001D0721A46800000000000000000000",
+        "phrase": "7468656972",
+        "human-chord": [
+            "h",
+            "i",
+            "r",
+            "t"
+        ],
+        "human-phrase": "their"
+    },
+    {
+        "hex-chord-string": "001D0721B00000000000000000000000",
+        "phrase": "6C6574746572",
+        "human-chord": [
+            "l",
+            "r",
+            "t"
+        ],
+        "human-phrase": "letter"
+    },
+    {
+        "hex-chord-string": "001D0731B06100000000000000000000",
+        "phrase": "6C617374",
+        "human-chord": [
+            "a",
+            "l",
+            "s",
+            "t"
+        ],
+        "human-phrase": "last"
+    },
+    {
+        "hex-chord-string": "0053C6C0000000000000000000000000",
+        "phrase": "014F014F014F014F",
+        "human-chord": [
+            "l",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001CC6F1B40000000000000000000000",
+        "phrase": "736F6D65",
+        "human-chord": [
+            "m",
+            "o",
+            "s"
+        ],
+        "human-phrase": "some"
+    },
+    {
+        "hex-chord-string": "001E46E1B46100000000000000000000",
+        "phrase": "6D616E79",
+        "human-chord": [
+            "a",
+            "m",
+            "n",
+            "y"
+        ],
+        "human-phrase": "many"
+    },
+    {
+        "hex-chord-string": "001D0731B86518C00000000000000000",
+        "phrase": "73656E74656E6365",
+        "human-chord": [
+            "c",
+            "e",
+            "n",
+            "s",
+            "t"
+        ],
+        "human-phrase": "sentence"
+    },
+    {
+        "hex-chord-string": "001B4691A00000000000000000000000",
+        "phrase": "68696D",
+        "human-chord": [
+            "h",
+            "i",
+            "m"
+        ],
+        "human-phrase": "him"
+    },
+    {
+        "hex-chord-string": "001D86F1B40000000000000000000000",
+        "phrase": "6D6F7665",
+        "human-chord": [
+            "m",
+            "o",
+            "v"
+        ],
+        "human-phrase": "move"
+    },
+    {
+        "hex-chord-string": "001D06F1B86409C00000000000000000",
+        "phrase": "646F6E2774",
+        "human-chord": [
+            "'",
+            "d",
+            "n",
+            "o",
+            "t"
+        ],
+        "human-phrase": "don't"
+    },
+    {
+        "hex-chord-string": "001B4650000000000000000000000000",
+        "phrase": "6D65",
+        "human-chord": [
+            "e",
+            "m"
+        ],
+        "human-phrase": "me"
+    },
+    {
+        "hex-chord-string": "00540680000000000000000000000000",
+        "phrase": "015001500150015001500150015001500150",
+        "human-chord": [
+            "h",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001E47218C6100000000000000000000",
+        "phrase": "6361727279",
+        "human-chord": [
+            "a",
+            "c",
+            "r",
+            "y"
+        ],
+        "human-phrase": "carry"
+    },
+    {
+        "hex-chord-string": "001C46B0000000000000000000000000",
+        "phrase": "717569636B",
+        "human-chord": [
+            "k",
+            "q"
+        ],
+        "human-phrase": "quick"
+    },
+    {
+        "hex-chord-string": "001B86D1840000000000000000000000",
+        "phrase": "6D616E",
+        "human-chord": [
+            "a",
+            "m",
+            "n"
+        ],
+        "human-phrase": "man"
+    },
+    {
+        "hex-chord-string": "001AC621840000000000000000000000",
+        "phrase": "6261636B",
+        "human-chord": [
+            "a",
+            "b",
+            "k"
+        ],
+        "human-phrase": "back"
+    },
+    {
+        "hex-chord-string": "0053C6D0000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F014F014F014F",
+        "human-chord": [
+            "m",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001D46A0000000000000000000000000",
+        "phrase": "6A757374",
+        "human-chord": [
+            "j",
+            "u"
+        ],
+        "human-phrase": "just"
+    },
+    {
+        "hex-chord-string": "001A4671880000000000000000000000",
+        "phrase": "626967",
+        "human-chord": [
+            "b",
+            "g",
+            "i"
+        ],
+        "human-phrase": "big"
+    },
+    {
+        "hex-chord-string": "001B0670000000000000000000000000",
+        "phrase": "6C6F6E67",
+        "human-chord": [
+            "g",
+            "l"
+        ],
+        "human-phrase": "long"
+    },
+    {
+        "hex-chord-string": "001A4661900000000000000000000000",
+        "phrase": "646966666572656E74",
+        "human-chord": [
+            "d",
+            "f",
+            "i"
+        ],
+        "human-phrase": "different"
+    },
+    {
+        "hex-chord-string": "001D4721BC6600000000000000000000",
+        "phrase": "666F7572",
+        "human-chord": [
+            "f",
+            "o",
+            "r",
+            "u"
+        ],
+        "human-phrase": "four"
+    },
+    {
+        "hex-chord-string": "001D06D1A46800000000000000000000",
+        "phrase": "6D69676874",
+        "human-chord": [
+            "h",
+            "i",
+            "m",
+            "t"
+        ],
+        "human-phrase": "might"
+    },
+    {
+        "hex-chord-string": "001C8680000000000000000000000000",
+        "phrase": "686572",
+        "human-chord": [
+            "h",
+            "r"
+        ],
+        "human-phrase": "her"
+    },
+    {
+        "hex-chord-string": "005402E0000000000000000000000000",
+        "phrase": "015001500150015001500150",
+        "human-chord": [
+            ".",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001C86F1B40000000000000000000000",
+        "phrase": "6D6F7265",
+        "human-chord": [
+            "m",
+            "o",
+            "r"
+        ],
+        "human-phrase": "more"
+    },
+    {
+        "hex-chord-string": "001C86C19C6518400000000000000000",
+        "phrase": "6C61726765",
+        "human-chord": [
+            "a",
+            "e",
+            "g",
+            "l",
+            "r"
+        ],
+        "human-phrase": "large"
+    },
+    {
+        "hex-chord-string": "001D06E1A40000000000000000000000",
+        "phrase": "696E746F",
+        "human-chord": [
+            "i",
+            "n",
+            "t"
+        ],
+        "human-phrase": "into"
+    },
+    {
+        "hex-chord-string": "001B86D1940000000000000000000000",
+        "phrase": "6D656E",
+        "human-chord": [
+            "e",
+            "m",
+            "n"
+        ],
+        "human-phrase": "men"
+    },
+    {
+        "hex-chord-string": "001D86C1946100000000000000000000",
+        "phrase": "6C65617665",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "v"
+        ],
+        "human-phrase": "leave"
+    },
+    {
+        "hex-chord-string": "001DC721A00000000000000000000000",
+        "phrase": "7768657265",
+        "human-chord": [
+            "h",
+            "r",
+            "w"
+        ],
+        "human-phrase": "where"
+    },
+    {
+        "hex-chord-string": "005406C0000000000000000000000000",
+        "phrase": "0150015001500150",
+        "human-chord": [
+            "l",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001B86C1A46500000000000000000000",
+        "phrase": "6C696E65",
+        "human-chord": [
+            "e",
+            "i",
+            "l",
+            "n"
+        ],
+        "human-phrase": "line"
+    },
+    {
+        "hex-chord-string": "001BC6618C0000000000000000000000",
+        "phrase": "666F6F64",
+        "human-chord": [
+            "c",
+            "f",
+            "o"
+        ],
+        "human-phrase": "food"
+    },
+    {
+        "hex-chord-string": "001BC6C19C6100000000000000000000",
+        "phrase": "616C6F6E67",
+        "human-chord": [
+            "a",
+            "g",
+            "l",
+            "o"
+        ],
+        "human-phrase": "along"
+    },
+    {
+        "hex-chord-string": "00860731B46500000000000000000000",
+        "phrase": "7365656D",
+        "human-chord": [
+            "e",
+            "m",
+            "s",
+            "DUP"
+        ],
+        "human-phrase": "seem"
+    },
+    {
+        "hex-chord-string": "001C06F1940000000000000000000000",
+        "phrase": "6F70656E",
+        "human-chord": [
+            "e",
+            "o",
+            "p"
+        ],
+        "human-phrase": "open"
+    },
+    {
+        "hex-chord-string": "001C8681946100000000000000000000",
+        "phrase": "68656172",
+        "human-chord": [
+            "a",
+            "e",
+            "h",
+            "r"
+        ],
+        "human-phrase": "hear"
+    },
+    {
+        "hex-chord-string": "001D4741C86F1B863000000000000000",
+        "phrase": "636F756E747279",
+        "human-chord": [
+            "c",
+            "n",
+            "o",
+            "r",
+            "t",
+            "u"
+        ],
+        "human-phrase": "country"
+    },
+    {
+        "hex-chord-string": "001BC660000000000000000000000000",
+        "phrase": "6F66",
+        "human-chord": [
+            "f",
+            "o"
+        ],
+        "human-phrase": "of"
+    },
+    {
+        "hex-chord-string": "001DC721BC6B00000000000000000000",
+        "phrase": "776F726B",
+        "human-chord": [
+            "k",
+            "o",
+            "r",
+            "w"
+        ],
+        "human-phrase": "work"
+    },
+    {
+        "hex-chord-string": "001CC6518C0000000000000000000000",
+        "phrase": "7365636F6E64",
+        "human-chord": [
+            "c",
+            "e",
+            "s"
+        ],
+        "human-phrase": "second"
+    },
+    {
+        "hex-chord-string": "001DC741A46819400000000000000000",
+        "phrase": "7768697465",
+        "human-chord": [
+            "e",
+            "h",
+            "i",
+            "t",
+            "w"
+        ],
+        "human-phrase": "white"
+    },
+    {
+        "hex-chord-string": "001C06C1840000000000000000000000",
+        "phrase": "706C616E74",
+        "human-chord": [
+            "a",
+            "l",
+            "p"
+        ],
+        "human-phrase": "plant"
+    },
+    {
+        "hex-chord-string": "000FC2D0000000000000000000000000",
+        "phrase": "7175657374696F6E",
+        "human-chord": [
+            "-",
+            "?"
+        ],
+        "human-phrase": "question"
+    },
+    {
+        "hex-chord-string": "001FC6F0000000000000000000000000",
+        "phrase": "7F7F7F7F7F",
+        "human-chord": [
+            "o",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D0721BC6D1A065000000000000000",
+        "phrase": "6D6F74686572",
+        "human-chord": [
+            "e",
+            "h",
+            "m",
+            "o",
+            "r",
+            "t"
+        ],
+        "human-phrase": "mother"
+    },
+    {
+        "hex-chord-string": "001E0701B46C19461000000000000000",
+        "phrase": "6578616D706C65",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "m",
+            "p",
+            "x"
+        ],
+        "human-phrase": "example"
+    },
+    {
+        "hex-chord-string": "001CC6F1B06518C00000000000000000",
+        "phrase": "636C6F7365",
+        "human-chord": [
+            "c",
+            "e",
+            "l",
+            "o",
+            "s"
+        ],
+        "human-phrase": "close"
+    },
+    {
+        "hex-chord-string": "001DC6F1A00000000000000000000000",
+        "phrase": "686F77",
+        "human-chord": [
+            "h",
+            "o",
+            "w"
+        ],
+        "human-phrase": "how"
+    },
+    {
+        "hex-chord-string": "004A8740000000000000000000000000",
+        "phrase": "012A012A",
+        "human-chord": [
+            "t",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001DC741C80000000000000000000000",
+        "phrase": "7761746572",
+        "human-chord": [
+            "r",
+            "t",
+            "w"
+        ],
+        "human-phrase": "water"
+    },
+    {
+        "hex-chord-string": "001CC6F0000000000000000000000000",
+        "phrase": "736F",
+        "human-chord": [
+            "o",
+            "s"
+        ],
+        "human-phrase": "so"
+    },
+    {
+        "hex-chord-string": "001E4761C86500000000000000000000",
+        "phrase": "76657279",
+        "human-chord": [
+            "e",
+            "r",
+            "v",
+            "y"
+        ],
+        "human-phrase": "very"
+    },
+    {
+        "hex-chord-string": "001E4771A00000000000000000000000",
+        "phrase": "776879",
+        "human-chord": [
+            "h",
+            "w",
+            "y"
+        ],
+        "human-phrase": "why"
+    },
+    {
+        "hex-chord-string": "001C8701946100000000000000000000",
+        "phrase": "7061706572",
+        "human-chord": [
+            "a",
+            "e",
+            "p",
+            "r"
+        ],
+        "human-phrase": "paper"
+    },
+    {
+        "hex-chord-string": "001BC661900000000000000000000000",
+        "phrase": "666F6F64",
+        "human-chord": [
+            "d",
+            "f",
+            "o"
+        ],
+        "human-phrase": "food"
+    },
+    {
+        "hex-chord-string": "001C0670000000000000000000000000",
+        "phrase": "70616765",
+        "human-chord": [
+            "g",
+            "p"
+        ],
+        "human-phrase": "page"
+    },
+    {
+        "hex-chord-string": "001BC6E1940000000000000000000000",
+        "phrase": "6F6E65",
+        "human-chord": [
+            "e",
+            "n",
+            "o"
+        ],
+        "human-phrase": "one"
+    },
+    {
+        "hex-chord-string": "001D06C1AC0000000000000000000000",
+        "phrase": "74616C6B",
+        "human-chord": [
+            "k",
+            "l",
+            "t"
+        ],
+        "human-phrase": "talk"
+    },
+    {
+        "hex-chord-string": "001D0721B06518400000000000000000",
+        "phrase": "6C61746572",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "r",
+            "t"
+        ],
+        "human-phrase": "later"
+    },
+    {
+        "hex-chord-string": "001FC2E0000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F",
+        "human-chord": [
+            ".",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D8721BC6500000000000000000000",
+        "phrase": "6F766572",
+        "human-chord": [
+            "e",
+            "o",
+            "r",
+            "v"
+        ],
+        "human-phrase": "over"
+    },
+    {
+        "hex-chord-string": "00860771B06900000000000000000000",
+        "phrase": "77696C6C",
+        "human-chord": [
+            "i",
+            "l",
+            "w",
+            "DUP"
+        ],
+        "human-phrase": "will"
+    },
+    {
+        "hex-chord-string": "001C86F1B86818400000000000000000",
+        "phrase": "616E6F74686572",
+        "human-chord": [
+            "a",
+            "h",
+            "n",
+            "o",
+            "r"
+        ],
+        "human-phrase": "another"
+    },
+    {
+        "hex-chord-string": "001D06F1880000000000000000000000",
+        "phrase": "626F7468",
+        "human-chord": [
+            "b",
+            "o",
+            "t"
+        ],
+        "human-phrase": "both"
+    },
+    {
+        "hex-chord-string": "004A86A0000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A",
+        "human-chord": [
+            "j",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001CC6D1840000000000000000000000",
+        "phrase": "736D616C6C",
+        "human-chord": [
+            "a",
+            "m",
+            "s"
+        ],
+        "human-phrase": "small"
+    },
+    {
+        "hex-chord-string": "001BC6C0000000000000000000000000",
+        "phrase": "6C696E65",
+        "human-chord": [
+            "l",
+            "o"
+        ],
+        "human-phrase": "line"
+    },
+    {
+        "hex-chord-string": "0053C6F0000000000000000000000000",
+        "phrase": "014F014F014F014F014F",
+        "human-chord": [
+            "o",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001BC6518C0000000000000000000000",
+        "phrase": "636F6D65",
+        "human-chord": [
+            "c",
+            "e",
+            "o"
+        ],
+        "human-phrase": "come"
+    },
+    {
+        "hex-chord-string": "001D06F0000000000000000000000000",
+        "phrase": "746F",
+        "human-chord": [
+            "o",
+            "t"
+        ],
+        "human-phrase": "to"
+    },
+    {
+        "hex-chord-string": "001D4721BC6100000000000000000000",
+        "phrase": "61726F756E64",
+        "human-chord": [
+            "a",
+            "o",
+            "r",
+            "u"
+        ],
+        "human-phrase": "around"
+    },
+    {
+        "hex-chord-string": "008807F0000000000000000000000000",
+        "phrase": "7F7F7F",
+        "human-chord": [
+            "DEL",
+            "SPACERIGHT"
+        ],
+        "human-phrase": " DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "00540740000000000000000000000000",
+        "phrase": "01500150",
+        "human-chord": [
+            "t",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001DC720000000000000000000000000",
+        "phrase": "77657265",
+        "human-chord": [
+            "r",
+            "w"
+        ],
+        "human-phrase": "were"
+    },
+    {
+        "hex-chord-string": "001A46819C0000000000000000000000",
+        "phrase": "68696768",
+        "human-chord": [
+            "g",
+            "h",
+            "i"
+        ],
+        "human-phrase": "high"
+    },
+    {
+        "hex-chord-string": "001E4641840000000000000000000000",
+        "phrase": "646179",
+        "human-chord": [
+            "a",
+            "d",
+            "y"
+        ],
+        "human-phrase": "day"
+    },
+    {
+        "hex-chord-string": "00194620000000000000000000000000",
+        "phrase": "6265",
+        "human-chord": [
+            "b",
+            "e"
+        ],
+        "human-phrase": "be"
+    },
+    {
+        "hex-chord-string": "0053C650000000000000000000000000",
+        "phrase": "014F014F",
+        "human-chord": [
+            "e",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001D86F1886100000000000000000000",
+        "phrase": "61626F7665",
+        "human-chord": [
+            "a",
+            "b",
+            "o",
+            "v"
+        ],
+        "human-phrase": "above"
+    },
+    {
+        "hex-chord-string": "001C06F1B06500000000000000000000",
+        "phrase": "70656F706C65",
+        "human-chord": [
+            "e",
+            "l",
+            "o",
+            "p"
+        ],
+        "human-phrase": "people"
+    },
+    {
+        "hex-chord-string": "001E4761C80000000000000000000000",
+        "phrase": "76657279",
+        "human-chord": [
+            "r",
+            "v",
+            "y"
+        ],
+        "human-phrase": "very"
+    },
+    {
+        "hex-chord-string": "001D06D1A46500000000000000000000",
+        "phrase": "74696D65",
+        "human-chord": [
+            "e",
+            "i",
+            "m",
+            "t"
+        ],
+        "human-phrase": "time"
+    },
+    {
+        "hex-chord-string": "001D0681840000000000000000000000",
+        "phrase": "74686174",
+        "human-chord": [
+            "a",
+            "h",
+            "t"
+        ],
+        "human-phrase": "that"
+    },
+    {
+        "hex-chord-string": "001B86D1A46100000000000000000000",
+        "phrase": "616E696D616C",
+        "human-chord": [
+            "a",
+            "i",
+            "m",
+            "n"
+        ],
+        "human-phrase": "animal"
+    },
+    {
+        "hex-chord-string": "001D46F1886100000000000000000000",
+        "phrase": "61626F7574",
+        "human-chord": [
+            "a",
+            "b",
+            "o",
+            "u"
+        ],
+        "human-phrase": "about"
+    },
+    {
+        "hex-chord-string": "001D0721BC6819C65000000000000000",
+        "phrase": "746F676574686572",
+        "human-chord": [
+            "e",
+            "g",
+            "h",
+            "o",
+            "r",
+            "t"
+        ],
+        "human-phrase": "together"
+    },
+    {
+        "hex-chord-string": "001D8721A40000000000000000000000",
+        "phrase": "7269766572",
+        "human-chord": [
+            "i",
+            "r",
+            "v"
+        ],
+        "human-phrase": "river"
+    },
+    {
+        "hex-chord-string": "00860731BC6E00000000000000000000",
+        "phrase": "736F6F6E",
+        "human-chord": [
+            "n",
+            "o",
+            "s",
+            "DUP"
+        ],
+        "human-phrase": "soon"
+    },
+    {
+        "hex-chord-string": "00860741C86C00000000000000000000",
+        "phrase": "6C6574746572",
+        "human-chord": [
+            "l",
+            "r",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "letter"
+    },
+    {
+        "hex-chord-string": "001DC741A00000000000000000000000",
+        "phrase": "7761746572",
+        "human-chord": [
+            "h",
+            "t",
+            "w"
+        ],
+        "human-phrase": "water"
+    },
+    {
+        "hex-chord-string": "001D06C1A46819C00000000000000000",
+        "phrase": "6C69676874",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "l",
+            "t"
+        ],
+        "human-phrase": "light"
+    },
+    {
+        "hex-chord-string": "001C8681940000000000000000000000",
+        "phrase": "686572",
+        "human-chord": [
+            "e",
+            "h",
+            "r"
+        ],
+        "human-phrase": "her"
+    },
+    {
+        "hex-chord-string": "001D06C1AC6100000000000000000000",
+        "phrase": "74616C6B",
+        "human-chord": [
+            "a",
+            "k",
+            "l",
+            "t"
+        ],
+        "human-phrase": "talk"
+    },
+    {
+        "hex-chord-string": "001D86F1940000000000000000000000",
+        "phrase": "6F766572",
+        "human-chord": [
+            "e",
+            "o",
+            "v"
+        ],
+        "human-phrase": "over"
+    },
+    {
+        "hex-chord-string": "001B0691A06700000000000000000000",
+        "phrase": "6C69676874",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "l"
+        ],
+        "human-phrase": "light"
+    },
+    {
+        "hex-chord-string": "001CC6F1B06818C00000000000000000",
+        "phrase": "7363686F6F6C",
+        "human-chord": [
+            "c",
+            "h",
+            "l",
+            "o",
+            "s"
+        ],
+        "human-phrase": "school"
+    },
+    {
+        "hex-chord-string": "008606F1B06819400000000000000000",
+        "phrase": "68656C6C6F",
+        "human-chord": [
+            "e",
+            "h",
+            "l",
+            "o",
+            "DUP"
+        ],
+        "human-phrase": "hello"
+    },
+    {
+        "hex-chord-string": "001E4771840000000000000000000000",
+        "phrase": "776179",
+        "human-chord": [
+            "a",
+            "w",
+            "y"
+        ],
+        "human-phrase": "way"
+    },
+    {
+        "hex-chord-string": "001D06E1A46819C00000000000000000",
+        "phrase": "7468696E67",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "n",
+            "t"
+        ],
+        "human-phrase": "thing"
+    },
+    {
+        "hex-chord-string": "00860731B46900000000000000000000",
+        "phrase": "6D697373",
+        "human-chord": [
+            "i",
+            "m",
+            "s",
+            "DUP"
+        ],
+        "human-phrase": "miss"
+    },
+    {
+        "hex-chord-string": "001B8691986400000000000000000000",
+        "phrase": "66696E64",
+        "human-chord": [
+            "d",
+            "f",
+            "i",
+            "n"
+        ],
+        "human-phrase": "find"
+    },
+    {
+        "hex-chord-string": "004A8650000000000000000000000000",
+        "phrase": "012A012A",
+        "human-chord": [
+            "e",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001D0721940000000000000000000000",
+        "phrase": "74726565",
+        "human-chord": [
+            "e",
+            "r",
+            "t"
+        ],
+        "human-phrase": "tree"
+    },
+    {
+        "hex-chord-string": "001C8691840000000000000000000000",
+        "phrase": "616972",
+        "human-chord": [
+            "a",
+            "i",
+            "r"
+        ],
+        "human-phrase": "air"
+    },
+    {
+        "hex-chord-string": "001DC6E1A06500000000000000000000",
+        "phrase": "7768656E",
+        "human-chord": [
+            "e",
+            "h",
+            "n",
+            "w"
+        ],
+        "human-phrase": "when"
+    },
+    {
+        "hex-chord-string": "001A0671940000000000000000000000",
+        "phrase": "68657265",
+        "human-chord": [
+            "e",
+            "g",
+            "h"
+        ],
+        "human-phrase": "here"
+    },
+    {
+        "hex-chord-string": "001BC6D1940000000000000000000000",
+        "phrase": "6D6F7665",
+        "human-chord": [
+            "e",
+            "m",
+            "o"
+        ],
+        "human-phrase": "move"
+    },
+    {
+        "hex-chord-string": "001D86C1A46500000000000000000000",
+        "phrase": "6C697665",
+        "human-chord": [
+            "e",
+            "i",
+            "l",
+            "v"
+        ],
+        "human-phrase": "live"
+    },
+    {
+        "hex-chord-string": "001CC690000000000000000000000000",
+        "phrase": "6973",
+        "human-chord": [
+            "i",
+            "s"
+        ],
+        "human-phrase": "is"
+    },
+    {
+        "hex-chord-string": "001AC650000000000000000000000000",
+        "phrase": "6B656570",
+        "human-chord": [
+            "e",
+            "k"
+        ],
+        "human-phrase": "keep"
+    },
+    {
+        "hex-chord-string": "001D06E1A06500000000000000000000",
+        "phrase": "7468656E",
+        "human-chord": [
+            "e",
+            "h",
+            "n",
+            "t"
+        ],
+        "human-phrase": "then"
+    },
+    {
+        "hex-chord-string": "001E4720000000000000000000000000",
+        "phrase": "79656172",
+        "human-chord": [
+            "r",
+            "y"
+        ],
+        "human-phrase": "year"
+    },
+    {
+        "hex-chord-string": "001D4721BC0000000000000000000000",
+        "phrase": "6F7572",
+        "human-chord": [
+            "o",
+            "r",
+            "u"
+        ],
+        "human-phrase": "our"
+    },
+    {
+        "hex-chord-string": "001D0731BC0000000000000000000000",
+        "phrase": "73746F70",
+        "human-chord": [
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "stop"
+    },
+    {
+        "hex-chord-string": "001B86D1946100000000000000000000",
+        "phrase": "6D65616E",
+        "human-chord": [
+            "a",
+            "e",
+            "m",
+            "n"
+        ],
+        "human-phrase": "mean"
+    },
+    {
+        "hex-chord-string": "00194631840000000000000000000000",
+        "phrase": "63616D65",
+        "human-chord": [
+            "a",
+            "c",
+            "e"
+        ],
+        "human-phrase": "came"
+    },
+    {
+        "hex-chord-string": "001E46F1B00000000000000000000000",
+        "phrase": "6F6E6C79",
+        "human-chord": [
+            "l",
+            "o",
+            "y"
+        ],
+        "human-phrase": "only"
+    },
+    {
+        "hex-chord-string": "001BC6E1946300000000000000000000",
+        "phrase": "6F6E6365",
+        "human-chord": [
+            "c",
+            "e",
+            "n",
+            "o"
+        ],
+        "human-phrase": "once"
+    },
+    {
+        "hex-chord-string": "001E0650000000000000000000000000",
+        "phrase": "6578616D706C65",
+        "human-chord": [
+            "e",
+            "x"
+        ],
+        "human-phrase": "example"
+    },
+    {
+        "hex-chord-string": "001B8610000000000000000000000000",
+        "phrase": "616E",
+        "human-chord": [
+            "a",
+            "n"
+        ],
+        "human-phrase": "an"
+    },
+    {
+        "hex-chord-string": "001C0651840000000000000000000000",
+        "phrase": "7061706572",
+        "human-chord": [
+            "a",
+            "e",
+            "p"
+        ],
+        "human-phrase": "paper"
+    },
+    {
+        "hex-chord-string": "001B46518C6100000000000000000000",
+        "phrase": "63616D65",
+        "human-chord": [
+            "a",
+            "c",
+            "e",
+            "m"
+        ],
+        "human-phrase": "came"
+    },
+    {
+        "hex-chord-string": "001D4741C86E00000000000000000000",
+        "phrase": "7475726E",
+        "human-chord": [
+            "n",
+            "r",
+            "t",
+            "u"
+        ],
+        "human-phrase": "turn"
+    },
+    {
+        "hex-chord-string": "004A8700000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A012A012A",
+        "human-chord": [
+            "p",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001FC660000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F7F",
+        "human-chord": [
+            "f",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001CC6F1B46C18400000000000000000",
+        "phrase": "616C6D6F7374",
+        "human-chord": [
+            "a",
+            "l",
+            "m",
+            "o",
+            "s"
+        ],
+        "human-phrase": "almost"
+    },
+    {
+        "hex-chord-string": "00860791940000000000000000000000",
+        "phrase": "657965",
+        "human-chord": [
+            "e",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "eye"
+    },
+    {
+        "hex-chord-string": "001E4620000000000000000000000000",
+        "phrase": "6279",
+        "human-chord": [
+            "b",
+            "y"
+        ],
+        "human-phrase": "by"
+    },
+    {
+        "hex-chord-string": "001BC6E0000000000000000000000000",
+        "phrase": "6F6E",
+        "human-chord": [
+            "n",
+            "o"
+        ],
+        "human-phrase": "on"
+    },
+    {
+        "hex-chord-string": "001D4731C46500000000000000000000",
+        "phrase": "7175657374696F6E",
+        "human-chord": [
+            "e",
+            "q",
+            "s",
+            "u"
+        ],
+        "human-phrase": "question"
+    },
+    {
+        "hex-chord-string": "001CC701B06500000000000000000000",
+        "phrase": "7370656C6C",
+        "human-chord": [
+            "e",
+            "l",
+            "p",
+            "s"
+        ],
+        "human-phrase": "spell"
+    },
+    {
+        "hex-chord-string": "001CC681840000000000000000000000",
+        "phrase": "686173",
+        "human-chord": [
+            "a",
+            "h",
+            "s"
+        ],
+        "human-phrase": "has"
+    },
+    {
+        "hex-chord-string": "001E4741CC721BC00000000000000000",
+        "phrase": "73746F7279",
+        "human-chord": [
+            "o",
+            "r",
+            "s",
+            "t",
+            "y"
+        ],
+        "human-phrase": "story"
+    },
+    {
+        "hex-chord-string": "001A4660000000000000000000000000",
+        "phrase": "6966",
+        "human-chord": [
+            "f",
+            "i"
+        ],
+        "human-phrase": "if"
+    },
+    {
+        "hex-chord-string": "001B4651840000000000000000000000",
+        "phrase": "6D616B65",
+        "human-chord": [
+            "a",
+            "e",
+            "m"
+        ],
+        "human-phrase": "make"
+    },
+    {
+        "hex-chord-string": "001C06C1A06500000000000000000000",
+        "phrase": "68656C70",
+        "human-chord": [
+            "e",
+            "h",
+            "l",
+            "p"
+        ],
+        "human-phrase": "help"
+    },
+    {
+        "hex-chord-string": "001D46F1B06418C00000000000000000",
+        "phrase": "636F756C64",
+        "human-chord": [
+            "c",
+            "d",
+            "l",
+            "o",
+            "u"
+        ],
+        "human-phrase": "could"
+    },
+    {
+        "hex-chord-string": "001D0721A06518400000000000000000",
+        "phrase": "6561727468",
+        "human-chord": [
+            "a",
+            "e",
+            "h",
+            "r",
+            "t"
+        ],
+        "human-phrase": "earth"
+    },
+    {
+        "hex-chord-string": "001CC6D1B06100000000000000000000",
+        "phrase": "736D616C6C",
+        "human-chord": [
+            "a",
+            "l",
+            "m",
+            "s"
+        ],
+        "human-phrase": "small"
+    },
+    {
+        "hex-chord-string": "00860650000000000000000000000000",
+        "phrase": "6561727468",
+        "human-chord": [
+            "e",
+            "DUP"
+        ],
+        "human-phrase": "earth"
+    },
+    {
+        "hex-chord-string": "001D0721C06E1B469000000000000000",
+        "phrase": "696D706F7274616E74",
+        "human-chord": [
+            "i",
+            "m",
+            "n",
+            "p",
+            "r",
+            "t"
+        ],
+        "human-phrase": "important"
+    },
+    {
+        "hex-chord-string": "00860761C86900000000000000000000",
+        "phrase": "7269766572",
+        "human-chord": [
+            "i",
+            "r",
+            "v",
+            "DUP"
+        ],
+        "human-phrase": "river"
+    },
+    {
+        "hex-chord-string": "001986518C6100000000000000000000",
+        "phrase": "66616365",
+        "human-chord": [
+            "a",
+            "c",
+            "e",
+            "f"
+        ],
+        "human-phrase": "face"
+    },
+    {
+        "hex-chord-string": "001D07219C6518400000000000000000",
+        "phrase": "6772656174",
+        "human-chord": [
+            "a",
+            "e",
+            "g",
+            "r",
+            "t"
+        ],
+        "human-phrase": "great"
+    },
+    {
+        "hex-chord-string": "001C8631840000000000000000000000",
+        "phrase": "636172",
+        "human-chord": [
+            "a",
+            "c",
+            "r"
+        ],
+        "human-phrase": "car"
+    },
+    {
+        "hex-chord-string": "00860741B06500000000000000000000",
+        "phrase": "74656C6C",
+        "human-chord": [
+            "e",
+            "l",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "tell"
+    },
+    {
+        "hex-chord-string": "001BC6E1B06700000000000000000000",
+        "phrase": "6C6F6E67",
+        "human-chord": [
+            "g",
+            "l",
+            "n",
+            "o"
+        ],
+        "human-phrase": "long"
+    },
+    {
+        "hex-chord-string": "00860791C86C19461000000000000000",
+        "phrase": "7265616C6C79",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "r",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "really"
+    },
+    {
+        "hex-chord-string": "001D4731BC6819400000000000000000",
+        "phrase": "686F757365",
+        "human-chord": [
+            "e",
+            "h",
+            "o",
+            "s",
+            "u"
+        ],
+        "human-phrase": "house"
+    },
+    {
+        "hex-chord-string": "00540760000000000000000000000000",
+        "phrase": "01500150015001500150015001500150",
+        "human-chord": [
+            "v",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001D06F1B86400000000000000000000",
+        "phrase": "646F6E2774",
+        "human-chord": [
+            "d",
+            "n",
+            "o",
+            "t"
+        ],
+        "human-phrase": "don't"
+    },
+    {
+        "hex-chord-string": "001D4730000000000000000000000000",
+        "phrase": "7573",
+        "human-chord": [
+            "s",
+            "u"
+        ],
+        "human-phrase": "us"
+    },
+    {
+        "hex-chord-string": "001D4741C00000000000000000000000",
+        "phrase": "707574",
+        "human-chord": [
+            "p",
+            "t",
+            "u"
+        ],
+        "human-phrase": "put"
+    },
+    {
+        "hex-chord-string": "001D0721A06619461000000000000000",
+        "phrase": "666174686572",
+        "human-chord": [
+            "a",
+            "e",
+            "f",
+            "h",
+            "r",
+            "t"
+        ],
+        "human-phrase": "father"
+    },
+    {
+        "hex-chord-string": "001DC751D0741BC691A0000000000000",
+        "phrase": "776974686F7574",
+        "human-chord": [
+            "h",
+            "i",
+            "o",
+            "t",
+            "t",
+            "u",
+            "w"
+        ],
+        "human-phrase": "without"
+    },
+    {
+        "hex-chord-string": "001A0650000000000000000000000000",
+        "phrase": "6865",
+        "human-chord": [
+            "e",
+            "h"
+        ],
+        "human-phrase": "he"
+    },
+    {
+        "hex-chord-string": "001D06F1A06500000000000000000000",
+        "phrase": "6F74686572",
+        "human-chord": [
+            "e",
+            "h",
+            "o",
+            "t"
+        ],
+        "human-phrase": "other"
+    },
+    {
+        "hex-chord-string": "001D4721B80000000000000000000000",
+        "phrase": "72756E",
+        "human-chord": [
+            "n",
+            "r",
+            "u"
+        ],
+        "human-phrase": "run"
+    },
+    {
+        "hex-chord-string": "001D06D1A40000000000000000000000",
+        "phrase": "74696D65",
+        "human-chord": [
+            "i",
+            "m",
+            "t"
+        ],
+        "human-phrase": "time"
+    },
+    {
+        "hex-chord-string": "001D86C1A40000000000000000000000",
+        "phrase": "6C697665",
+        "human-chord": [
+            "i",
+            "l",
+            "v"
+        ],
+        "human-phrase": "live"
+    },
+    {
+        "hex-chord-string": "001D06F1A06719400000000000000000",
+        "phrase": "746F676574686572",
+        "human-chord": [
+            "e",
+            "g",
+            "h",
+            "o",
+            "t"
+        ],
+        "human-phrase": "together"
+    },
+    {
+        "hex-chord-string": "001B8681906100000000000000000000",
+        "phrase": "68616E64",
+        "human-chord": [
+            "a",
+            "d",
+            "h",
+            "n"
+        ],
+        "human-phrase": "hand"
+    },
+    {
+        "hex-chord-string": "001DC751BC6C19000000000000000000",
+        "phrase": "776F756C64",
+        "human-chord": [
+            "d",
+            "l",
+            "o",
+            "u",
+            "w"
+        ],
+        "human-phrase": "would"
+    },
+    {
+        "hex-chord-string": "001C06E1B00000000000000000000000",
+        "phrase": "706C616E74",
+        "human-chord": [
+            "l",
+            "n",
+            "p"
+        ],
+        "human-phrase": "plant"
+    },
+    {
+        "hex-chord-string": "001C06C1946318400000000000000000",
+        "phrase": "706C616365",
+        "human-chord": [
+            "a",
+            "c",
+            "e",
+            "l",
+            "p"
+        ],
+        "human-phrase": "place"
+    },
+    {
+        "hex-chord-string": "001D0711A46500000000000000000000",
+        "phrase": "7175697465",
+        "human-chord": [
+            "e",
+            "i",
+            "q",
+            "t"
+        ],
+        "human-phrase": "quite"
+    },
+    {
+        "hex-chord-string": "00540690000000000000000000000000",
+        "phrase": "0150015001500150",
+        "human-chord": [
+            "i",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "0053C700000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F014F014F",
+        "human-chord": [
+            "p",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001BC6C1A06500000000000000000000",
+        "phrase": "68656C6C6F",
+        "human-chord": [
+            "e",
+            "h",
+            "l",
+            "o"
+        ],
+        "human-phrase": "hello"
+    },
+    {
+        "hex-chord-string": "001D06909C0000000000000000000000",
+        "phrase": "69742773",
+        "human-chord": [
+            "'",
+            "i",
+            "t"
+        ],
+        "human-phrase": "it's"
+    },
+    {
+        "hex-chord-string": "001B8650000000000000000000000000",
+        "phrase": "6E616D65",
+        "human-chord": [
+            "e",
+            "n"
+        ],
+        "human-phrase": "name"
+    },
+    {
+        "hex-chord-string": "001A4640000000000000000000000000",
+        "phrase": "646964",
+        "human-chord": [
+            "d",
+            "i"
+        ],
+        "human-phrase": "did"
+    },
+    {
+        "hex-chord-string": "001B0631840000000000000000000000",
+        "phrase": "63616C6C",
+        "human-chord": [
+            "a",
+            "c",
+            "l"
+        ],
+        "human-phrase": "call"
+    },
+    {
+        "hex-chord-string": "0053C740000000000000000000000000",
+        "phrase": "014F014F",
+        "human-chord": [
+            "t",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "00860630000000000000000000000000",
+        "phrase": "736561",
+        "human-chord": [
+            "c",
+            "DUP"
+        ],
+        "human-phrase": "sea"
+    },
+    {
+        "hex-chord-string": "001D0671940000000000000000000000",
+        "phrase": "676574",
+        "human-chord": [
+            "e",
+            "g",
+            "t"
+        ],
+        "human-phrase": "get"
+    },
+    {
+        "hex-chord-string": "001CC6D1940000000000000000000000",
+        "phrase": "7365656D",
+        "human-chord": [
+            "e",
+            "m",
+            "s"
+        ],
+        "human-phrase": "seem"
+    },
+    {
+        "hex-chord-string": "004A82E0000000000000000000000000",
+        "phrase": "012A012A012A012A012A012A",
+        "human-chord": [
+            ".",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP  BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001D06E1A00000000000000000000000",
+        "phrase": "7468616E",
+        "human-chord": [
+            "h",
+            "n",
+            "t"
+        ],
+        "human-phrase": "than"
+    },
+    {
+        "hex-chord-string": "005406B0000000000000000000000000",
+        "phrase": "0150015001500150015001500150",
+        "human-chord": [
+            "k",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001D0721986518400000000000000000",
+        "phrase": "6166746572",
+        "human-chord": [
+            "a",
+            "e",
+            "f",
+            "r",
+            "t"
+        ],
+        "human-phrase": "after"
+    },
+    {
+        "hex-chord-string": "001D4741B86C1A400000000000000000",
+        "phrase": "756E74696C",
+        "human-chord": [
+            "i",
+            "l",
+            "n",
+            "t",
+            "u"
+        ],
+        "human-phrase": "until"
+    },
+    {
+        "hex-chord-string": "001CC6D1946100000000000000000000",
+        "phrase": "73616D65",
+        "human-chord": [
+            "a",
+            "e",
+            "m",
+            "s"
+        ],
+        "human-phrase": "same"
+    },
+    {
+        "hex-chord-string": "001D4721C06F19C00000000000000000",
+        "phrase": "67726F7570",
+        "human-chord": [
+            "g",
+            "o",
+            "p",
+            "r",
+            "u"
+        ],
+        "human-phrase": "group"
+    },
+    {
+        "hex-chord-string": "001C06D1A40000000000000000000000",
+        "phrase": "696D706F7274616E74",
+        "human-chord": [
+            "i",
+            "m",
+            "p"
+        ],
+        "human-phrase": "important"
+    },
+    {
+        "hex-chord-string": "001DC6F1B06518800000000000000000",
+        "phrase": "62656C6F77",
+        "human-chord": [
+            "b",
+            "e",
+            "l",
+            "o",
+            "w"
+        ],
+        "human-phrase": "below"
+    },
+    {
+        "hex-chord-string": "001D0731C86919800000000000000000",
+        "phrase": "6669727374",
+        "human-chord": [
+            "f",
+            "i",
+            "r",
+            "s",
+            "t"
+        ],
+        "human-phrase": "first"
+    },
+    {
+        "hex-chord-string": "001E4751C46C1AC00000000000000000",
+        "phrase": "717569636B6C79",
+        "human-chord": [
+            "k",
+            "l",
+            "q",
+            "u",
+            "y"
+        ],
+        "human-phrase": "quickly"
+    },
+    {
+        "hex-chord-string": "001C86C1A46700000000000000000000",
+        "phrase": "6769726C",
+        "human-chord": [
+            "g",
+            "i",
+            "l",
+            "r"
+        ],
+        "human-phrase": "girl"
+    },
+    {
+        "hex-chord-string": "001FC650000000000000000000000000",
+        "phrase": "7F7F",
+        "human-chord": [
+            "e",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001A0641840000000000000000000000",
+        "phrase": "686164",
+        "human-chord": [
+            "a",
+            "d",
+            "h"
+        ],
+        "human-phrase": "had"
+    },
+    {
+        "hex-chord-string": "001D0670000000000000000000000000",
+        "phrase": "676574",
+        "human-chord": [
+            "g",
+            "t"
+        ],
+        "human-phrase": "get"
+    },
+    {
+        "hex-chord-string": "001D06B1946100000000000000000000",
+        "phrase": "74616B65",
+        "human-chord": [
+            "a",
+            "e",
+            "k",
+            "t"
+        ],
+        "human-phrase": "take"
+    },
+    {
+        "hex-chord-string": "001D4731946518C62184000000000000",
+        "phrase": "62656361757365",
+        "human-chord": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "e",
+            "s",
+            "u"
+        ],
+        "human-phrase": "because"
+    },
+    {
+        "hex-chord-string": "001E46D1B06919861000000000000000",
+        "phrase": "66616D696C79",
+        "human-chord": [
+            "a",
+            "f",
+            "i",
+            "l",
+            "m",
+            "y"
+        ],
+        "human-phrase": "family"
+    },
+    {
+        "hex-chord-string": "001D4741CC711BC6E1A4650000000000",
+        "phrase": "7175657374696F6E",
+        "human-chord": [
+            "e",
+            "i",
+            "n",
+            "o",
+            "q",
+            "s",
+            "t",
+            "u"
+        ],
+        "human-phrase": "question"
+    },
+    {
+        "hex-chord-string": "001C06C0000000000000000000000000",
+        "phrase": "70656F706C65",
+        "human-chord": [
+            "l",
+            "p"
+        ],
+        "human-phrase": "people"
+    },
+    {
+        "hex-chord-string": "001E46E1840000000000000000000000",
+        "phrase": "616E79",
+        "human-chord": [
+            "a",
+            "n",
+            "y"
+        ],
+        "human-phrase": "any"
+    },
+    {
+        "hex-chord-string": "008606E1A46718400000000000000000",
+        "phrase": "616761696E",
+        "human-chord": [
+            "a",
+            "g",
+            "i",
+            "n",
+            "DUP"
+        ],
+        "human-phrase": "again"
+    },
+    {
+        "hex-chord-string": "001FC6E0000000000000000000000000",
+        "phrase": "7F7F7F7F7F",
+        "human-chord": [
+            "n",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001C86E1946100000000000000000000",
+        "phrase": "6E656172",
+        "human-chord": [
+            "a",
+            "e",
+            "n",
+            "r"
+        ],
+        "human-phrase": "near"
+    },
+    {
+        "hex-chord-string": "001D4731BC6E00000000000000000000",
+        "phrase": "736F756E64",
+        "human-chord": [
+            "n",
+            "o",
+            "s",
+            "u"
+        ],
+        "human-phrase": "sound"
+    },
+    {
+        "hex-chord-string": "001E4751BC6E19C00000000000000000",
+        "phrase": "796F756E67",
+        "human-chord": [
+            "g",
+            "n",
+            "o",
+            "u",
+            "y"
+        ],
+        "human-phrase": "young"
+    },
+    {
+        "hex-chord-string": "001DC6C1AC6100000000000000000000",
+        "phrase": "77616C6B",
+        "human-chord": [
+            "a",
+            "k",
+            "l",
+            "w"
+        ],
+        "human-phrase": "walk"
+    },
+    {
+        "hex-chord-string": "008606E1B46918400000000000000000",
+        "phrase": "616E696D616C",
+        "human-chord": [
+            "a",
+            "i",
+            "m",
+            "n",
+            "DUP"
+        ],
+        "human-phrase": "animal"
+    },
+    {
+        "hex-chord-string": "001B86C0000000000000000000000000",
+        "phrase": "6C696E65",
+        "human-chord": [
+            "l",
+            "n"
+        ],
+        "human-phrase": "line"
+    },
+    {
+        "hex-chord-string": "001CC6D1A40000000000000000000000",
+        "phrase": "6D697373",
+        "human-chord": [
+            "i",
+            "m",
+            "s"
+        ],
+        "human-phrase": "miss"
+    },
+    {
+        "hex-chord-string": "001FC680000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F7F7F7F",
+        "human-chord": [
+            "h",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001B86919C6518800000000000000000",
+        "phrase": "626567696E",
+        "human-chord": [
+            "b",
+            "e",
+            "g",
+            "i",
+            "n"
+        ],
+        "human-phrase": "begin"
+    },
+    {
+        "hex-chord-string": "001DC741A46800000000000000000000",
+        "phrase": "77697468",
+        "human-chord": [
+            "h",
+            "i",
+            "t",
+            "w"
+        ],
+        "human-phrase": "with"
+    },
+    {
+        "hex-chord-string": "001D06F1AC0000000000000000000000",
+        "phrase": "746F6F6B",
+        "human-chord": [
+            "k",
+            "o",
+            "t"
+        ],
+        "human-phrase": "took"
+    },
+    {
+        "hex-chord-string": "001E4771B06100000000000000000000",
+        "phrase": "616C77617973",
+        "human-chord": [
+            "a",
+            "l",
+            "w",
+            "y"
+        ],
+        "human-phrase": "always"
+    },
+    {
+        "hex-chord-string": "008606F0000000000000000000000000",
+        "phrase": "6F6666",
+        "human-chord": [
+            "o",
+            "DUP"
+        ],
+        "human-phrase": "off"
+    },
+    {
+        "hex-chord-string": "001D0721B06500000000000000000000",
+        "phrase": "6C6574746572",
+        "human-chord": [
+            "e",
+            "l",
+            "r",
+            "t"
+        ],
+        "human-phrase": "letter"
+    },
+    {
+        "hex-chord-string": "001D0680000000000000000000000000",
+        "phrase": "74686174",
+        "human-chord": [
+            "h",
+            "t"
+        ],
+        "human-phrase": "that"
+    },
+    {
+        "hex-chord-string": "001B8690000000000000000000000000",
+        "phrase": "696E",
+        "human-chord": [
+            "i",
+            "n"
+        ],
+        "human-phrase": "in"
+    },
+    {
+        "hex-chord-string": "001D0721A46600000000000000000000",
+        "phrase": "646966666572656E74",
+        "human-chord": [
+            "f",
+            "i",
+            "r",
+            "t"
+        ],
+        "human-phrase": "different"
+    },
+    {
+        "hex-chord-string": "001D0731BC6D1A065000000000000000",
+        "phrase": "736F6D657468696E67",
+        "human-chord": [
+            "e",
+            "h",
+            "m",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "something"
+    },
+    {
+        "hex-chord-string": "001B86C1A40000000000000000000000",
+        "phrase": "6C696E65",
+        "human-chord": [
+            "i",
+            "l",
+            "n"
+        ],
+        "human-phrase": "line"
+    },
+    {
+        "hex-chord-string": "00860741940000000000000000000000",
+        "phrase": "656174",
+        "human-chord": [
+            "e",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "eat"
+    },
+    {
+        "hex-chord-string": "001D4731BC6800000000000000000000",
+        "phrase": "73686F756C64",
+        "human-chord": [
+            "h",
+            "o",
+            "s",
+            "u"
+        ],
+        "human-phrase": "should"
+    },
+    {
+        "hex-chord-string": "001CC6B1840000000000000000000000",
+        "phrase": "61736B",
+        "human-chord": [
+            "a",
+            "k",
+            "s"
+        ],
+        "human-phrase": "ask"
+    },
+    {
+        "hex-chord-string": "001D46C1840000000000000000000000",
+        "phrase": "6C617374",
+        "human-chord": [
+            "a",
+            "l",
+            "u"
+        ],
+        "human-phrase": "last"
+    },
+    {
+        "hex-chord-string": "001D06F1B80000000000000000000000",
+        "phrase": "6E6F74",
+        "human-chord": [
+            "n",
+            "o",
+            "t"
+        ],
+        "human-phrase": "not"
+    },
+    {
+        "hex-chord-string": "001D86F1B46500000000000000000000",
+        "phrase": "6D6F7665",
+        "human-chord": [
+            "e",
+            "m",
+            "o",
+            "v"
+        ],
+        "human-phrase": "move"
+    },
+    {
+        "hex-chord-string": "001D06C1A46500000000000000000000",
+        "phrase": "6C6974746C65",
+        "human-chord": [
+            "e",
+            "i",
+            "l",
+            "t"
+        ],
+        "human-phrase": "little"
+    },
+    {
+        "hex-chord-string": "001E4701B06100000000000000000000",
+        "phrase": "706C6179",
+        "human-chord": [
+            "a",
+            "l",
+            "p",
+            "y"
+        ],
+        "human-phrase": "play"
+    },
+    {
+        "hex-chord-string": "001DC741C86900000000000000000000",
+        "phrase": "7772697465",
+        "human-chord": [
+            "i",
+            "r",
+            "t",
+            "w"
+        ],
+        "human-phrase": "write"
+    },
+    {
+        "hex-chord-string": "001FC6C0000000000000000000000000",
+        "phrase": "7F7F7F7F",
+        "human-chord": [
+            "l",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D4741C86800000000000000000000",
+        "phrase": "7468726F756768",
+        "human-chord": [
+            "h",
+            "r",
+            "t",
+            "u"
+        ],
+        "human-phrase": "through"
+    },
+    {
+        "hex-chord-string": "00860721A06500000000000000000000",
+        "phrase": "68657265",
+        "human-chord": [
+            "e",
+            "h",
+            "r",
+            "DUP"
+        ],
+        "human-phrase": "here"
+    },
+    {
+        "hex-chord-string": "001E4751BC0000000000000000000000",
+        "phrase": "796F75",
+        "human-chord": [
+            "o",
+            "u",
+            "y"
+        ],
+        "human-phrase": "you"
+    },
+    {
+        "hex-chord-string": "001C86E1B06518400000000000000000",
+        "phrase": "6C6561726E",
+        "human-chord": [
+            "a",
+            "e",
+            "l",
+            "n",
+            "r"
+        ],
+        "human-phrase": "learn"
+    },
+    {
+        "hex-chord-string": "001CC6109C0000000000000000000000",
+        "phrase": "736179",
+        "human-chord": [
+            "'",
+            "a",
+            "s"
+        ],
+        "human-phrase": "say"
+    },
+    {
+        "hex-chord-string": "001D06F19C0000000000000000000000",
+        "phrase": "676F74",
+        "human-chord": [
+            "g",
+            "o",
+            "t"
+        ],
+        "human-phrase": "got"
+    },
+    {
+        "hex-chord-string": "001C86F1B46500000000000000000000",
+        "phrase": "6D6F7265",
+        "human-chord": [
+            "e",
+            "m",
+            "o",
+            "r"
+        ],
+        "human-phrase": "more"
+    },
+    {
+        "hex-chord-string": "001C86C19C6100000000000000000000",
+        "phrase": "6C61726765",
+        "human-chord": [
+            "a",
+            "g",
+            "l",
+            "r"
+        ],
+        "human-phrase": "large"
+    },
+    {
+        "hex-chord-string": "001DC6F1B80000000000000000000000",
+        "phrase": "6E6F77",
+        "human-chord": [
+            "n",
+            "o",
+            "w"
+        ],
+        "human-phrase": "now"
+    },
+    {
+        "hex-chord-string": "001B8691840000000000000000000000",
+        "phrase": "616E696D616C",
+        "human-chord": [
+            "a",
+            "i",
+            "n"
+        ],
+        "human-phrase": "animal"
+    },
+    {
+        "hex-chord-string": "001B0610000000000000000000000000",
+        "phrase": "616C6C",
+        "human-chord": [
+            "a",
+            "l"
+        ],
+        "human-phrase": "all"
+    },
+    {
+        "hex-chord-string": "001BC6C1A40000000000000000000000",
+        "phrase": "6F696C",
+        "human-chord": [
+            "i",
+            "l",
+            "o"
+        ],
+        "human-phrase": "oil"
+    },
+    {
+        "hex-chord-string": "001FC6D0000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F7F7F7F",
+        "human-chord": [
+            "m",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D06D1A46819C00000000000000000",
+        "phrase": "6D69676874",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "m",
+            "t"
+        ],
+        "human-phrase": "might"
+    },
+    {
+        "hex-chord-string": "001D4711AC0000000000000000000000",
+        "phrase": "717569636B",
+        "human-chord": [
+            "k",
+            "q",
+            "u"
+        ],
+        "human-phrase": "quick"
+    },
+    {
+        "hex-chord-string": "001D4721B86519000000000000000000",
+        "phrase": "756E646572",
+        "human-chord": [
+            "d",
+            "e",
+            "n",
+            "r",
+            "u"
+        ],
+        "human-phrase": "under"
+    },
+    {
+        "hex-chord-string": "001B4660000000000000000000000000",
+        "phrase": "666F726D",
+        "human-chord": [
+            "f",
+            "m"
+        ],
+        "human-phrase": "form"
+    },
+    {
+        "hex-chord-string": "00860741CC6C1A400000000000000000",
+        "phrase": "7374696C6C",
+        "human-chord": [
+            "i",
+            "l",
+            "s",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "still"
+    },
+    {
+        "hex-chord-string": "001A0670000000000000000000000000",
+        "phrase": "68657265",
+        "human-chord": [
+            "g",
+            "h"
+        ],
+        "human-phrase": "here"
+    },
+    {
+        "hex-chord-string": "001D4741BC6819C00000000000000000",
+        "phrase": "74686F75676874",
+        "human-chord": [
+            "g",
+            "h",
+            "o",
+            "t",
+            "u"
+        ],
+        "human-phrase": "thought"
+    },
+    {
+        "hex-chord-string": "001C06918C0000000000000000000000",
+        "phrase": "70696374757265",
+        "human-chord": [
+            "c",
+            "i",
+            "p"
+        ],
+        "human-phrase": "picture"
+    },
+    {
+        "hex-chord-string": "001D4741B86300000000000000000000",
+        "phrase": "636F756E747279",
+        "human-chord": [
+            "c",
+            "n",
+            "t",
+            "u"
+        ],
+        "human-phrase": "country"
+    },
+    {
+        "hex-chord-string": "001DC6C1986100000000000000000000",
+        "phrase": "77616C6B",
+        "human-chord": [
+            "a",
+            "f",
+            "l",
+            "w"
+        ],
+        "human-phrase": "walk"
+    },
+    {
+        "hex-chord-string": "001C8660000000000000000000000000",
+        "phrase": "666F72",
+        "human-chord": [
+            "f",
+            "r"
+        ],
+        "human-phrase": "for"
+    },
+    {
+        "hex-chord-string": "001D8721B86500000000000000000000",
+        "phrase": "6E65766572",
+        "human-chord": [
+            "e",
+            "n",
+            "r",
+            "v"
+        ],
+        "human-phrase": "never"
+    },
+    {
+        "hex-chord-string": "001C86F0000000000000000000000000",
+        "phrase": "6F72",
+        "human-chord": [
+            "o",
+            "r"
+        ],
+        "human-phrase": "or"
+    },
+    {
+        "hex-chord-string": "001D4741BC6E1B86D1A4610000000000",
+        "phrase": "6D6F756E7461696E",
+        "human-chord": [
+            "a",
+            "i",
+            "m",
+            "n",
+            "n",
+            "o",
+            "t",
+            "u"
+        ],
+        "human-phrase": "mountain"
+    },
+    {
+        "hex-chord-string": "00816011A06300000000000000000000",
+        "phrase": "436861726143686F72646572",
+        "human-chord": [
+            "c",
+            "h",
+            "LEFT_SHIFT",
+            "RIGHT_SHIFT"
+        ],
+        "human-phrase": "CharaChorder"
+    },
+    {
+        "hex-chord-string": "001D0681940000000000000000000000",
+        "phrase": "7468657265",
+        "human-chord": [
+            "e",
+            "h",
+            "t"
+        ],
+        "human-phrase": "there"
+    },
+    {
+        "hex-chord-string": "001DC721BC6400000000000000000000",
+        "phrase": "776F7264",
+        "human-chord": [
+            "d",
+            "o",
+            "r",
+            "w"
+        ],
+        "human-phrase": "word"
+    },
+    {
+        "hex-chord-string": "001B86B1A46400000000000000000000",
+        "phrase": "6B696E64",
+        "human-chord": [
+            "d",
+            "i",
+            "k",
+            "n"
+        ],
+        "human-phrase": "kind"
+    },
+    {
+        "hex-chord-string": "00540200000000000000000000000000",
+        "phrase": "015001500150",
+        "human-chord": [
+            "SPACE",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001D46E1B40000000000000000000000",
+        "phrase": "6E756D626572",
+        "human-chord": [
+            "m",
+            "n",
+            "u"
+        ],
+        "human-phrase": "number"
+    },
+    {
+        "hex-chord-string": "001D46F1B86600000000000000000000",
+        "phrase": "666F756E64",
+        "human-chord": [
+            "f",
+            "n",
+            "o",
+            "u"
+        ],
+        "human-phrase": "found"
+    },
+    {
+        "hex-chord-string": "0053C760000000000000000000000000",
+        "phrase": "014F014F014F014F014F014F014F014F",
+        "human-chord": [
+            "v",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001D0610000000000000000000000000",
+        "phrase": "6174",
+        "human-chord": [
+            "a",
+            "t"
+        ],
+        "human-phrase": "at"
+    },
+    {
+        "hex-chord-string": "001B0681940000000000000000000000",
+        "phrase": "68656C70",
+        "human-chord": [
+            "e",
+            "h",
+            "l"
+        ],
+        "human-phrase": "help"
+    },
+    {
+        "hex-chord-string": "00198651880000000000000000000000",
+        "phrase": "6265666F7265",
+        "human-chord": [
+            "b",
+            "e",
+            "f"
+        ],
+        "human-phrase": "before"
+    },
+    {
+        "hex-chord-string": "001D4741CC6A00000000000000000000",
+        "phrase": "6A757374",
+        "human-chord": [
+            "j",
+            "s",
+            "t",
+            "u"
+        ],
+        "human-phrase": "just"
+    },
+    {
+        "hex-chord-string": "008606F1B00000000000000000000000",
+        "phrase": "6F696C",
+        "human-chord": [
+            "l",
+            "o",
+            "DUP"
+        ],
+        "human-phrase": "oil"
+    },
+    {
+        "hex-chord-string": "001E46D1840000000000000000000000",
+        "phrase": "6D6179",
+        "human-chord": [
+            "a",
+            "m",
+            "y"
+        ],
+        "human-phrase": "may"
+    },
+    {
+        "hex-chord-string": "001FC200000000000000000000000000",
+        "phrase": "7F7F7F",
+        "human-chord": [
+            "SPACE",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D46F1B86500000000000000000000",
+        "phrase": "656E6F756768",
+        "human-chord": [
+            "e",
+            "n",
+            "o",
+            "u"
+        ],
+        "human-phrase": "enough"
+    },
+    {
+        "hex-chord-string": "001A0610000000000000000000000000",
+        "phrase": "686173",
+        "human-chord": [
+            "a",
+            "h"
+        ],
+        "human-phrase": "has"
+    },
+    {
+        "hex-chord-string": "001D4741BC0000000000000000000000",
+        "phrase": "6F7574",
+        "human-chord": [
+            "o",
+            "t",
+            "u"
+        ],
+        "human-phrase": "out"
+    },
+    {
+        "hex-chord-string": "001D0701BC6E00000000000000000000",
+        "phrase": "706F696E74",
+        "human-chord": [
+            "n",
+            "o",
+            "p",
+            "t"
+        ],
+        "human-phrase": "point"
+    },
+    {
+        "hex-chord-string": "001B86D1B06918400000000000000000",
+        "phrase": "616E696D616C",
+        "human-chord": [
+            "a",
+            "i",
+            "l",
+            "m",
+            "n"
+        ],
+        "human-phrase": "animal"
+    },
+    {
+        "hex-chord-string": "001C86E1B0691A065190630000000000",
+        "phrase": "6368696C6472656E",
+        "human-chord": [
+            "c",
+            "d",
+            "e",
+            "h",
+            "i",
+            "l",
+            "n",
+            "r"
+        ],
+        "human-phrase": "children"
+    },
+    {
+        "hex-chord-string": "001C86F19C0000000000000000000000",
+        "phrase": "67726F77",
+        "human-chord": [
+            "g",
+            "o",
+            "r"
+        ],
+        "human-phrase": "grow"
+    },
+    {
+        "hex-chord-string": "001D46E1946400000000000000000000",
+        "phrase": "756E646572",
+        "human-chord": [
+            "d",
+            "e",
+            "n",
+            "u"
+        ],
+        "human-phrase": "under"
+    },
+    {
+        "hex-chord-string": "001D0701B80000000000000000000000",
+        "phrase": "706C616E74",
+        "human-chord": [
+            "n",
+            "p",
+            "t"
+        ],
+        "human-phrase": "plant"
+    },
+    {
+        "hex-chord-string": "001FC690000000000000000000000000",
+        "phrase": "7F7F7F7F",
+        "human-chord": [
+            "i",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D8721B80000000000000000000000",
+        "phrase": "6E65766572",
+        "human-chord": [
+            "n",
+            "r",
+            "v"
+        ],
+        "human-phrase": "never"
+    },
+    {
+        "hex-chord-string": "005406F0000000000000000000000000",
+        "phrase": "01500150015001500150",
+        "human-chord": [
+            "o",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "001D4731BC6C1A064000000000000000",
+        "phrase": "73686F756C64",
+        "human-chord": [
+            "d",
+            "h",
+            "l",
+            "o",
+            "s",
+            "u"
+        ],
+        "human-phrase": "should"
+    },
+    {
+        "hex-chord-string": "001DC610000000000000000000000000",
+        "phrase": "776173",
+        "human-chord": [
+            "a",
+            "w"
+        ],
+        "human-phrase": "was"
+    },
+    {
+        "hex-chord-string": "001DC661940000000000000000000000",
+        "phrase": "666577",
+        "human-chord": [
+            "e",
+            "f",
+            "w"
+        ],
+        "human-phrase": "few"
+    },
+    {
+        "hex-chord-string": "001D06F1986500000000000000000000",
+        "phrase": "6F6674656E",
+        "human-chord": [
+            "e",
+            "f",
+            "o",
+            "t"
+        ],
+        "human-phrase": "often"
+    },
+    {
+        "hex-chord-string": "001DC721BC6700000000000000000000",
+        "phrase": "67726F77",
+        "human-chord": [
+            "g",
+            "o",
+            "r",
+            "w"
+        ],
+        "human-phrase": "grow"
+    },
+    {
+        "hex-chord-string": "001E46F1B86C00000000000000000000",
+        "phrase": "6F6E6C79",
+        "human-chord": [
+            "l",
+            "n",
+            "o",
+            "y"
+        ],
+        "human-phrase": "only"
+    },
+    {
+        "hex-chord-string": "001D0731BC6D19400000000000000000",
+        "phrase": "736F6D6574696D65",
+        "human-chord": [
+            "e",
+            "m",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "sometime"
+    },
+    {
+        "hex-chord-string": "001D06D1A06500000000000000000000",
+        "phrase": "7468656D",
+        "human-chord": [
+            "e",
+            "h",
+            "m",
+            "t"
+        ],
+        "human-phrase": "them"
+    },
+    {
+        "hex-chord-string": "0053C690000000000000000000000000",
+        "phrase": "014F014F014F014F",
+        "human-chord": [
+            "i",
+            "ARROW_RT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "00860730000000000000000000000000",
+        "phrase": "736179",
+        "human-chord": [
+            "s",
+            "DUP"
+        ],
+        "human-phrase": "say"
+    },
+    {
+        "hex-chord-string": "00860741BC0000000000000000000000",
+        "phrase": "746F6F",
+        "human-chord": [
+            "o",
+            "t",
+            "DUP"
+        ],
+        "human-phrase": "too"
+    },
+    {
+        "hex-chord-string": "001C8681840000000000000000000000",
+        "phrase": "68617264",
+        "human-chord": [
+            "a",
+            "h",
+            "r"
+        ],
+        "human-phrase": "hard"
+    },
+    {
+        "hex-chord-string": "001D4731A80000000000000000000000",
+        "phrase": "6A757374",
+        "human-chord": [
+            "j",
+            "s",
+            "u"
+        ],
+        "human-phrase": "just"
+    },
+    {
+        "hex-chord-string": "001DC680000000000000000000000000",
+        "phrase": "77686F",
+        "human-chord": [
+            "h",
+            "w"
+        ],
+        "human-phrase": "who"
+    },
+    {
+        "hex-chord-string": "001D4741B80000000000000000000000",
+        "phrase": "756E74696C",
+        "human-chord": [
+            "n",
+            "t",
+            "u"
+        ],
+        "human-phrase": "until"
+    },
+    {
+        "hex-chord-string": "001B86C1906100000000000000000000",
+        "phrase": "6C616E64",
+        "human-chord": [
+            "a",
+            "d",
+            "l",
+            "n"
+        ],
+        "human-phrase": "land"
+    },
+    {
+        "hex-chord-string": "001D0721A46819C00000000000000000",
+        "phrase": "7269676874",
+        "human-chord": [
+            "g",
+            "h",
+            "i",
+            "r",
+            "t"
+        ],
+        "human-phrase": "right"
+    },
+    {
+        "hex-chord-string": "00860771A46800000000000000000000",
+        "phrase": "7768696368",
+        "human-chord": [
+            "h",
+            "i",
+            "w",
+            "DUP"
+        ],
+        "human-phrase": "which"
+    },
+    {
+        "hex-chord-string": "001C86F1980000000000000000000000",
+        "phrase": "666F72",
+        "human-chord": [
+            "f",
+            "o",
+            "r"
+        ],
+        "human-phrase": "for"
+    },
+    {
+        "hex-chord-string": "001D06F1B86600000000000000000000",
+        "phrase": "6F6674656E",
+        "human-chord": [
+            "f",
+            "n",
+            "o",
+            "t"
+        ],
+        "human-phrase": "often"
+    },
+    {
+        "hex-chord-string": "001D0650000000000000000000000000",
+        "phrase": "746865",
+        "human-chord": [
+            "e",
+            "t"
+        ],
+        "human-phrase": "the"
+    },
+    {
+        "hex-chord-string": "001A0630000000000000000000000000",
+        "phrase": "68656164",
+        "human-chord": [
+            "c",
+            "h"
+        ],
+        "human-phrase": "head"
+    },
+    {
+        "hex-chord-string": "001DC681840000000000000000000000",
+        "phrase": "77686174",
+        "human-chord": [
+            "a",
+            "h",
+            "w"
+        ],
+        "human-phrase": "what"
+    },
+    {
+        "hex-chord-string": "001E4751C46C1AC69000000000000000",
+        "phrase": "717569636B6C79",
+        "human-chord": [
+            "i",
+            "k",
+            "l",
+            "q",
+            "u",
+            "y"
+        ],
+        "human-phrase": "quickly"
+    },
+    {
+        "hex-chord-string": "001DC741B86518800000000000000000",
+        "phrase": "6265747765656E",
+        "human-chord": [
+            "b",
+            "e",
+            "n",
+            "t",
+            "w"
+        ],
+        "human-phrase": "between"
+    },
+    {
+        "hex-chord-string": "001DC741840000000000000000000000",
+        "phrase": "7761746368",
+        "human-chord": [
+            "a",
+            "t",
+            "w"
+        ],
+        "human-phrase": "watch"
+    },
+    {
+        "hex-chord-string": "001DC691A00000000000000000000000",
+        "phrase": "7768696368",
+        "human-chord": [
+            "h",
+            "i",
+            "w"
+        ],
+        "human-phrase": "which"
+    },
+    {
+        "hex-chord-string": "001DC6C1940000000000000000000000",
+        "phrase": "77656C6C",
+        "human-chord": [
+            "e",
+            "l",
+            "w"
+        ],
+        "human-phrase": "well"
+    },
+    {
+        "hex-chord-string": "001D07219C0000000000000000000000",
+        "phrase": "6772656174",
+        "human-chord": [
+            "g",
+            "r",
+            "t"
+        ],
+        "human-phrase": "great"
+    },
+    {
+        "hex-chord-string": "008814F0000000000000000000000000",
+        "phrase": "014F014F014F",
+        "human-chord": [
+            "ARROW_RT",
+            "SPACERIGHT"
+        ],
+        "human-phrase": " ARROW_RT  ARROW_RT  ARROW_RT "
+    },
+    {
+        "hex-chord-string": "001D0731C06F00000000000000000000",
+        "phrase": "73746F70",
+        "human-chord": [
+            "o",
+            "p",
+            "s",
+            "t"
+        ],
+        "human-phrase": "stop"
+    },
+    {
+        "hex-chord-string": "00860791D87219400000000000000000",
+        "phrase": "6576657279",
+        "human-chord": [
+            "e",
+            "r",
+            "v",
+            "y",
+            "DUP"
+        ],
+        "human-phrase": "every"
+    },
+    {
+        "hex-chord-string": "001CC650000000000000000000000000",
+        "phrase": "7374617465",
+        "human-chord": [
+            "e",
+            "s"
+        ],
+        "human-phrase": "state"
+    },
+    {
+        "hex-chord-string": "001D46F0000000000000000000000000",
+        "phrase": "6F7572",
+        "human-chord": [
+            "o",
+            "u"
+        ],
+        "human-phrase": "our"
+    },
+    {
+        "hex-chord-string": "001C8651906100000000000000000000",
+        "phrase": "72656164",
+        "human-chord": [
+            "a",
+            "d",
+            "e",
+            "r"
+        ],
+        "human-phrase": "read"
+    },
+    {
+        "hex-chord-string": "00860681940000000000000000000000",
+        "phrase": "68657265",
+        "human-chord": [
+            "e",
+            "h",
+            "DUP"
+        ],
+        "human-phrase": "here"
+    },
+    {
+        "hex-chord-string": "001B06B1A40000000000000000000000",
+        "phrase": "6C696B65",
+        "human-chord": [
+            "i",
+            "k",
+            "l"
+        ],
+        "human-phrase": "like"
+    },
+    {
+        "hex-chord-string": "001FC6A0000000000000000000000000",
+        "phrase": "7F7F7F7F7F7F",
+        "human-chord": [
+            "j",
+            "DEL"
+        ],
+        "human-phrase": " DEL  DEL  DEL  DEL  DEL  DEL "
+    },
+    {
+        "hex-chord-string": "001D4741BC6218400000000000000000",
+        "phrase": "61626F7574",
+        "human-chord": [
+            "a",
+            "b",
+            "o",
+            "t",
+            "u"
+        ],
+        "human-phrase": "about"
+    },
+    {
+        "hex-chord-string": "001C06B1940000000000000000000000",
+        "phrase": "6B656570",
+        "human-chord": [
+            "e",
+            "k",
+            "p"
+        ],
+        "human-phrase": "keep"
+    },
+    {
+        "hex-chord-string": "001D0731BC6D00000000000000000000",
+        "phrase": "6D6F7374",
+        "human-chord": [
+            "m",
+            "o",
+            "s",
+            "t"
+        ],
+        "human-phrase": "most"
+    },
+    {
+        "hex-chord-string": "001D06C1980000000000000000000000",
+        "phrase": "6C656674",
+        "human-chord": [
+            "f",
+            "l",
+            "t"
+        ],
+        "human-phrase": "left"
+    },
+    {
+        "hex-chord-string": "001D0721A06500000000000000000000",
+        "phrase": "7468657265",
+        "human-chord": [
+            "e",
+            "h",
+            "r",
+            "t"
+        ],
+        "human-phrase": "there"
+    },
+    {
+        "hex-chord-string": "001DC721BC0000000000000000000000",
+        "phrase": "776F726B",
+        "human-chord": [
+            "o",
+            "r",
+            "w"
+        ],
+        "human-phrase": "work"
+    },
+    {
+        "hex-chord-string": "004A8200000000000000000000000000",
+        "phrase": "012A012A012A",
+        "human-chord": [
+            "SPACE",
+            "BKSP"
+        ],
+        "human-phrase": " BKSP  BKSP  BKSP "
+    },
+    {
+        "hex-chord-string": "001A0651906100000000000000000000",
+        "phrase": "68656164",
+        "human-chord": [
+            "a",
+            "d",
+            "e",
+            "h"
+        ],
+        "human-phrase": "head"
+    },
+    {
+        "hex-chord-string": "001B46C1A40000000000000000000000",
+        "phrase": "6D696C65",
+        "human-chord": [
+            "i",
+            "l",
+            "m"
+        ],
+        "human-phrase": "mile"
+    },
+    {
+        "hex-chord-string": "001D06C1940000000000000000000000",
+        "phrase": "6C6574",
+        "human-chord": [
+            "e",
+            "l",
+            "t"
+        ],
+        "human-phrase": "let"
+    },
+    {
+        "hex-chord-string": "00540650000000000000000000000000",
+        "phrase": "01500150",
+        "human-chord": [
+            "e",
+            "ARROW_LF"
+        ],
+        "human-phrase": " ARROW_LF  ARROW_LF "
+    },
+    {
+        "hex-chord-string": "000CC200000000000000000000000000",
+        "phrase": "7468726565",
+        "human-chord": [
+            "SPACE",
+            "3"
+        ],
+        "human-phrase": "three"
+    }
+]
