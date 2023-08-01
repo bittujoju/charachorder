@@ -95,6 +95,7 @@ e + h + t,them
 e + n,need
 e + h + n + t,then
 l + s,shall
+d + s,should
 a + o,or
 k + l + t,talk
 n + s,something
@@ -241,7 +242,7 @@ a + e + s,stay
 l + o + s,lose
 s + t + u,stuff
 n + o + s,son
-d + s,stupid
+p + s + t + u,stupid
 a + e + m + n,name
 d + e,everybody
 a + l + s,last
@@ -1050,7 +1051,7 @@ DUP + e + m + s,mess
 l + p + r,planet
 a + d + r + s,scary
 i + n + u,universe
-p + s + t + u,upstairs
+i + p + s + t + u,upstairs
 e + g + i + n + u,genius
 a + d + g + n,dangerous
 n + t + u,nuts
