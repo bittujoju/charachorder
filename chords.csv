@@ -1,6 +1,10 @@
 b + e,be
 o + y,you
 h + t,the
+i + s,is
+a + r,are
+a + w,was
+a + h,had
 o + t,to
 i + t,it
 n + o,on
@@ -9,7 +13,7 @@ DUP + t,that
 a + n,and
 f + o,of
 d + o,do
-a + h,have
+h + v,have
 h + w,what
 e + w,we
 i + n,in
@@ -35,7 +39,7 @@ e + y,yeah
 l + w,well
 k + t,think
 h + r,here
-a + w,want
+n + w,want
 o + w,would
 o + u,out
 a + b,about
@@ -43,7 +47,7 @@ d + g,good
 c + e,come
 p + u,up
 a + s,say
-n + w,now
+n + o + w,now
 a + e,at
 e + o,one
 h + y,hey
@@ -59,7 +63,7 @@ i + r,right
 g + u,guy
 e + k + t,take
 e + l,let
-a + r,really
+l + r,really
 k + o,okay
 m + t,her
 h + u,uh
@@ -91,7 +95,7 @@ e + h + n + t,then
 l + s,shall
 a + o,or
 k + l + t,talk
-i + s,something
+n + s,something
 r + w,where
 g + r,great
 a + w + y,way
@@ -204,14 +208,14 @@ k + l,kill
 c + s,school
 e + o + v + y,everyone
 r + u,run
-l + r,late
+l + r + t,late
 c + r,care
 a + c + r,car
 e + m + o,move
 LEFT_ALT + a + h,ah
 d + i,idea
 a + n + o,another
-n + s,someone
+m + o + s,someone
 d + t,today
 t + u,turn
 a + l + r,real
@@ -249,7 +253,7 @@ h + l + o,hold
 a + e + g,game
 f + g,forget
 e + l + s,else
-n + o + w,own
+b + n + o,own
 f + v,five
 c + e + s,second
 c + d,doctor
@@ -279,7 +283,7 @@ h + o + r + u,hour
 c + y,crazy
 a + c + h,change
 e + h + o,hot
-m + o + s,most
+m + o + s + t,most
 e + x,excuse
 m + o + t,mother
 c + e + h,check
@@ -331,7 +335,7 @@ a + h + n,hand
 a + c + e,each
 a + n + w + y,anyway
 t + v,television
-l + r + t,learn
+a + e + i,learn
 h + s + u,shut
 n + o + t + w,town
 b + t,beautiful
@@ -402,7 +406,6 @@ a + r + s,reason
 b + c + e,become
 a + e + l + s,least
 b + i + t,bite
-c + f,fuck
 d + u,under
 b + c + t,bed
 a + e + p,paper
@@ -411,7 +414,7 @@ c + r + t,catch
 i + m + n,mine
 i + s + x,six
 e + s + t,set
-a + c + f,face
+c + f,face
 k + s,speak
 d + s + u,suck
 e + m + o + s,sometimes
@@ -424,7 +427,7 @@ r + z,realize
 b + i + r,birthday
 n + o + p,point
 e + j,enjoy
-c + f + r,fact
+a + c + f,fact
 a + d + n,dance
 DUP + n + o + s,soon
 a + r + w,bar
@@ -626,7 +629,7 @@ d + i + v,video
 a + b + i + r,brain
 c + l + o + p,completely
 e + o + v,voice
-a + d + k,cake
+c + f + r,cake
 i + r + t,trip
 e + m + n + o + y,monkey
 h + n + u,hundred
@@ -789,7 +792,7 @@ e + m + n,mention
 e + p + s + t,step
 g + h + n + u,hungry
 i + s + t + u,situation
-a + e + i,lead
+d + l + r + t,lead
 e + l + t + w,twelve
 a + f + n + s,fantastic
 e + h + l + o,hole
@@ -892,7 +895,6 @@ e + h + l + o + t,hotel
 a + i + m + n,magazine
 DUP + e + l + s + t,settle
 a + c + d + i,accident
-b + g + o,boob
 c + e + l + x,excellent
 e + g + i + n,neighbor
 i + n + r + t,train
@@ -928,7 +930,7 @@ b + o + w,bowl
 c + n + o + r + t,control
 d + l + o + u,loud
 b + e + m + o,bedroom
-h + v,heaven
+a + e + h + v,heaven
 a + c + e + o,commercial
 a + d + r + w,draw
 e + g + u,guest
@@ -1077,7 +1079,6 @@ l + o + w,low
 c + l + o + r,color
 h + j,jewish
 h + n + r,nah
-LEFT_ALT + a + b + r + s,breast
 a + b + k + n,bank
 a + k + p + r,parking
 i + l + w,wild
@@ -1110,7 +1111,7 @@ a + l + v,plant
 e + o + t + w,towel
 DUP + a + l + m,mall
 g + r + u,regular
-b + n + o,bone
+b + e + n + o,bone
 d + g + i,dig
 a + e + k,fear
 DUP + a + c + e + n,cancer
@@ -1130,8 +1131,6 @@ a + d + l + u,adult
 LEFT_ALT + e + n + o + s,noise
 s + u + v,super
 LEFT_ALT + a + b + r,bread
-c + f + u,fucking
-n + o + p + r,porn
   + h + r + t,three hundred
 p + t + y,type
 b + o + r + w,borrow
@@ -1143,7 +1142,7 @@ a + f + m + r,farm
 d + g + i + s,disgusting
 DUP + l + t,tall
 a + l + p + r,replace
-m + o + s + t,somehow
+e + m + n + s,somehow
 LEFT_ALT + e + h + t,theater
 c + d + e + i + s,discover
 c + i + n + r,incredible
@@ -1335,7 +1334,7 @@ f + i + k + n,knife
 a + h + i + l,hilarious
 a + b + k + l,blanket
 c + h + n,comic
-d + l + r + t,leader
+c + l + r + t,leader
 a + c + l + o,local
 e + g + h + i + n,neighborhood
 LEFT_ALT + p + r + t,trap
@@ -1533,7 +1532,7 @@ a + e + g + h,gather
 l + m + o + s + t,mostly
 b + e + l + u,bubble
 e + g + n + y,energy
-a + e + h + v,heavy
+a + e + h + v + y,heavy
 a + i + u,laser
 a + m + o,manage
 a + e + h + m + n,meanwhile
@@ -2076,7 +2075,7 @@ f + i + n + u,uniform
 e + i + l + v,violence
 d + i + w,wide
 DUP + z,zoo
-b + g + n,boo
+b + g + o,boo
 b + l + s + u,bullshit
 c + l + r + u,cruel
 a + d + i + l,dial
@@ -2160,7 +2159,7 @@ e + i + n + s + x,expression
 DUP + a + e + g + i + n,negative
 c + i + l + p,pickle
 p + u + z,puzzle
-c + l + r + t,recipe
+c + i + p + r + t,recipe
 b + r + s + t,stab
 d + o + r + t + w,toward
 a + p + w,wave
@@ -2300,7 +2299,7 @@ DUP + LEFT_ALT + a + e + g + i + n,earring
 a + c + f + i + s,fascinating
 g + l + r,gal
 h + m + r,ham
-n + o + p + r + u,pronounce
+n + o + p + r,pronounce
 a + m + p + s,sample
 v + y,victory
 b + e + m + n,behold
@@ -2321,7 +2320,6 @@ e + i + m + s,miserable
 LEFT_ALT + i + n + p,pin
 c + p + r + u,purchase
 a + e + i + u,satisfy
-a + e + s + u + x,sexually
 h + n + s + u,shout
 e + i + t + u,site
 e + g + h + t,thee
@@ -2695,7 +2693,7 @@ j + o + t,joint
 ' + n,oy
 i + n + p + s + u,punishment
 a + l + r + y,rally
-c + i + p + r + t,reception
+c + i + n + p + r + t,reception
 q + r + u,request
 DUP + i + r + s + t,resist
   + e + n + s + v,seven hundred
@@ -2793,7 +2791,6 @@ d + k + o,coke
 a + d + k + n + r,darkness
 a + d + i + r + y,diary
 g + i + l + u,guilt
-h + n + o + r + y,horny
 DUP + e + i + m + n + t,intimate
 a + g + h + l + u,laughter
 d + l + o + t,lend
@@ -3033,7 +3030,7 @@ e + g + i + n + p,pigeon
 c + l + o + p + s + t,politics
 g + o + p + r + t,proper
 q + y,qualify
-c + i + n + p + r + t,receptionist
+c + i + n + p + r + s + t,receptionist
 DUP + c + o + r,recover
 a + r + u,sarcasm
 e + h + i + s,sheriff
@@ -3107,7 +3104,7 @@ LEFT_ALT + d + e + n + t,tend
 b + m + r + u,umbrella
 l + r + s + t + w,wrestler
 d + s + w,bud
-b + e + n + o,boner
+b + n + o + t,boner
 RIGHT_ALT + i + r + t,riot
 c + h + t + u,chess
 LEFT_ALT + c + h + i + n,chin
@@ -4107,7 +4104,7 @@ c + d + n + o + r + s,reconsider
 i + l + r + t + u,ritual
 a + e + o + w,robbery
 - + e + f + l + s,self-esteem
-e + m + n + s,semen
+DUP + e + m + n + s,semen
 - + i + s + x,six-pack
 e + g + i + l + s,sleigh
 e + n + o + p + s + t + u,spontaneous
@@ -4227,7 +4224,7 @@ i + p + t + u,uptight
 DUP + a + i + l + r + v,arrival
 b + r + y,babysit
 a + b + c + s,backstage
-b + e + g + l + o,boogie
+b + g + n,boogie
 b + o + s + u,busboy
 b + c + o + t + u,buttocks
 c + h + l + r + t,camel
@@ -4333,7 +4330,7 @@ b + o + s + t,obstacle
 a + e + f + l + o + v,overlook
 h + i + l + v,philosophy
 DUP + c + i + r + t + u,recruit
-a + e + l + s + u + x,sexuality
+a + e + s + u + x,sexuality
 a + e + h + n + s,shenanigan
 f + i + l + s,silk
 i + p + s + w,swipe
@@ -4351,8 +4348,8 @@ LEFT_ALT + a + e + h + m + n,anthem
 RH_RING_1_3D + a,ashtray
 DUP + a + i + s,assist
 a + b + e + k + n,banker
-d + k + r,cafe
-a + c + e + f + l,caffeine
+a + d + k,cafe
+d + k + r,caffeine
 RIGHT_ALT + c + n + o,con
 a + d + e + n + o,container
 d + n + o + t + v,convenient
