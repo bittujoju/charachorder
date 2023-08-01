@@ -20,6 +20,7 @@ e + m,me
 g + o,go
 h + o,oh
 a + c,can
+c + o,could
 LEFT_ALT + n + o,no
 f + r,for
 k + n,know
@@ -35,10 +36,11 @@ l + w,well
 k + t,think
 h + r,here
 a + w,want
+o + w,would
 o + u,out
 a + b,about
 d + g,good
-c + o,come
+c + e,come
 p + u,up
 a + s,say
 n + w,now
@@ -65,7 +67,7 @@ l + t,tell
 h + i,him
 w + y,why
 r + t,there
-o + w,who
+b + m,who
 i + m + t,time
 g + t,thing
 f + m,from
@@ -114,7 +116,7 @@ h + n + t,thank
 b + i,big
 r + t + y,try
 d + r,dad
-b + m,maybe
+a + m + y,maybe
 e + f,feel
 f + n,friend
 DUP + e,even
@@ -142,7 +144,7 @@ m + r,mr
 a + g,again
 e + u,use
 DUP + m,mom
-a + m + y,may
+' + a + m,may
 h + l,hi
 f + l,life
 c + n,nice
@@ -275,7 +277,7 @@ i + m + s,miss
 a + p + y,pay
 h + o + r + u,hour
 c + y,crazy
-c + e,change
+a + c + h,change
 e + h + o,hot
 m + o + s,most
 e + x,excuse
@@ -405,7 +407,7 @@ d + u,under
 b + c + t,bed
 a + e + p,paper
 d + e + i + n,different
-a + c + h,catch
+c + r + t,catch
 i + m + n,mine
 i + s + x,six
 e + s + t,set
@@ -478,7 +480,7 @@ b + l + t,table
 c + e + i + t,ticket
 DUP + a + e + m,matter
 c + e + t,teach
-c + r + t,cat
+LEFT_ALT + a + c,cat
 e + i + s + t,sister
 DUP + g,girlfriend
 RH_INDEX_3D + h,hat
@@ -499,7 +501,7 @@ c + o + r,order
 c + r + y,cry
 e + z,zero
 d + n + r,drop
-LEFT_ALT + a + c,act
+RIGHT_ALT + a + c,act
 a + l + o,alone
 LEFT_ALT + a + e + s,seat
 LEFT_ALT + e + h,eh

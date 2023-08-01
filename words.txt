@@ -22,6 +22,7 @@ me
 go
 oh
 can
+could
 no
 for
 know
@@ -37,6 +38,7 @@ well
 think
 here
 want
+would
 out
 about
 good
