@@ -91,9 +91,12 @@
     const CHORD_GENERATOR_LOGIC = [
       'skipKeys',
       'allKeys',
-      'useMirrorKeys',
-      'useAltKeys',
-      'use3dKeys'
+      'skipWithMirrorKeys',
+      'allWithMirrorKeys',
+      'skipWithAltKeys',
+      'allWithAltKeys',
+      'skipWith3dKeys',
+      'allWith3dKeys'
     ];
 
     function generateChords() {
@@ -133,7 +136,7 @@
             return;
           }
 
-          this.assignChord(word, chord);
+          this.assignChord(word, chord.sort());
         });
 
         this.createCsv();
@@ -186,18 +189,41 @@
         return this.processKeys(chars, false);
       }
 
-      useMirrorKeys(chars) {
-        return this.processCombinations(chars, this.mirrorKeyCombinations);
+      skipWithMirrorKeys(chars) {
+        return this.useMirrorKeys(chars, true);
       }
 
-      use3dKeys(chars) {
-        return this.processCombinations(chars, this.threeDKeyCombinations);
+      allWithMirrorKeys(chars) {
+        return this.useMirrorKeys(chars, false);
       }
 
-      useAltKeys(chars) {
+      skipWith3dKeys(chars) {
+        return this.use3dKeys(chars, true);
+      }
+
+      allWith3dKeys(chars) {
+        return this.use3dKeys(chars, false);
+      }
+      skipWithAltKeys(chars) {
+        return this.useAltKeys(chars, true);
+      }
+
+      allWithAltKeys(chars) {
+        return this.useAltKeys(chars, false);
+      }
+
+      useMirrorKeys(chars, skip) {
+        return this.processCombinations(chars, this.mirrorKeyCombinations, skip);
+      }
+
+      use3dKeys(chars, skip) {
+        return this.processCombinations(chars, this.threeDKeyCombinations, skip);
+      }
+
+      useAltKeys(chars, skip) {
         for (const altKey of ALT_KEYS) {
-          const charsWithAlt = [...chars, altKey];
-          const chord = this.processKeys(charsWithAlt, false);
+          const charsWithAlt = [altKey, ...chars];
+          const chord = this.processKeys(charsWithAlt, skip);
           if (chord) return chord;
         }
         return null;
@@ -218,7 +244,7 @@
       }
 
 
-      processCombinations(chars, combinationFn) {
+      processCombinations(chars, combinationFn, skip) {
         const chord = [];
         for (const [index, char] of chars.entries()) {
           chord.push(char);
@@ -226,6 +252,7 @@
           for (const combination of combinationFn.call(this, chord)) {
             if (!this.fingerConflict(combination) && !this.usedChord(combination)) return combination;
           }
+          if (skip) chord.pop();
         }
         return null;
       }
