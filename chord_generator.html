@@ -40,6 +40,7 @@
 
   <script>
     const MIN_CHORD_LENGTH = 2;
+    const MAX_CHORD_LENGTH = 6;
     const MIN_WORD_LENGTH = 2;
     const ALT_KEYS = ['LEFT_ALT', 'RIGHT_ALT'];
     const LENGTH_PROPORTIONAL = false;
@@ -234,6 +235,8 @@
         for (const char of chars) {
           chord.push(char);
           if (chord.length < MIN_CHORD_LENGTH) continue;
+          if (chord.length > MAX_CHORD_LENGTH) return null;
+
           if (this.fingerConflict(chord) || this.usedChord(chord)) {
             if (skip) chord.pop();
             continue;
@@ -246,9 +249,11 @@
 
       processCombinations(chars, combinationFn, skip) {
         const chord = [];
-        for (const [index, char] of chars.entries()) {
+        for (const char of chars) {
           chord.push(char);
-          if (index + 1 < MIN_CHORD_LENGTH) continue;
+          if (chord.length < MIN_CHORD_LENGTH) continue;
+          if (chord.length > MAX_CHORD_LENGTH) return null;
+
           for (const combination of combinationFn.call(this, chord)) {
             if (!this.fingerConflict(combination) && !this.usedChord(combination)) return combination;
           }
