@@ -202,16 +202,37 @@ form label[for="minReps"] {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
-.spinner {
-  border: 5px solid #f3f3f3;
-  border-top: 5px solid #3498db;
-  border-radius: 50%;
-  width: 30px;
-  height: 30px;
-  animation: spin 2s linear infinite;
+#progress-bar {
+  transition: width 0.3s ease;
 }
 
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+#progress-container {
+  width: 50%;
+  background-color: #ddd;
+  border-radius: 10px;
+  margin: 0 auto; /* This will center the container */
+}
+
+#progress-bar {
+  width: 0%;
+  height: 10px;
+  background-color: #4caf50;
+  border-radius: 10px;
+}
+
+#download-link {
+  display: inline-block;
+  width: 20%;
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 10px;
+  margin: 20px auto;
+}
+
+#download-link:hover {
+  background-color: #45a049;
 }

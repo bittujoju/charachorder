@@ -32,9 +32,8 @@
     the top of the list get preference to shorter chords inputs).</p>
   <input type="file" id="fileInput" />
   <button onclick="generateChords()">Generate Chords</button>
-  <div id="loading" style="display: none;">
-    <div class="spinner"></div>
-    Generating...
+  <div id="progress-container" style="width: 50%; background-color: #ddd; border-radius: 10px; margin: 0 auto;">
+    <div id="progress-bar" style="width: 0%; height: 10px; background-color: #4caf50; border-radius: 10px;"></div>
   </div>
   <a href="#" download="chords.csv" id="download-link" style="display: none;">Download Chords</a>
 
@@ -108,17 +107,20 @@
         return;
       }
 
-      document.getElementById('loading').style.display = 'block';
+      const progressContainer = document.getElementById('progress-container');
+      const progressBar = document.getElementById('progress-bar');
+      progressContainer.style.display = 'block';
+      progressBar.style.width = '0%';
+
       const reader = new FileReader();
       reader.onload = function (event) {
         const words = event.target.result.split('\n');
         const generator = new ChordGenerator(words);
         generator.generate();
-        document.getElementById('download-link').style.display = 'block';
-        document.getElementById('loading').style.display = 'none';
       };
       reader.readAsText(file);
     }
+
 
     class ChordGenerator {
       constructor(words) {
@@ -127,21 +129,36 @@
       }
 
       generate() {
-        this.wordsList().forEach((word) => {
-          if (word === null) throw "Word is blank";
-          if (word.length < MIN_WORD_LENGTH) return;
+        const progressBar = document.getElementById('progress-bar');
+        const totalWords = this.wordsList().length;
 
-          const chord = this.calculateChord(this.getChars(word));
-          if (!chord) {
-            console.log("Could not generate chord for", word);
+        const processWord = (index) => {
+          if (index >= totalWords) {
+            this.createCsv();
+            document.getElementById('download-link').style.display = 'block';
             return;
           }
 
-          this.assignChord(word, chord.sort());
-        });
+          const word = this.wordsList()[index];
+          if (word === null) throw "Word is blank";
+          if (word.length >= MIN_WORD_LENGTH) {
+            const chord = this.calculateChord(this.getChars(word));
+            if (chord) {
+              this.assignChord(word, chord.sort());
+            } else {
+              console.log("Could not generate chord for", word);
+            }
+          }
 
-        this.createCsv();
+          const progress = (index + 1) / totalWords * 100;
+          progressBar.style.width = `${progress}%`;
+
+          requestAnimationFrame(() => processWord(index + 1));
+        };
+
+        processWord(0);
       }
+
 
       createCsv() {
         let csvContent = "";
