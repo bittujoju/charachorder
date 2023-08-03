@@ -27,7 +27,7 @@ g + o,go
 h + o,oh
 a + c,can
 c + o,could
-LEFT_ALT + n + o,no
+LEFT_ALT + n,no
 f + r,for
 k + n,know
 j + u,just
@@ -49,36 +49,36 @@ d + g,good
 c + e,come
 p + u,up
 a + s,say
-n + o + w,now
+b + n,now
 a + e,at
 e + o,one
 h + y,hey
 e + t,they
 e + s,see
 f + i,if
-h + o + w,how
+h + n,how
 i + l,like
 h + s,she
 l + o,look
-a + e + m,make
+m + r,make
 i + r,right
 g + u,guy
-e + k + t,take
+r + t,take
 e + l,let
 l + r,really
 k + o,okay
-a + e + h,her
+LEFT_ALT + h,her
 h + u,uh
 l + t,tell
 h + i,him
 w + y,why
-r + t,there
+g + t,there
 b + m,who
-i + m + t,time
-g + t,thing
+e + i,time
+e + n,thing
 f + m,from
 DUP + w,will
-e + h + w,when
+t + w,when
 a + u,as
 b + c,because
 m + s,some
@@ -86,996 +86,971 @@ o + r,our
 t + y,yes
 b + k,back
 m + n,mean
-a + m + n,man
+m + o,man
 DUP + l,little
 g + i,give
-h + i + s,his
+h + l,his
 s + u,us
-e + h + t,them
-e + n,need
-e + h + n + t,then
+LEFT_ALT + t,them
+d + n,need
+RIGHT_ALT + t,then
 l + s,shall
 d + s,should
 a + o,or
-k + l + t,talk
+f + t,talk
 n + s,something
 r + w,where
 g + r,great
-a + w + y,way
+b + r,way
 n + v,never
 c + l,call
-DUP + o + t,too
+DUP + e,too
 b + y,by
 r + s,sorry
 o + v,over
 l + v,love
-t + w,wait
-m + o,more
+b + i,wait
+LEFT_ALT + m,more
 d + w,down
 a + d,day
-o + t + w,two
+b + t,two
 e + p,people
-d + g + o,god
+g + n,god
 e + v,very
 DUP + o,off
-o + r + w,work
-h + n + t,thank
-b + i,big
-r + t + y,try
+b + o,work
+e + k,thank
+b + g,big
+' + t,try
 d + r,dad
-a + m + y,maybe
+' + m,maybe
 e + f,feel
 f + n,friend
-DUP + e,even
-r + s + u,sure
-f + i + n,find
+t + v,even
+r + u,sure
+f + l,find
 i + k,kid
-e + h + s + t,these
-b + o,boy
+t + u,these
+' + b,boy
 p + t,put
 l + p,please
-h + n,happen
+m + p,happen
 m + u,much
 p + s,stop
-g + n,night
-b + r,bad
-i + n + t,into
-h + o + t,those
+DUP + n,night
+LEFT_ALT + b,bad
+LEFT_ALT + i,into
+e + u,those
 a + y,any
 f + s,first
-a + e + l,leave
+a + i,leave
 r + y,year
-h + r + t,hear
-DUP + e + v,ever
-m + r,mr
+RIGHT_ALT + h,hear
+LEFT_ALT + e,ever
+RIGHT_ALT + m,mr
 a + g,again
-e + u,use
+LEFT_ALT + u,use
 DUP + m,mom
-' + a + m,may
-h + l,hi
-f + l,life
+' + h,may
+i + m,hi
+k + l,life
 c + n,nice
-e + n + w,new
+RIGHT_ALT + n,new
 DUP + s,still
 d + k,kind
-a + i,anything
-n + o + y,only
-a + b + y,baby
-m + r + t,than
-e + f + i + n,fine
-e + h + l,hello
-e + k,keep
+DUP + a,anything
+' + o,only
+' + w,baby
+RH_THUMB_1_3D + t,than
+LEFT_ALT + f,fine
+l + m,hello
+k + p,keep
 g + l,girl
-e + h + i,help
+LH_INDEX_3D + h,help
 b + l,believe
-a + o + w,woman
-l + o + t,lot
+LEFT_ALT + w,woman
+LEFT_ALT + l,lot
 a + p,play
 a + k,ask
-r + s + t,start
+g + s,start
 h + m,home
-DUP + n,nothing
-LEFT_ALT + h + m,hmm
-e + h + i + t,their
-e + m + t,meet
-g + h + u,huh
+LH_MID_1_3D + n,nothing
+g + h,hmm
+RH_INDEX_3D + h,their
+LH_INDEX_3D + m,meet
+LH_RING_1_3D + h,huh
 s + w,show
-a + o + r,around
-g + s,guess
-d + l + o,old
-h + l + t,hell
-b + e + o,before
-DUP + a,always
-LEFT_ALT + h + r + t,three
-DUP + o + w,wow
-i + l + s,listen
-h + k + n + t,thanks
-i + m,minute
-a + c + u,actually
-LEFT_ALT + a + e,eat
+n + r,around
+DUP + g,guess
+LEFT_ALT + o,old
+RH_THUMB_1_3D + e,hell
+f + w,before
+' + a,always
+RH_INDEX_3D + RH_THUMB_1_3D,three
+RIGHT_ALT + w,wow
+l + u,listen
+RH_MID_1_3D + t,thanks
+LH_MID_1_3D + m,minute
+c + r,actually
+RIGHT_ALT + e,eat
 c + p,place
-i + l + v,live
-DUP + a + w + y,away
+i + v,live
+' + r,away
 a + f,after
-b + n,bring
-e + v + y,every
-e + i,everything
-m + n + o,money
+RIGHT_ALT + b,bring
+' + e,every
+LH_THUMB_1_3D + e,everything
+LH_THUMB_1_3D + o,money
 p + r,person
-a + h + w,watch
-e + h + o + t,other
+RH_INDEX_3D + w,watch
+RIGHT_ALT + o,other
 DUP + r,remember
-h + o + u,house
-n + o + r + w,wrong
-k + l,kill
+LH_MID_1_3D + h,house
+LH_INDEX_3D + w,wrong
+DUP + k,kill
 c + s,school
-e + o + v + y,everyone
-r + u,run
-l + r + t,late
-c + r,care
-a + c + r,car
-e + m + o,move
-LEFT_ALT + a + h,ah
+LH_INDEX_3D + v,everyone
+LEFT_ALT + r,run
+RIGHT_ALT + l,late
+c + t,care
+LEFT_ALT + c,car
+LH_MID_1_3D + LH_THUMB_1_3D,move
+LEFT_ALT + a,ah
 d + i,idea
-a + n + o,another
-m + o + s,someone
+RIGHT_ALT + a,another
+n + u,someone
 d + t,today
-t + u,turn
-a + l + r,real
-a + h + y,happy
-h + l + o + w,whole
-DUP + e + w,week
+LH_RING_1_3D + t,turn
+RIGHT_ALT + r,real
+RH_THUMB_1_3D + a,happy
+RH_THUMB_1_3D + w,whole
+LH_THUMB_2_3D + e,week
 j + o,job
 f + u,fun
 o + p,problem
-a + b + r,break
-l + o + r + w,world
-h + i + w,which
-m + s + u,must
+LH_INDEX_3D + b,break
+LH_MID_1_3D + w,world
+LH_THUMB_2_3D + h,which
+LH_RING_1_3D + m,must
 p + y,party
-b + u + y,buy
-h + o + r + t,through
-g + o + t,together
-m + o + r,room
+b + s,buy
+LH_INDEX_3D + t,through
+LH_MID_1_3D + t,together
+LH_MID_1_3D + r,room
 f + y,family
-a + e + s,stay
-l + o + s,lose
-s + t + u,stuff
-n + o + s,son
-p + s + t + u,stupid
-a + e + m + n,name
+' + s,stay
+i + u,lose
+k + s,stuff
+LEFT_ALT + s,son
+s + v,stupid
+RH_INDEX_3D + n,name
 d + e,everybody
-a + l + s,last
-g + l + o,long
-n + o + t,tonight
+RH_INDEX_3D + l,last
+DUP + i,long
+RH_INDEX_3D + o,tonight
 c + h,child
-i + s + t,sit
+RIGHT_ALT + s,sit
 c + u,course
-p + r + t,pretty
-h + l + o,hold
-a + e + g,game
+r + v,pretty
+d + m,hold
+LEFT_ALT + g,game
 f + g,forget
-e + l + s,else
-b + n + o,own
+RH_MID_1_3D + e,else
+LH_THUMB_2_3D + o,own
 f + v,five
-c + e + s,second
+d + u,second
 c + d,doctor
 d + l,dollar
-e + n + o,enough
-d + n,dog
-f + n + u,funny
-a + e + w,wear
-d + e + i,die
-i + r + s,sir
-a + h + r,hard
-h + n + o,honey
-o + s + u,sound
+LH_INDEX_3D + n,enough
+DUP + c,dog
+k + u,funny
+LH_INDEX_3D + LH_THUMB_2_3D,wear
+c + i,die
+LH_MID_1_3D + s,sir
+RH_THUMB_1_3D + r,hard
+RH_THUMB_1_3D + o,honey
+RH_RING_1_3D + o,sound
 s + x,sex
-LEFT_ALT + a + e + h,hate
-p + s + u,suppose
-a + c + e + h,head
-n + u,understand
-a + h + o + w,whoa
-m + o + p,movie
-o + r + w + y,worry
-DUP + c,cool
-a + m + r,marry
-i + m + s,miss
-a + p + y,pay
-h + o + r + u,hour
+LH_INDEX_3D + RH_THUMB_1_3D,hate
+u + v,suppose
+a + e + h,head
+DUP + u,understand
+LH_THUMB_2_3D + RH_THUMB_1_3D,whoa
+LH_THUMB_1_3D + i,movie
+LH_MID_1_3D + LH_THUMB_2_3D,worry
+RIGHT_ALT + c,cool
+RH_INDEX_3D + m,marry
+RH_RING_1_3D + m,miss
+a + v,pay
+LH_MID_1_3D + RH_THUMB_1_3D,hour
 c + y,crazy
-a + c + h,change
-e + h + o,hot
-m + o + s + t,most
+RH_THUMB_1_3D + c,change
+h + o + t,hot
+LH_THUMB_1_3D + s,most
 e + x,excuse
-m + o + t,mother
-c + e + h,check
+LH_THUMB_1_3D + t,mother
+c + f,check
 i + p,pick
-d + o + r + w,word
-a + m + s,same
+LH_THUMB_2_3D + r,word
+RH_INDEX_3D + s,same
 l + y,yourself
-a + d + r,ready
-e + m + s,seem
-i + n + w,win
-a + l + w,walk
-f + t,father
-o + s + t,story
-a + d + l + r,already
+RH_INDEX_3D + r,ready
+LH_INDEX_3D + s,seem
+LH_THUMB_2_3D + i,win
+LH_THUMB_2_3D + a,walk
+k + r,father
+RH_RING_1_3D + t,story
+RH_MID_1_3D + a,already
 h + o + v,hope
-a + p + r,part
-e + o + p,open
-a + d + l,lady
-LEFT_ALT + a + d + r,read
-d + i + r,drink
-e + l + p + s,sleep
-n + r,number
-i + r + w,write
-m + n + o + r,morning
-m + o + r + t,tomorrow
+LEFT_ALT + p,part
+n + p,open
+' + l,lady
+LH_INDEX_3D + a,read
+LEFT_ALT + d,drink
+RH_MID_1_3D + s,sleep
+LH_RING_1_3D + n,number
+LH_THUMB_2_3D + t,write
+LH_THUMB_1_3D + r,morning
+LH_MID_1_3D + RH_INDEX_3D,tomorrow
 n + x,next
-n + p,phone
-f + o + u,four
-c + n + o,once
-b + s,somebody
-o + p + r,probably
-u + w,without
-a + m + n + y,many
-c + s + u,such
-DUP + e + y,eye
+RIGHT_ALT + p,phone
+RIGHT_ALT + f,four
+RH_MID_1_3D + o,once
+u + w,somebody
+p + w,probably
+LH_THUMB_2_3D + RH_INDEX_3D,without
+LH_THUMB_1_3D + a,many
+LH_RING_1_3D + s,such
+RH_RING_1_3D + e,eye
 d + v,drive
-f + w,wife
-b + k + o,book
-g + h,hang
-i + n + s,since
-h + o + r + t + w,throw
-a + d + e,dead
-n + s + t,stand
-l + m,myself
+LH_THUMB_2_3D + f,wife
+LH_MID_1_3D + b,book
+RH_MID_1_3D + h,hang
+RH_RING_1_3D + i,since
+LH_INDEX_3D + RH_INDEX_3D,throw
+RIGHT_ALT + d,dead
+RH_INDEX_3D + RH_RING_1_3D,stand
+h + k,myself
 LEFT_ALT + a + w,aw
-d + i + n,dinner
-a + n + y,anyone
-a + h + n,hand
-a + c + e,each
-a + n + w + y,anyway
-t + v,television
-a + e + i,learn
-h + s + u,shut
-n + o + t + w,town
-b + t,beautiful
-b + o + t,both
-d + r + t,date
-e + p + s,spend
-c + f + o,office
-h + i + t,hit
-e + t + y,yet
-s + v,save
-r + t + u,true
-e + s + w,sweet
-i + u,until
-c + f + n,food
-h + i + l + w,while
-e + n + s,send
-g + h + i,high
-a + m + n + o + y,anymore
-a + l + o + s,also
-e + n + s + w,news
-c + i,christmas
+LH_MID_1_3D + d,dinner
+RH_INDEX_3D + RH_MID_1_3D,anyone
+RH_THUMB_1_3D + n,hand
+RH_INDEX_3D + e,each
+RH_RING_1_3D + a,anyway
+RH_INDEX_3D + v,television
+LH_INDEX_3D + l,learn
+RH_THUMB_1_3D + s,shut
+o + t + w,town
+RH_THUMB_2_3D + e,beautiful
+RH_THUMB_2_3D + o,both
+RH_INDEX_3D + d,date
+RH_RING_1_3D + p,spend
+LH_MID_1_3D + f,office
+RH_THUMB_1_3D + i,hit
+LEFT_ALT + y,yet
+RH_RING_1_3D + v,save
+RH_INDEX_3D + u,true
+LH_THUMB_2_3D + s,sweet
+RIGHT_ALT + u,until
+c + f + o,food
+RH_MID_1_3D + w,while
+LH_INDEX_3D + RH_RING_1_3D,send
+RH_THUMB_1_3D + g,high
+RH_INDEX_3D + y,anymore
+LH_MID_1_3D + a,also
+LH_INDEX_3D + RH_MID_1_3D,news
+LH_THUMB_1_3D + h,christmas
 e + n + t,ten
-DUP + a + s,ass
-b + s + u,business
-c + o + u,couple
-l + o + t + y,totally
-d + o + r,door
+a,ass
+LH_RING_1_3D + b,business
+LH_MID_1_3D + c,couple
+t,totally
+LH_INDEX_3D + d,door
 g + y,gay
-a + e + x,exactly
-a + n + p + r,parent
-e + f + w,few
-m + n + o + t,month
-a + e + u,easy
-a + d + e + l,deal
+t + x,exactly
+RH_INDEX_3D + p,parent
+LH_INDEX_3D + f,few
+RH_MID_1_3D + m,month
+LH_INDEX_3D + y,easy
+RH_MID_1_3D + d,deal
 LEFT_ALT + o + w,ow
-h + r + u,hurt
+RH_THUMB_1_3D + u,hurt
 n + y,nobody
-LEFT_ALT + k + o,ok
-c + e + p,perfect
-e + i + l,lie
-k + r,free
-o + u + y,young
-e + i + w,weird
-a + e + h + w,whatever
-b + o + r,brother
-a + g + o,ago
+LH_MID_1_3D + k,ok
+g + p,perfect
+LH_MID_1_3D + l,lie
+f + r + t,free
+' + n,young
+LH_THUMB_2_3D + d,weird
+b + v,whatever
+RH_THUMB_2_3D + r,brother
+RH_INDEX_3D + g,ago
 d + e + n,end
-a + b + l,ball
-a + f + i + n,finally
-LEFT_ALT + e + i + l,line
-i + t + u,its
-RIGHT_ALT + a + h,ha
-DUP + i,important
-a + f + l,fall
-RIGHT_ALT + a + e + h,heart
+RH_INDEX_3D + b,ball
+' + f,finally
+RH_MID_1_3D + i,line
+RIGHT_ALT + i,its
+LEFT_ALT + a + h,ha
+LH_MID_1_3D + p,important
+RH_INDEX_3D + f,fall
+h + r + t,heart
 a + e + f,fat
-a + c + l,class
-h + o + s,shoot
-c + i + p,picture
-DUP + e + l + s,sell
-d + i + s,side
-i + s + w,wish
-d + m,mind
+RH_MID_1_3D + c,class
+RH_RING_1_3D + h,shoot
+LH_THUMB_1_3D + p,picture
+RH_RING_1_3D + l,sell
+LH_MID_1_3D + RH_RING_1_3D,side
+RH_RING_1_3D + w,wish
+LH_THUMB_1_3D + n,mind
 a + h + i,hair
-c + t,cut
-d + e + w,wedding
-a + r + s,reason
-b + c + e,become
-a + e + l + s,least
-b + i + t,bite
-d + u,under
-b + c + t,bed
-a + e + p,paper
-d + e + i + n,different
-c + r + t,catch
-i + m + n,mine
-i + s + x,six
+LH_RING_1_3D + c,cut
+LH_THUMB_2_3D + n,wedding
+RH_RING_1_3D + r,reason
+LH_INDEX_3D + RH_THUMB_2_3D,become
+RH_MID_1_3D + RH_RING_1_3D,least
+RH_THUMB_2_3D + i,bite
+RH_MID_1_3D + u,under
+b + c + e,bed
+DUP + v,paper
+RH_MID_1_3D + RH_THUMB_1_3D,different
+RH_INDEX_3D + c,catch
+LH_THUMB_1_3D + RH_MID_1_3D,mine
+u + x,six
 e + s + t,set
-c + f,face
-k + s,speak
-d + s + u,suck
-e + m + o + s,sometimes
-c + i + t,city
-c + e + p + s,special
-c + i + s + t,stick
+LH_THUMB_1_3D + f,face
+RH_RING_1_3D + RH_THUMB_1_3D,speak
+RH_RING_1_3D + u,suck
+LH_THUMB_1_3D + RH_RING_1_3D,sometimes
+' + c,city
+RH_RING_1_3D + c,special
+RH_RING_1_3D + k,stick
 q + u,question
-d + e + u,dude
+LH_RING_1_3D + d,dude
 r + z,realize
-b + i + r,birthday
-n + o + p,point
+LH_MID_1_3D + RH_THUMB_2_3D,birthday
+RH_MID_1_3D + p,point
 e + j,enjoy
-a + c + f,fact
-a + d + n,dance
-DUP + n + o + s,soon
-a + r + w,bar
-d + n + o + w,wonder
+LH_THUMB_1_3D + RH_THUMB_1_3D,fact
+LH_THUMB_1_3D + d,dance
+RH_RING_1_3D + n,soon
+RH_THUMB_2_3D + a,bar
+LH_THUMB_2_3D + RH_MID_1_3D,wonder
 j + k,joke
-a + i + l + r,relationship
-a + c + h + n,chance
-a + b + c + l,black
+RH_MID_1_3D + r,relationship
+LH_THUMB_1_3D + RH_INDEX_3D,chance
+RH_MID_1_3D + b,black
 a + l + m,almost
 f + g + i,fight
-a + c + d + r,card
-g + n + o + s,song
-b + e + y,bye
-c + e + f + o,coffee
-a + e + s + w,awesome
+LH_INDEX_3D + c,card
+RH_RING_1_3D + g,song
+RH_RING_1_3D + b,bye
+LH_INDEX_3D + LH_THUMB_1_3D,coffee
+RH_INDEX_3D,awesome
 c + i + s,sick
-a + m + p + r,apartment
-f + g + i + u,figure
-l + p + u,pull
-o + w + x,box
-a + d + m + r,dream
-r + t + w,water
+a + p + r,apartment
+LH_RING_1_3D + f,figure
+LH_RING_1_3D + p,pull
+w + x,box
+RH_THUMB_1_3D + m,dream
+a + e + w,water
 c + d + e,decide
-o + r + s + t,store
-b + e + t,bet
-l + u,lunch
-a + b + n + y,anybody
-a + f + r,afraid
-b + c + u,buddy
-c + t + u,cute
-c + l + o,close
-a + b + o + r,bathroom
-e + l + s + t,steal
-f + l + u,full
-c + o + p,company
-f + o + r,front
-a + d + e + m,ahead
-e + m + n + o,moment
+o + s + t,store
+RH_THUMB_2_3D + t,bet
+LH_RING_1_3D + l,lunch
+RH_INDEX_3D + RH_THUMB_2_3D,anybody
+RH_INDEX_3D + i,afraid
+RH_THUMB_2_3D + u,buddy
+LH_THUMB_1_3D + u,cute
+LH_THUMB_1_3D + l,close
+LH_THUMB_1_3D + b,bathroom
+e + t + u,steal
+LH_RING_1_3D + RH_THUMB_1_3D,full
+d + y,company
+RH_MID_1_3D + f,front
+a + e + m,ahead
+m,moment
 a + c + s,case
-h + o + t + u,though
-b + o + y,body
+LH_RING_1_3D + RH_INDEX_3D,though
+RH_THUMB_2_3D + y,body
 m + r + s,mrs
 a + n + p,pants
-b + c + i + t,bitch
-m + p,promise
-a + g + l,glad
-DUP + k,kiss
-e + i + t,either
+RH_THUMB_2_3D + c,bitch
+LH_INDEX_3D + p,promise
+RIGHT_ALT + g,glad
+LEFT_ALT + k,kiss
+LH_MID_1_3D + e,either
 f + i + r,fire
-g + o + r,grow
-b + i + u,build
-b + l + t,table
-c + e + i + t,ticket
-DUP + a + e + m,matter
-c + e + t,teach
-LEFT_ALT + a + c,cat
-e + i + s + t,sister
-DUP + g,girlfriend
-RH_INDEX_3D + h,hat
+LH_INDEX_3D + g,grow
+LH_RING_1_3D + RH_THUMB_2_3D,build
+b + r + t,table
+RH_INDEX_3D + k,ticket
+LH_THUMB_1_3D,matter
+a + c + e,cat
+s,sister
+LH_MID_1_3D + g,girlfriend
+m + r + t,hat
 o + t + u,touch
-b + e + i + t,terrible
 a + b + e,beer
 a + d + m,damn
 - + m,mm-hmm
-c + l + u,club
+LH_RING_1_3D + LH_THUMB_1_3D,club
 a + z,amaze
-e + l + m + s,smell
+RH_RING_1_3D,smell
 f + g + i + t,gift
-e + i + s,serious
-a + l + p,plan
-DUP + r + s + t,street
-LEFT_ALT + e + m + t,team
-c + o + r,order
-c + r + y,cry
+LH_RING_1_3D + RH_RING_1_3D,serious
+RH_THUMB_1_3D + l,plan
+r + s + t,street
+LH_INDEX_3D + o,order
+' + d,cry
 e + z,zero
-d + n + r,drop
-RIGHT_ALT + a + c,act
+d + o + r,drop
+a + d + e,act
 a + l + o,alone
-LEFT_ALT + a + e + s,seat
+a + e + s,seat
 LEFT_ALT + e + h,eh
 b + w,between
-e + g + i,eight
+LH_INDEX_3D + i,eight
 e + t + w,twenty
 f + o + t,foot
 e + s + v,seven
-f + i + n + s,finish
-e + g + n,gentleman
-b + l + o,blow
-a + l + m + s,small
+RH_RING_1_3D + f,finish
+RH_MID_1_3D + g,gentleman
+RH_THUMB_2_3D + l,blow
+a + m + s,small
 o + r + t,trouble
-e + s + t + w,sweetie
-g + i + n + s,sing
+LH_THUMB_2_3D + RH_RING_1_3D,sweetie
+i + n + s,sing
 a + p + s,pass
-b + r + t,beat
+r + t + w,beat
 e + i + p,piece
-e + h + o + s,shoe
-e + l + w,welcome
-h + i + t + w,white
-DUP + i + k,kick
-b + g,bag
-a + e + l + y,early
-c + e + x,excite
-d + e + n + o + w,wonderful
-e + i + s + u,seriously
-c + n + o + u,country
+h + o + s,shoe
+LH_THUMB_2_3D + l,welcome
+h + i + w,white
+RIGHT_ALT + k,kick
+LH_THUMB_2_3D + b,bag
+LH_INDEX_3D + x,excite
+LH_RING_1_3D + w,wonderful
+a + e + u,seriously
+LH_THUMB_1_3D + y,country
 m + o + u,mouth
-LEFT_ALT + a + d + e,dear
+d + r + t,dear
 i + q,quite
 a + m + r + s,smart
-a + h + s + u,husband
+h + s + u,husband
 g + h + s,shh
-i + v,invite
-LEFT_ALT + r + s + t,rest
-o + r + u + y,yours
-b + e + i,behind
+LH_MID_1_3D + RH_MID_1_3D,invite
+r + t + u,rest
+RIGHT_ALT + y,yours
+RH_THUMB_2_3D + n,behind
 k + y,key
-d + r + s,dress
-LEFT_ALT + d + r,red
-a + l + u,laugh
+RH_RING_1_3D + d,dress
+c + r + t,red
+LH_RING_1_3D + RH_MID_1_3D,laugh
 a + g + r,agree
-a + h + m,machine
-e + p + y,yep
-n + r + t + u,return
+d + m + r,machine
+v + y,yep
+LH_RING_1_3D + r,return
 a + c + p + s,space
-d + m + r,mad
+a + c + h,mad
 h + r + t + u,truth
-c + e + i,ice
+LH_INDEX_3D + LH_MID_1_3D,ice
 f + l + o,follow
-o + s + t + u,outside
-d + i + t,idiot
-l + r + u,rule
-a + b + s,absolutely
+LH_RING_1_3D + o,outside
+i,idiot
+LH_INDEX_3D + u,rule
+LH_RING_1_3D + a,absolutely
 a + g + i,against
-a + e + i + m,american
+LH_INDEX_3D + a + m,american
 a + c + r + s,scare
-c + n + o + t,notice
-c + h + i,chicken
-c + i + r,ride
-i + m + s + u,music
+n + o + t,notice
+c,chicken
+d + i + r,ride
+m + s + u,music
 i + j,join
 - + g,good-bye
-i + r + u,ruin
-LEFT_ALT + a + r + w,war
+LH_INDEX_3D + LH_RING_1_3D,ruin
+a + r + w,war
 c + r + s,screw
 g + i + l,light
-a + g + l + o,along
-a + o + p,poor
-DUP + e + n + s,sense
-a + b + e + l,able
-c + e + s + t,secret
-f + l + y,fly
+a + i + n,along
+o + p + r,poor
+e + n + s,sense
+a + b + l,able
+c + e + s,secret
+' + k,fly
 o + p + t,top
 a + f + i,fair
 r + x,relax
-b + o + r + y,boyfriend
-i + m + s + t,mistake
-d + l + u,luck
-g + p,group
+RH_RING_1_3D + RH_THUMB_2_3D,boyfriend
+i + m + s,mistake
+RH_MID_1_3D + k,luck
+LH_RING_1_3D + g,group
 a + d + u,daughter
-c + e + l + o,college
-p + r + s,president
-a + k + r,far
+c + l + o,college
+p + r + t,president
+a + f + r,far
 g + i + s,sign
-a + e + m + s,message
+e + m + s,message
 f + k,freak
 a + f + u,fault
 c + q,quick
 i + l + t,till
-c + e + t + x,except
-e + g + i + n + s,single
-h + i + r + s,shirt
+e,except
+g + i + n + s,single
+h + i + s,shirt
 c + h + o,choice
-a + e + n,attention
-p + w,power
+LH_THUMB_2_3D + p,power
 q + t,quit
 a + n + s,answer
 r + s + t + u,trust
-f + i + t,fifty
+RH_THUMB_1_3D + y,fifty
 e + g + l,leg
 a + f + w,wake
 h + m + u,human
-RIGHT_ALT + r + s + t,star
-d + s + t + u,student
+s + t + u,student
 a + i + r,air
 a + c + h + i,chair
-g + n + u,gun
-b + e + g,begin
-RIGHT_ALT + a + d + e,death
-DUP + r + t,tree
-b + o + s,boss
-n + p + r + s,present
+LH_THUMB_2_3D + u,gun
+RH_THUMB_2_3D + g,begin
+RH_INDEX_3D + d + e,death
+RH_THUMB_2_3D + s,boss
+a + e + p,present
 i + n + s + t,instead
-c + l + u + y,lucky
+i + y,lucky
 a + f + s,safe
 c + d + l + o,cold
 a + g + h,ahh
-e + l + x,explain
-d + i + v,video
-a + b + i + r,brain
-c + l + o + p,completely
-e + o + v,voice
-c + f + r,cake
+e + v + x,explain
+LEFT_ALT + v,video
+RH_MID_1_3D + RH_THUMB_2_3D,brain
+c + h + n,completely
+RIGHT_ALT + v,voice
+a + c + f,cake
 i + r + t,trip
-e + m + n + o + y,monkey
+m + n + o,monkey
 h + n + u,hundred
-i + k + x,fix
-e + i + n + t,entire
-t + x,expect
+k + x,fix
+LH_INDEX_3D,entire
+t + v + x,expect
 i + l + m,million
 a + l + o + w,allow
-f + o + r + v,forever
-DUP + u,ugh
-c + h + l,hide
-e + g + h + u,huge
-e + i + n + s + t,interesting
-l + o + r,roll
+RH_THUMB_1_3D + v,forever
+LH_RING_1_3D + LH_THUMB_2_3D,ugh
+c + h + i,hide
+g + h + u,huge
+LH_MID_1_3D,interesting
+r,roll
 c + l + o + t,clothes
 f + r + s,fast
-a + b + g + r,grab
-c + e + h + t,teacher
-a + c + p + r,crap
-a + i + n,animal
+LH_THUMB_2_3D + RH_THUMB_2_3D,grab
+a + c + r,crap
+a + i + m + n,animal
 b + r + u,burn
 g + o + t + u,tough
-n + r + s + t + u,restaurant
 o + r + s,sort
-m + n + t,tooth
-a + i + m + r,marriage
+m + o + t,tooth
+a + m + r,marriage
 o + p + r + u,proud
-c + n + u,uncle
-u + v,push
+LH_RING_1_3D + e,uncle
+p + s + u,push
 b + t + u,butt
-e + f + o,offer
-d + l + o + r,lord
-e + n + u,unless
+o,offer
+l + o + r,lord
+u,unless
 e + f + l,feeling
 i + s + u,suit
 - + u,uh-huh
 f + l + o + r,floor
-LEFT_ALT + a + c + r,cream
 a + f + v,favorite
 a + k + n,naked
-i + l + s + t,list
+i + l + s,list
 i + n + r,ring
 c + e + l,clean
-a + l + o + p,apologize
+a + q,apologize
 a + c + e + l,clear
-RH_INDEX_3D + e,earth
 a + h + s,share
 f + i + l,fill
 p + z,pizza
 c + d + i + r,ridiculous
-a + v,alive
-n + p + r + t,pretend
-h + o + s + t,hospital
+a + i + l,alive
+r + t + v,pretend
+h + o + u,hospital
 a + d + s,sad
-b + n + u,bunch
+LH_THUMB_1_3D + RH_THUMB_2_3D,bunch
 a + h + l,half
 l + o + p,police
 f + i + s,fish
-d + i + n + w,window
-s + u + w,busy
+w,window
+b + s + u,busy
 i + p + t,pie
 a + i + r + s,raise
-e + h + m + o + s,somewhere
+m + o + s,somewhere
 a + d + n + s,sandwich
-h + i + r + t,thirty
-a + i + s,sale
+h + i + t,thirty
+a + l + s,sale
 c + h + o + s,choose
-d + y,definitely
-s + t + w,swear
+d + e + k,definitely
+e + s + w,swear
 a + b + o,boat
-d + i + r + t,tired
+l + r + t,tired
 LEFT_ALT + h + o,ho
 e + p + s + u,upset
-e + l + u,less
-e + i + n,nine
-h + o + s + t + u,thousand
+l,less
+n,nine
+h + o + t + u,thousand
 m + n + s,smoke
 b + e + m,embarrass
 a + b + n,band
-LEFT_ALT + a + b + e,bear
-DUP + e + n + o,none
-DUP + a + n + s,santa
-n + o + r + s + t,strong
-l + r + w,law
-e + l + o + t,toilet
+RH_INDEX_3D + b + e,bear
+RH_MID_1_3D,none
+a + o + s,santa
+o + r + s + t,strong
+a + l + w,law
+l + o + t,toilet
 j + m,jump
-c + n + o + t + u,count
+c + o + u,count
 DUP + e + g,egg
-a + s + u,saturday
+a + e + s + u,saturday
 b + l + u,blue
 h + o + r,horrible
 h + i + s + t,shit
 a + f + o + v,favor
-a + e + h + n,handle
-DUP + a + l + w,wall
-LEFT_ALT + a + r,art
-c + e + o,cover
-LEFT_ALT + a + m + r,arm
-a + e + p + s,perhaps
+a + h + n,handle
+LH_THUMB_2_3D,wall
+c + o + p,cover
+a + h + r,arm
+a + e + v,perhaps
 i + m + p + s,simple
-LEFT_ALT + b + s + u,bus
-a + c + i + p + r,appreciate
+s + u + w,bus
+a + r + v,appreciate
 h + i + m,himself
-p + r + s + u,surprise
+r + s + u,surprise
 a + c + n,candy
-f + g + i + n,finger
-o + r + t + w,worth
-DUP + e + s + t,state
+f + i + n,finger
+o + r + w,worth
 o + p + s,possible
-c + h + i + r,rich
+c + i + r,rich
 h + o + r + s,short
 i + k + n,king
-k + n + o,knock
-DUP + c + e + o,cookie
+k,knock
+c + f + n,cookie
 e + n + p,penis
-h + i + r + s + t,history
+h + i + u,history
 a + i + m,imagine
-l + m + t,third
-b + i + n,blood
+h + i + r + t,third
+b + l + o,blood
 d + r + u,drug
 f + t + u,future
 p + v,prove
-a + g + i + l + r,alright
+a + l + r,alright
 a + c + p,captain
 e + n + v,evening
-c + n + o + r,congratulations
-e + m + s + t,system
-c + d + o + r,record
-DUP + a + e,age
+c + n + o,congratulations
+' + s + t,system
+c + o + r + t,record
+a + e + g,age
 d + e + s,deserve
 n + o + r,normal
 DUP + y,yesterday
 j + r,jerk
-DUP + a + y,yay
-a + b + i,bird
-e + n + o + s,nose
-b + e + o + t,bother
+' + DUP,yay
+b + i + r,bird
+n + o + s,nose
+b + o + t,bother
 a + f + n,fan
 e + l + t,letter
-LEFT_ALT + a + h + r,rather
-d + e + i + n + s + t,interested
+i + n + t,interested
 e + o + w,owe
-g + p + r,pregnant
+g + p + r + t,pregnant
 d + e + s + t,destroy
 e + i + v,evil
 h + i + l,milk
 o + p + r + s,sport
 a + d + i + m,admit
-a + n + p + r + y,apparently
-c + e + n + o,conversation
-b + o + v,obviously
-- + h + u,uh-oh
+LH_INDEX_3D + a + p,apparently
+d + n + o,conversation
+LH_MID_1_3D + v,obviously
+- + s,uh-oh
 a + j,jacket
 d + i + r + u,during
 a + c + e + p,accept
 d + m + u,dumb
-b + e + l,bit
+b + i + t,bit
 c + n + o + s,consider
 e + m + n,mention
 e + p + s + t,step
 g + h + n + u,hungry
-i + s + t + u,situation
-d + l + r + t,lead
+i + s + t,situation
+a + e + l,lead
 e + l + t + w,twelve
-a + f + n + s,fantastic
-e + h + l + o,hole
-l + p + s + u,plus
+a + f + o,fantastic
+h + l + o,hole
+l + p + u,plus
 e + n + o + t,note
-e + t + u,test
-e + h + n + o,honest
+DUP + e + s + t,test
+h + n + o,honest
 a + c + h + r,character
 h + l + o + y,holy
-DUP + a + e + m + n,manager
-e + l + o + s,lesson
-l + o + s + u,soul
-e + n + o + p,nope
-a + d + k + r,dark
-c + d + e + i + n,difference
-e + i + n + w,wine
-a + d + o + r,road
-a + c + i,calm
-e + o + p + s,personal
+a + m + n,manager
+e + l + s,lesson
+o + s + u,soul
+n + o + p,nope
+RH_THUMB_1_3D + k,dark
+d + i + k,difference
+i + n + w,wine
+a + o + r,road
+a + c + l,calm
+a + e + p + s,personal
 c + i + n,clown
-c + o + p + u,computer
+d + m + o,computer
 a + h + o,horse
 g + o + s,gosh
-a + m + o + y,mayor
+a + m + y,mayor
 d + i + n + s,inside
-e + s + x,sexy
-d + i + r + t + y,dirty
+RH_RING_1_3D + x,sexy
+d + i + r + t,dirty
 a + c + r + y,carry
-r + v,professor
-a + l + s + u,usually
+n + p + r,professor
+LH_RING_1_3D + y,usually
 b + l + o + t,bottle
-c + e + h + s,cheese
+c + e + h,cheese
 e + m + s + u,summer
-i + m + r,remind
-a + e + f + n,afternoon
+i + m + r + t,remind
+a + e + k,afternoon
 e + g + p,pee
 a + c + o + r,across
 a + g + n,angry
 a + e + f + l,fella
 f + i + l + m,film
-LEFT_ALT + a + c + h + r,reach
 h + o + s + w,shower
 c + p + u,cup
-a + l + w + y,lawyer
-DUP + a + c + e,camera
+' + i,lawyer
+c + h + r,camera
 a + i + p,pain
-h + r + u + y,hurry
+h + r + u,hurry
 d + e + k + s,desk
 m + n + o + s,monster
-c + e + i + n + t,certainly
 c + n + p,cop
-c + d + r,credit
-r + t + v,prepare
-a + h + n + w + y,anywhere
-a + b + k + r,breakfast
-a + b + r + s,bastard
+c + d + r + t,credit
+a + n + y,anywhere
+RH_THUMB_2_3D + k,breakfast
+a + b + s,bastard
 c + h + u,church
 h + i + r,hire
 c + d + e + i,decision
 g + i + p,pig
-l + o + u,loser
-b + o + r + t,robot
+l + o + s,loser
+b + o + r,robot
 d + e + v,deep
-k + p,park
+a + k + p + r,park
 c + h + l + o,chocolate
-e + i + s + v,service
+a + e + s + v,service
 j + w,jew
-e + p + t,tape
-h + k,kitchen
+LH_INDEX_3D + k,kitchen
 d + l + r,rid
-a + g + n + r,grandpa
+g,grandpa
 a + e + h + o,hero
-h + n + s,shot
+h + o + s + t,shot
 o + p + s + t,spot
 f + k + l + o,folks
-e + l + y,yell
+' + g,yell
 a + f + u + w,awful
 c + e + n + s,scene
 c + i + r + t,trick
 a + h + o + s,asshole
-DUP + e + i + s + u,issue
-l + o + v,lovely
-DUP + v,visit
+LH_RING_1_3D + i,issue
+RH_MID_1_3D + v,lovely
+v,visit
 h + n + o + r,honor
-d + i + m,chick
+c + h + l,chick
 c + o + s,costume
-a + f + i + r,friday
+f + l + r,friday
 h + l + r,hall
 LEFT_ALT + m + s,ms
 a + f + k,fake
-f + g + o + r,forgive
+f + o + r,forgive
 a + d + g + r,grade
-e + f + i + t,fifteen
-g + o + u,ought
-c + h + t,cheat
+f + i + t,fifteen
+LH_MID_1_3D + u,ought
+a + c + e + h,cheat
 c + h + i + n,chinese
-DUP + a + c + r,create
-c + f + o + r,comfortable
-e + h + l + o + t,hotel
-a + i + m + n,magazine
-DUP + e + l + s + t,settle
-a + c + d + i,accident
-c + e + l + x,excellent
-e + g + i + n,neighbor
-i + n + r + t,train
-b + n + r,board
+d + m + n,comfortable
+e + h + o + t,hotel
+m + q,magazine
+e + l + s + t,settle
+a + c + i,accident
+c + e + x,excellent
+e + i + n,neighbor
+a + b + o + r,board
 g + o + p,pop
 i + p + s,spirit
 b + c + o,cow
-b + i + l + u,building
-RIGHT_ALT + a + e,ear
+b + i + u,building
 a + g + i + n,giant
 g + l + u,ugly
 o + t + y,toy
 a + c + e + n,cancel
-DUP + e + i + n + t,internet
-n + r + s + t,strange
+e + i + n + t,internet
+LH_INDEX_3D + s + t,strange
 a + n + u,aunt
 a + i + l + s,island
 e + t + x,extra
 e + f + i,fit
-c + n + r,rock
-a + c + i + n,action
+c + o + r,rock
+a + c + e + i,action
 b + i + l,bill
 e + f + i + l,field
-f + r + t,fresh
+k + r + t,fresh
 e + l + v,level
 c + o + s + t,cost
 s + z,size
 DUP + c + e + l,cell
-DUP + e + s + v,serve
+r + s + t + v,serve
 a + h + k + s,shake
 c + e + n,neck
-b + o + w,bowl
-c + n + o + r + t,control
-d + l + o + u,loud
-b + e + m + o,bedroom
+RH_THUMB_2_3D + w,bowl
+c + n + o + t,control
+l + o + u,loud
+RH_THUMB_2_3D + m,bedroom
 a + e + h + v,heaven
-a + c + e + o,commercial
-a + d + r + w,draw
+c + e + h + o,commercial
+a + d + r,draw
 e + g + u,guest
 a + i + n + s,insane
 a + f + i + l,fail
-DUP + c + o,cook
+d + k + o,cook
 e + l + p,pleasure
 c + r + t + u,truck
 c + e + i + s,science
-a + c + f + r,careful
-e + n + o + v,nervous
-a + h + l + o,although
+LH_INDEX_3D + a + c,careful
+a + e + n,nervous
+a + e + i,although
 a + g + s,gas
-a + r + v,partner
+RH_INDEX_3D + p + r,partner
 LEFT_ALT + e + w,ew
-c + r + u,scream
+d + r + s,scream
 i + n + p,pool
-a + e + v,appear
-a + c + e + l + y,clearly
-DUP + i + l + s,silly
+RH_THUMB_1_3D + a + e,appear
+c + l + t,clearly
+i + l + u,silly
 c + e + f,feed
-c + h + r,charge
+a + d + m + r,charge
 e + h + i + n + t,neither
 a + s + w,wash
 i + k + n + s + t,stink
 DUP + a + m,magic
-a + e + l + p,plane
+a + l + p,plane
 i + n + t + y,tiny
 i + p + r,prison
-a + c + s + u,cause
-m + n + p,photo
-i + l + p + u,public
+a + c + u,cause
+m + o + p,photo
+p + u + w,public
 b + o + t + u,button
 f + l + o + w,flower
-e + m + o + y,memory
+e + m + o,memory
 a + b + e + s,base
 i + n + v,involve
-LEFT_ALT + a + d + m,madam
+RH_THUMB_1_3D + a + m,madam
 a + b + l + m,blame
-LEFT_ALT + e + t,tea
-h + n + w,whoo
+h + o + w,whoo
 b + i + k,bike
 f + z,freeze
-e + s + u + x,sexual
+e + s + x,sexual
 c + d + o,code
 b + c + e + l,celebrate
 c + h + o + u,couch
 c + i + p + r,price
-a + m + s + u,assume
+a + s + u,assume
 d + e + l,delicious
 f + o + r + t,forty
-a + l + p + y,player
+' + p,player
 o + p + s + u,soup
 a + u + w,waste
 a + c + o,coat
-d + g + l + o,doll
+d + l + o,doll
 c + e + s + u,security
-a + h + r + w,warm
-f + l + o + t,football
-d + m + o,model
+a + b + r,warm
+e + f + o,football
+d + e + m + o,model
 e + h + o + s + w,whose
 b + e + s,besides
-d + i + l + m,middle
-m + n + u,shop
-DUP + a + r,garbage
+d + i + m,middle
+h + n + s,shop
+a + b + g + r,garbage
 c + i + l,client
-g + o + r + u,ground
+g + o + r,ground
 a + e + l + m,lame
 j + p,project
-RIGHT_ALT + a + d + r,dare
+LH_INDEX_3D + a + d,dare
 e + i + p + s,episode
-a + g + l + s,glass
-g + n + r,green
-c + f + l + o,lock
-a + b + c + r,award
-i + r + s + t,straight
-b + e + n + u,unbelievable
+a + g + l,glass
+g + r + t,green
+d + i + n,lock
+a + d + r + w,award
+RH_INDEX_3D + r + s,straight
+LH_MID_1_3D + LH_RING_1_3D,unbelievable
 c + o + r + u,court
-e + i + x,experience
-k + l + o,final
+a + e + v + x,experience
+a + f + i + n,final
 a + g + l + r,large
 a + d + l + s,salad
-b + e + l + o,belong
-DUP + i + n + s + t,station
-DUP + LEFT_ALT + a + r,area
+b + e + l,belong
+i + r + s + t,station
 o + t + v,vote
 c + l + r,crime
-LEFT_ALT + a + e + m,meat
-a + m + o + r,romantic
-DUP + LEFT_ALT + r + t,treat
+RH_INDEX_3D + e + m,meat
+m + o + r,romantic
 f + o + r + w,forward
-a + e + g + l + s,glasses
-DUP + LEFT_ALT + e + s + t,taste
-e + h + i + w,weight
+a + g + l + s,glasses
+e + i + w,weight
 a + i + l + m,mail
 a + b + c,cab
   + t,two hundred
-b + n + o + r,boring
-f + i + n + r,information
-DUP + l + o + t,total
-a + c + e + h + n,channel
+b + n + r,boring
+k + l + o,information
+n + r + t,total
+a + c + h + n,channel
 a + g + p,page
-d + e + s + u,suddenly
+d + s + u,suddenly
 a + k + s,sake
-h + k + n + s + t,thanksgiving
+h + n + r + t,thanksgiving
 i + p + r + v,private
-f + n + r,french
-DUP + e + i + n + w,winner
+f + n + r + t,french
+e + i + n + w,winner
 a + p + u,past
-n + p + t,pen
+e + o + p,pen
 i + t + w,twice
 c + o + s + u,cousin
 j + s,jealous
 DUP + e + m + s,mess
 l + p + r,planet
-a + d + r + s,scary
-i + n + u,universe
-i + p + s + t + u,upstairs
-e + g + i + n + u,genius
-a + d + g + n,dangerous
+c + r + u,scary
+LH_RING_1_3D + v,universe
+LH_RING_1_3D,upstairs
+e + g + n,genius
+a + d + n,dangerous
 n + t + u,nuts
 o + r + u,ourselves
-RIGHT_ALT + a + c + r,race
+LH_THUMB_1_3D + a + r,race
 g + s + u,suggest
-RIGHT_ALT + a + e + s,sea
-d + k + l + o,officer
-l + m + r + t,meal
+LEFT_ALT + a + e + s,sea
+c + f + l + o,officer
+a + e + i + m,meal
 o + p + u,popular
 o + p + r + t,report
 f + g + i + l,flight
 d + i + r + v,driver
-e + h + l + w,wheel
+e + h + w,wheel
 d + m + s,dump
   + f,five hundred
 b + m + t,member
-' + o,yo
+LH_MID_1_3D + y,yo
 a + d + g,add
 c + f + n + o,confuse
 f + m + o + r,form
-e + g + o,government
+g + n + p,government
 n + s + u,sunday
-c + e + n + o + t + u,continue
+c + e + n + o,continue
 e + n + t + v,event
 e + q,quiet
 l + o + w,low
@@ -1083,337 +1058,316 @@ c + l + o + r,color
 h + j,jewish
 h + n + r,nah
 a + b + k + n,bank
-a + k + p + r,parking
+a + i + k + p + r,parking
 i + l + w,wild
 k + r + t + u,turkey
 b + l + r,blah
 g + h + o + t + u,thought
 a + f + m,famous
-g + i + n,gold
+g + l + o,gold
 n + o + p + u,pound
 i + k + s,skin
   + o,one hundred
-RIGHT_ALT + a + r,rat
-i + s + t + w,switch
-LEFT_ALT + e + i + t,tie
-DUP + LEFT_ALT + a + c + r,career
+i + s + w,switch
+e + i + t,tie
+RH_INDEX_3D + c + r,career
 c + j,juice
-c + o + p + r + t,protect
+a + o + p,protect
 a + h + m + s,shame
 b + m + o + t,bottom
-c + p + r + s,respect
+p + r + s + t,respect
 d + n + u,underwear
 a + d + i + n,indian
 c + l + o + s,closet
-e + i + m + t,meeting
+e + m + t,meeting
 LEFT_ALT + n + s + u,sun
-a + f + o,afford
-a + i + w,bald
+a + f + o + r,afford
+a + b + i,bald
 a + e + g + n,engage
 a + l + v,plant
 e + o + t + w,towel
 DUP + a + l + m,mall
-g + r + u,regular
-b + e + n + o,bone
+DUP + r + t,regular
+b + n + o,bone
 d + g + i,dig
-a + e + k,fear
-DUP + a + c + e + n,cancer
-c + d + i + s,discuss
+RH_INDEX_3D + e + f,fear
+c + n + r,cancer
+d + i + s,discuss
 a + c + f + n,fancy
 a + d + v,advice
 c + e + n + t,center
-a + i + v,apple
-e + h + v + y,everywhere
-a + h + l + o + y,holiday
+a + e + l + p,apple
+a + e + v + y,everywhere
+h + i + n,holiday
 a + c + h + s,cash
-DUP + c + n + o,common
+c + h + n + o,common
 c + r + s + u,crush
 c + p + r + t,peace
 a + n + r + w,warn
 a + d + l + u,adult
-LEFT_ALT + e + n + o + s,noise
 s + u + v,super
-LEFT_ALT + a + b + r,bread
-  + h + r + t,three hundred
+  + e,three hundred
 p + t + y,type
 b + o + r + w,borrow
-a + d + e + m + n,department
+d + t + v,department
 l + r + v,plate
-RIGHT_ALT + a + b + r,breathe
 a + c + l + s,classic
 a + f + m + r,farm
 d + g + i + s,disgusting
-DUP + l + t,tall
-a + l + p + r,replace
-e + m + n + s,somehow
-LEFT_ALT + e + h + t,theater
-c + d + e + i + s,discover
+DUP + l + r + t,tall
+l + p + r + t,replace
+e + m + o + s,somehow
+e + h + t,theater
+c + d + i + s,discover
 c + i + n + r,incredible
-e + l + p + t,plenty
+' + v,plenty
 a + b + e + l + s,baseball
-c + d + e + o,comedy
-DUP + e + n + t,enter
-d + i + n + r + t,introduce
+c + h + o + t,comedy
+e + o + t,enter
+i + n + r + t,introduce
 e + h + n + w,whenever
 b + e + t + u,butter
-l + o + p + s,possibly
-e + h + s + t + w,sweetheart
-a + i + j,jail
+n + p + s,possibly
+e + s + t + w,sweetheart
+. + a,jail
 a + e + o + s,season
-e + s + u,study
-a + i + l + m + r,miracle
-c + e + l + o + p,complete
+d + s + t + u,study
+i + m + r,miracle
 f + g + l + o,golf
 h + k + o,hook
-c + e + p + t,perfectly
-RH_INDEX_3D + s,stare
-a + f + g + l,flag
+a + e + k + p,perfectly
+a + f + l,flag
 j + z,jeez
-DUP + a + m + o + r,roommate
+a + m + o + r,roommate
 h + l + s,ship
 d + o + w,wood
-a + d + e + o,actor
-i + p + r + z,prize
-DUP + c + n + o + r,corner
-f + o + r + u,fourth
+a + c + e + o,actor
+q + v,prize
+c + n + o + r,corner
+f + o + u,fourth
 a + e + n + s,sneak
 i + p + u,piss
-c + e + o + p,pocket
+d + o + v,pocket
 i + t + v,tip
-DUP + a + e + l + y,lately
+RH_MID_1_3D + y,lately
 n + q,queen
-RIGHT_ALT + e + t,tear
-c + e + i + p + s,especially
+e + p + s,especially
 a + l + y,lay
-p + r + s + t,pressure
+p + r + t + u,pressure
 i + r + v,rip
-DUP + a + i + n + s,assistant
-LEFT_ALT + a + c + p,camp
+a + i + s,assistant
 d + j,judge
 n + o + r + t,north
 e + f + o + t,often
-a + h + l + o + w,halloween
-a + i + n + v,vacation
+a + h + l + o,halloween
+d + r + v,vacation
 i + m + p,impossible
 q + s,square
 e + f + l + t,left
-a + d + g + n + r,grandma
+a + g + n + r,grandma
 g + o + r + s,gross
-LEFT_ALT + a + l + p,pal
+a + i + v,pal
 i + l + m + s,smile
-p + s + t,speech
+c + e + p + s,speech
 b + s + t + u,bust
 DUP + g + t,gee
-a + h + n + s,handsome
+a + m + o,handsome
 a + e + f + s,safety
-c + n + o + t + u + y,community
+c + h + n + u,community
 a + b + c + e,beach
-' + g,gym
-DUP + o + s + t,toast
+LH_THUMB_2_3D + y,gym
+a + e + o,toast
 d + e + i + s,disease
 a + i + n + p,paint
 e + h + m + t,themselves
 d + m + n + o,monday
 c + p + r,pack
 n + p + u,punch
-c + s + t + u,customer
+c + s + u,customer
 a + e + h + l,healthy
 e + i + n + v,invent
 i + n + p + r,princess
-e + m + y,merry
+a + e + m + y,merry
 d + e + m + o + s,someday
-LEFT_ALT + b + i + l,blind
-LEFT_ALT + c + e + i + n + t,certain
+LH_MID_1_3D + b + l,blind
 l + o + s + v,solve
-DUP + a + e + s + w,sweater
-c + e + f + i + t,terrific
-LEFT_ALT + e + t + w,wet
-DUP + a + c,attack
-b + g + t,beg
-a + c + i + r,cigarette
+a + e + s + w,sweater
+b + e + t,wet
+a + c + e + f,attack
+b + e + g,beg
+DUP + c + i,cigarette
 a + g + s + u,sugar
 DUP + m + u,uhh
-d + e + n + w,weekend
+e + f + w,weekend
 d + o + s,sock
-e + m + n + y,emergency
-d + m + n,mood
+DUP + a + e + m,emergency
+RH_THUMB_1_3D + m + o,mood
 a + e + n + p,peanut
-g + s + t,stage
+g + r + s + t,stage
 g + i + t,tight
 DUP + m + s,gum
 DUP + m + n + o,moon
-a + n + r + u,nature
+a + e + n + u,nature
 g + o + p + r,program
 DUP + a + n,angel
 c + o + p + r,corporate
-e + i + s + x,exist
+e + i + x,exist
 g + h + o,ghost
-a + c + e + s + u,sauce
-h + m + o + s + t,stomach
+a + c + s + u,sauce
+m + o + s + t,stomach
 - + t,twenty-five
 b + c + l + o,block
-e + h + s,herself
+a + e + h + s,herself
 m + r + u,murder
-s + t + v,speed
+p + s + t,speed
 DUP + j,jesus
 m + x,mix
-LEFT_ALT + c + r + t,track
 o + p + r + t + u,opportunity
-c + e + o + s,society
+c + n + s,society
 - + w,whoo-hoo
 o + u + v,upon
-c + d + i,difficult
+d + k + l,difficult
 i + k + l,killer
 i + l + p,lip
 a + h + k + r,market
-d + g + n + o,goodness
-i + l + p + w,pillow
+d + g + o,goodness
+i + l + v,pillow
 a + i + r + v,arrive
 m + n + o + u,mountain
 i + l + p + s,slip
 b + e + l + t,belt
 DUP + e + m + s + u,museum
-LEFT_ALT + l + o,oil
-p + r + t + u,press
+a + e + p + u,press
 a + i + p + r,airplane
-a + l + r + v,airport
-e + h + n + o + s,honestly
+a + l + p + r,airport
+e + h + n + o,honestly
 c + e + n + o + t,contest
-a + f + l + u,fabulous
-e + p + u,spell
+f + r + w,fabulous
+e + l + p + s,spell
 e + h + o + w,whoever
-l + t + w,bell
-f + i + n + r + s,friendship
-DUP + a + i + n,national
-a + i + l,alien
-DUP + k + l + o,fool
+b + e + i,bell
+i + k + r,friendship
+a + e + i + n,national
+a + e + i + l,alien
+f + g + i + n,fool
 b + e + l + s,bless
-a + c + n + o + r,cartoon
-n + r + t,near
+LH_INDEX_3D + RH_INDEX_3D + c,cartoon
+RH_INDEX_3D + e + n,near
 l + s + w,swim
 b + g + r + u,burger
 f + r + u,fruit
 k + o + r,roof
-e + h + o + t + y,theory
+e + h + n + t,theory
 a + c + d + o + r,according
 g + i + u,guilty
-n + t + v,potato
+n + p + t,potato
 d + i + u,dish
-c + f + n + o + u,uncomfortable
+c + n + u,uncomfortable
 a + p + r + w,wrap
-d + e + m,cheap
+c + h + t,cheap
 e + m + p,employee
-e + i + n + t + v,interview
-e + m + o + p,perform
-i + p + r + s,spring
-e + g + t + x,text
+e + l + o,interview
+k + p + r + t,perform
+p + r + s,spring
+RH_INDEX_3D + x,text
 o + r + t + u,tour
 a + b + k,awkward
-e + n + x,expensive
-f + n + o + u,unfortunately
+e + n + v + x,expensive
+f + n + u,unfortunately
 p + r + u,purse
 - + h,ha-ha
-d + l + v,divorce
-LH_INDEX_3D + b,bra
+d + i + v,divorce
+LEFT_ALT + a + b + r,bra
 b + n + o + r + w,brown
 c + d + u,duck
-e + g + h + i + n + s,english
-b + c + e + i + l,celebrity
+DUP + e + n,english
+c + e + i,celebrity
 d + o + u,double
 a + e + i + p,period
-a + e + o,rent
-a + b + l + r,barely
+LH_INDEX_3D + a + b,barely
 - + b,bye-bye
 d + l + m,chip
-g + i + n + r,ignore
-a + g + l + u,language
-a + d + l + r + u,laundry
-a + c + o + s,social
+g + i + n,ignore
+a + g + l + o,language
+a + l + u,laundry
+d + n + s,social
 f + o + s,soft
-a + g + l + o + p,apology
-DUP + c + e + n + o + t,concert
+a + l + o + p,apology
+d + e + n + o,concert
 a + d + i + s,disappoint
 f + i + k + n,knife
 a + h + i + l,hilarious
-a + b + k + l,blanket
-c + h + n,comic
-c + l + r + t,leader
+l + r + w,blanket
+d + l + m + o,comic
+a + d + e + l,leader
 a + c + l + o,local
-e + g + h + i + n,neighborhood
-LEFT_ALT + p + r + t,trap
+e + g + i + n,neighborhood
 e + u + w,west
 b + r + u + y,bury
 h + o + r + w,whore
 c + o + r + s,cross
-h + s + t,sheet
+e + h + s,sheet
 f + s + u,suffer
 r + t + x,tax
 a + b + e + m,bath
-DUP + c + i + r,receive
+c + l + r + t,receive
 e + m + o + s + t,sometime
 l + p + s,split
 a + d + o + s,soda
-DUP + e + l + t,talent
 a + c + o + u,account
-DUP + c + e + n + o,convince
-d + s + t,dessert
+c + n + o + p,convince
+d + e + u,dessert
 o + p + r + s + u,purpose
 a + e + f + w,weak
-d + m + t,cheer
-o + p + r + s + t + u,support
-a + c + h + r + s,research
+d + e + m,cheer
+n + p + s + u,support
 g + n + o + t,tongue
 a + e + l + v,valentine
 g + i + l + p,pill
 a + k + n + s,snake
-a + b + e + i,battle
+a + b + e + l,battle
 c + e + i + l,license
-e + o + u,nut
+e + n + u,nut
 a + e + h + i,health
-DUP + a + n + r + u,natural
-g + o + r + s + u,gorgeous
-e + k + s + t,steak
-DUP + a + i + n + v,vagina
+n + r + t + u,natural
+a + g + o,gorgeous
+RH_INDEX_3D + e + s,steak
+DUP + a + v,vagina
 a + d + i + u,audience
 e + k + n,knee
-RIGHT_ALT + e + m + t,term
-c + n + s,score
-LEFT_ALT + e + s + u,sue
+a + c + o + s,score
+e + s + u,sue
 e + h + t + w,whether
-DUP + a + i + r + s,artist
 a + b + g + n,bang
 a + b + e + n,bean
 DUP + n + o + t,onto
-DUP + a + c + i + r,attractive
-RH_THUMB_2_3D + r,breath
 e + m + p + t,empty
-e + l + o,lonely
-a + g + i + n + p,painting
+l + o + p + r,painting
 l + r + t + u,truly
 a + m + r + y,army
 a + o + v,avoid
 DUP + a + g + n,gang
 a + d + l + o,land
 a + d + e + n,nerd
-e + h + o + s + t,others
+e + h + o,others
 a + l + p + s,slap
-a + n + o + p,appointment
-c + d + l,dick
+a + n + v,appointment
+c + d + i,dick
 b + e + i + l + s,lesbian
 f + o + t + u,outfit
 a + d + e + v,adventure
 d + e + i + v,devil
-i + l + r,liar
+a + i + l + r,liar
 n + r + u,nurse
-LEFT_ALT + o + p + t,pot
-n + o + p + r + s,responsible
-a + e + l + m + s,salesman
+e + o + v,pot
+r + t + u + v,responsible
+a + e + l + s,salesman
 l + o + s + w,slow
 a + e + l + w,wallet
-c + o + t,commit
-a + e + m + x,example
-b + o + u + v,obvious
-LEFT_ALT + a + i + p + r,pirate
+d + i + m + n,commit
+a + e + x,example
+b + o + v,obvious
+a + l + r + v,pirate
 a + d + i + r,radio
 a + c + e + h + s,chase
 d + t + u,due
@@ -1421,422 +1375,394 @@ a + f + i + m,familiar
 h + m + o,homework
 b + i + r + t,birth
 a + c + d + n,canadian
-k + p + r + t,prefer
+f + r + t + v,prefer
 r + u + w,rub
-k + u,sky
+' + k + s,sky
 a + b + i + s,basically
 a + c + h + o,coach
 d + e + i + l,deliver
 a + b + l + o,laboratory
-LEFT_ALT + a + d + r + s,address
+RH_THUMB_1_3D + a + r,address
 f + i + l + t,lift
-d + n + o,concern
-DUP + e + l + v,eleven
+d + n + o + t,concern
+l + t + v,eleven
 n + o + r + u,round
 a + g + u,guard
-DUP + c + n + o + t,contact
-d + r + v,package
-l + r + t + v,travel
-i + s + t + x,sixty
-a + e + i + n + v,anniversary
-c + n + t,cent
-a + k + o,force
-a + p + r + s,spread
+c + n + o + r + t,contact
+LH_THUMB_1_3D + a + p,package
+i + s + x,sixty
+a + i + n + v,anniversary
+c + e + o,cent
+c + f + o + r,force
+r + s + v,spread
 a + d + o,adorable
 a + c + e + n + o,ocean
-c + e + n + p,percent
-DUP + i + n + w,wing
+d + r + t + v,percent
+b + i + n,wing
 a + b + o + v,above
 a + c + h + l + o,alcohol
-a + c + r + u,crash
+a + c + h + r + s,crash
 i + n + s + u,insurance
-c + e + n + u,nuclear
-a + c + e + i + p,pathetic
+c + i + n + u,nuclear
+a + e + m + p,pathetic
 n + r + w,row
 g + h + i + s,sight
-h + r + s + t,trash
 a + i + l + v,available
-b + v,brave
-b + c + i + l,climb
-LEFT_ALT + a + e + n,earn
-LH_INDEX_3D + a,east
+RH_THUMB_2_3D + v,brave
+d + i + l,climb
+RH_RING_1_3D + a + e,east
 i + m + p + r,impress
 a + e + g + l,league
-DUP + LEFT_ALT + e + n + o,online
-h + i + n + t + w,within
-i + r + t + w,writer
-b + c + o + r,crowd
+h + i + t + w,within
+i + r + w,writer
+d + n + r,crowd
 f + i + l + v,flip
 LEFT_ALT + g + h + u,hug
-LEFT_ALT + a + d + g + r,drag
+DUP + a + c + r,drag
 e + f + n + u,funeral
 e + i + l + t,literally
-LEFT_ALT + l + o + s + u,lousy
-LEFT_ALT + n + o + p,opinion
+l + o + s + u,lousy
+l + o + v,opinion
 i + p + s + t,spit
-a + n + v,van
-a + b + e + v,behavior
-a + c + l + o + p,complain
-DUP + e + i + n + s + t,interest
-e + i + l + s + t,itself
-DUP + i + m + r,mirror
+n + r + v,van
+h + t + w,behavior
+e + l + o + t,interest
+e + i + s + t,itself
+l + m + r,mirror
 c + n + r + t,recently
 i + p + r + s + t,stripper
-b + j + s + u,subject
+. + s,subject
 b + g + i + r,bright
 d + e + g + i + s,design
-DUP + a + e + g + n,general
-d + i + k,kidney
-l + r + s + u,result
+e + g + o,general
+d + i + k + n,kidney
+l + r + s + t + u,result
 i + k + r + s + t,strike
 a + c + n + o,corn
-c + o + r + t,correct
-a + d + g + n + o + r,grandmother
+d + o + r + t,correct
+a + d + g + n + r,grandmother
 g + h + i + n,nightmare
 o + r + s + u,ours
-e + l + o + y,yellow
-l + r + s,rise
-c + h + i + r + s,christian
+y,yellow
+i + r + s,rise
+c + h + i + r,christian
 d + g + o + u,doughnut
-g + n + o + r,original
-n + o + p + s + t,position
-a + q,quarter
-a + n + o + y,annoy
-d + m + r + t,match
-f + i + r + t,traffic
-a + c + l + u,actual
+g + l + o + r,original
+o + s + v,position
+q + r,quarter
+a + n + o,annoy
+a + d + e + m,match
+a + c + e + u,actual
 a + n + w,banana
 c + e + f + n + o,conference
 a + k + l,lake
 d + e + i + m,medical
-d + e + i + m + n,medicine
+d + m + t,medicine
 a + p + r + y,pray
 a + h + s + v,shave
 t + u + w,tub
 a + b + e + k,bake
-n + o + p + t,option
-e + o + s + u,south
-c + p + r + y,creepy
+n + t + v,option
+o + s + t + u,south
+c + p + r + t + y,creepy
 c + d + o + u,douchebag
 e + n + t + u + v,eventually
-e + i + n + t + u,interrupt
+RH_INDEX_3D + i + n,interrupt
 b + i + l + r,library
 d + r + t + u,rude
-a + d + e + i + v,advertisement
-a + d + e + g + n,danger
-f + o + r + t + u,fourteen
+LH_THUMB_1_3D + a + d,advertisement
+a + d + g + n,danger
+f + o + r + u,fourteen
 a + m + u,master
 a + e + h + m,math
-n + p + r,propose
+o + r + v,propose
 h + t + u,thursday
-LEFT_ALT + a + p + r,apart
-a + d + i + l + r,darling
-a + e + g + h,gather
+LH_INDEX_3D + RH_THUMB_1_3D + a,apart
+a + d + l + r,darling
+DUP + a + e,gather
 l + m + o + s + t,mostly
 b + e + l + u,bubble
-e + g + n + y,energy
+DUP + a + e + n,energy
 a + e + h + v + y,heavy
-a + i + u,laser
-a + m + o,manage
-a + e + h + m + n,meanwhile
+l + r + s,laser
+m + n + r,manage
+a + e + m + n,meanwhile
 e + n + t + w,network
 a + e + p + w,weapon
 c + d + n + o,condition
 c + o + p + y,copy
 e + f + m,female
 k + q,quickly
-g + i + l + r,religion
+i + l + r + t,religion
 n + o + s + w,snow
 e + s + t + u,tuesday
-e + i + n + s + v,version
+a + e + u + v,version
 b + m + o,bomb
-f + l + r,faith
-c + e + i + n,innocent
-DUP + m + o + r,remove
+a + i + k,faith
+m + o + r + t,remove
 r + s + u + v,survive
-DUP + t + w,bee
-b + c + i + r,bride
+b + g + t,bee
+a + i + w,bride
 f + l + t,fifth
-a + e + s + v,several
+s + t + v,several
 a + b + k + s,basketball
-d + n + o + t + w,downtown
+d + n + o + w,downtown
 l + p + t,elephant
 i + p + w,wipe
-DUP + a + r + s,arrest
-a + b + e + o,bored
+a + o + w,bored
 b + l + u + y,bully
-DUP + c + l + o,clock
-d + i + n + t,indeed
-DUP + a + e + m + s,massage
-a + e + h + s,shape
+c + f + i + n,clock
+d + e + i + n,indeed
+a + h + u,massage
+h + r + s,shape
 i + k + p + s,skip
 d + r + y,dry
-a + i + m + n + r,remain
-l + s + t,style
+' + e + s,style
 g + r + s + u,surgery
-e + o + t,toe
+LEFT_ALT + e + o + t,toe
 a + r + y,yard
 a + b + i + l + r,brilliant
 c + i + l + r,circle
 d + t + u + y,duty
-DUP + e + m + n + y,enemy
+e + m + n + y,enemy
 c + f + o + u,focus
 e + l + o + v,lover
-d + i + m + n,midnight
+RH_THUMB_1_3D + i + m,midnight
 i + l + m + p + s,simply
 a + n + p + s,spanish
 b + m + n,boom
 c + d + e + s,describe
 DUP + a + e + g + l,legal
-e + m + x,mexican
+LH_THUMB_1_3D + x,mexican
 o + p + w,powerful
-DUP + e + i + s,series
-a + e + i + w,wire
-a + c + d + e + n,candle
+a + e + i + s,series
+i + r + t + w,wire
+a + c + d + o,candle
 a + d + i,diaper
-c + d + i + r + t,direction
-e + g + h + i,eighteen
-e + v + x,express
-a + i + l + p + s,plastic
-n + o + p + r + s + t,responsibility
-r + s + t + v,starve
-i + n + t + u,united
-DUP + o + r + w,worker
+a + d + l,direction
+e + g + i,eighteen
+r + t + v + x,express
+a + l + p + u,plastic
+o + p + r + s + t,responsibility
+i + n + u,united
+a + f + o + w,worker
 a + c + i + s,aids
-i + y,immediately
-h + n + o + w,nowhere
-e + u + v,separate
+e + i + m,immediately
+n + o + w,nowhere
+e + p + u,separate
 e + m + o + t,emotional
-a + h + l + r,hardly
-i + l + p + t,pilot
-a + p + v,vampire
-a + d + e + i + u,attitude
+a + c + h + l + r,hardly
+RH_MID_1_3D + i + p,pilot
+a + h + v,vampire
+a + e + i + u,attitude
 a + b + i + n,balloon
 a + c + e + x,exact
 a + f + n + r,frankly
 h + i + v,hip
-e + t + v,pet
-a + k + n + p + r,prank
+e + p + t,pet
+a + n + p + r,prank
 a + n + o + u,announcement
 c + e + f + t,effect
 a + c + e + s,escape
-d + e + g + l + o,golden
-e + i + n + p,nipple
-g + h + o + r + u,rough
-LEFT_ALT + d + r + t,trade
+d + g + l + o,golden
+RH_THUMB_1_3D + i + n,nipple
+g + o + r + u,rough
 i + n + t + w,twin
-l + r + t + w,waiter
+a + e + i + w,waiter
 a + c + h + i + r,architect
 a + b + e + u,beauty
-RIGHT_ALT + a + e + m,mate
-a + c + f + o,official
-a + d + r + v,practice
-- + s + t,t-shirt
+d + k + l + o,official
+a + c + p + r,practice
+- + e,t-shirt
 b + g + u,bug
-DUP + RIGHT_ALT + a + c + r,crack
-  + f + o + r + u,four hundred
-DUP + c + n + o + r + t,contract
-LEFT_ALT + a + i + n,nail
-d + o + r + t,recognize
+a + c + f + r,crack
+  + k,four hundred
+d + n + o + r + t,contract
+LH_MID_1_3D + a + n,nail
+LH_INDEX_3D + z,recognize
 c + e + i + n + s,scientist
 h + o + s + u,shoulder
 c + e + f + s + u,successful
 d + r + s + t,turd
-l + t + v,view
+b + e + i + v,view
 a + b + e + m + s,basement
 d + e + g,degree
-f + n + o + r + t + u,fortune
+f + o + r + t + u,fortune
 i + n + t + v,invitation
-o + s + v,oops
-a + n + o + p + r + s,professional
-LEFT_ALT + a + c + e + h + s,search
+n + s + v,oops
+k + o + p + r,professional
+LH_INDEX_3D + a + s,search
 i + n + s + w,swing
-LEFT_ALT + a + e + h + w,weather
+RH_INDEX_3D + e + w,weather
 a + l + m + r,alarm
 i + k + t,kitty
-n + r + v,nap
-c + i + p + r + u,precious
-c + o + p + r + u,product
-a + i + r + w,rabbit
+LEFT_ALT + a + n + p,nap
+c + i + p + r + t,precious
+c + n + p + r,product
+a + b + i + r,rabbit
 l + o + r + t,role
 a + c + n + s,snack
 c + f + s + u,sucker
-g + r + t,tag
-LEFT_ALT + c + e + h,chef
-RIGHT_ALT + c + e + h,chew
+LH_INDEX_3D + c + h,chef
+RH_THUMB_1_3D + c + e,chew
 d + e + i + n + v,evidence
-k + n + r,fantasy
+f + n + r,fantasy
 a + e + o + p,operation
 p + u + y,puppy
 a + i + n + r,rain
 i + n + p + s,spin
-h + n + r + t,throat
-- + e,e-mail
-a + i + l + r + y,reality
-i + n + r + s,saint
-DUP + i + t + v,victim
-a + i + r + s + w,waitress
+h + o + r + t,throat
+- + e + m,e-mail
+a + i + u,saint
+d + l + v,victim
+l + r + t + w,waitress
 b + z,booze
-LEFT_ALT + c + d + n + o,condom
+RH_MID_1_3D + c + o,condom
 a + d + e + i,director
 h + n + t + u,hunt
 e + m + n + u,menu
-m + t + y,mystery
-DUP + g + r + t,regret
-c + e + h + n + t,technically
-LEFT_ALT + n + o + t,ton
-DUP + a + r + w,aware
-c + e + h + s + t,chest
+m + u + y,mystery
+c + e + t,technically
+e + n + o,ton
+LH_INDEX_3D + a + w,aware
+c + e + h + s,chest
 d + e + n + t,dentist
-e + g + i + l,illegal
-i + j + u,junior
+e + i + l,illegal
+. + u,junior
 m + o + s + u,mouse
-c + e + i + n + p,pencil
+c + e + n + p,pencil
 e + n + s + t,sentence
-e + i + s + t + x,sixteen
-q + s + u,squeeze
-a + d + i + n + u,audition
+i + s + t + x,sixteen
+u + z,squeeze
+a + c + i + u,audition
 b + l + o + s,lobster
 DUP + c + e + s + u,success
-e + o + s + t,terrorist
 a + e + l + p + s,asleep
-a + f + i + s,fashion
-e + g + l + o,glove
-e + l + m + t,item
-c + d + n + o + r,recommend
-e + o + s,tuna
-a + h + o + r + w,warehouse
-DUP + i + l + t,italian
+a + k + u,fashion
+DUP + l + o,glove
+e + i + m + t,item
+d + n + r + t,recommend
+n + s + t,tuna
+RH_INDEX_3D + r + w,warehouse
 l + z,lazy
-k + n + t,tank
-a + h + l + w,whale
+k + n + r + t,tank
+a + h + w,whale
 o + z,zone
 a + c + i + n + p,panic
-a + b + c + e + l,bachelor
+b + c + r,bachelor
 a + c + h + i + n,chain
-DUP + a + c + r + u,creature
-a + d + i + m + n,diamond
-h + o + t + w,however
-l + m + r,image
-RIGHT_ALT + a + p + r,parade
+d + i + m + r,diamond
+h + n + w,however
+DUP + a + i + m,image
+a + d + r + v,parade
 d + k + o + r,rocket
 l + o + s + t + u,solution
-b + c + r,cable
-c + l + t + u,culture
+a + b + c + l,cable
+c + l + u,culture
 - + f,forty-five
-DUP + a + g + r,garage
-i + m + r + t,male
-DUP + n + r + v,revenge
-h + r + s,shrimp
-d + n + r + t,taco
+DUP + a + r,garage
+l + m + r + t,male
+n + r + t + v,revenge
+h + i + r + s,shrimp
+a + d + e + o,taco
 h + i + n + t,thin
 a + d + e + i + s,aside
 b + m + u,bum
 d + i + s + t,distract
-LEFT_ALT + d + v,dvd
 e + g + h,hehe
 h + i + m + u,humiliate
-c + f + i + n,locker
-a + e + i + n,native
-a + e + m + o + p,performance
-c + l + o + p + y,policy
+c + e + f + l + o,locker
+a + e + l + o,native
+a + e + f + v,performance
+RH_MID_1_3D + o + p,policy
 n + o + p + y,pony
-a + l + r + s,release
 n + o + s + t,stone
-LEFT_ALT + h + o + w,woohoo
+RH_THUMB_1_3D + o + w,woohoo
 a + d + n + v,advantage
 a + b + e + k + s,basket
-a + b + k + r + u,breakup
-d + t + v,device
-LEFT_ALT + a + d + g + n + r,garden
-a + e + i + n + p,patient
+c + e + p,device
+LH_INDEX_3D + a + g,garden
+i + p + r + t,patient
 i + k + n + p,pink
 n + p + r + s + t,represent
-h + i + n + r + t,thirteen
-DUP + r + s + t + u,treasure
+h + l + t,thirteen
 a + m + o + u,amount
-LEFT_ALT + a + f + r,fart
-e + n + p + s + w,newspaper
-d + l + o + w,wind
+a + k + r,fart
+e + n + w,newspaper
+d + i + n + w,wind
 a + e + h + m + s,ashamed
-LEFT_ALT + a + c + h + i + n,champion
-LEFT_ALT + e + p,per
+RH_INDEX_3D + c + h,champion
 c + o + s + t + u,scout
 g + i + t + u,guitar
 e + m + n + t,mental
 e + i + n + s,sensitive
 e + n + t + w + y,twenty-four
-LH_INDEX_3D + h,heat
-e + h + o + t + w,otherwise
+RH_INDEX_3D + e + h,heat
+h + n + t,otherwise
 e + n + s + v,seventeen
 i + n + r + s + t,string
 d + n + o + s + w,downstairs
-i + m + p + r + s,impressive
-g + n + p,poop
-o + p + r + t + y,property
+l + m + p,impressive
+DUP + o + v,poop
+n + p + r + t,property
 i + k + l + s,skill
 a + d + l + m,dammit
 a + c + n + p,pancake
-g + n + r + s + t,stranger
-a + c + h + i + r + y,charity
-k + r + t,freedom
-n + p + s,pour
-LEFT_ALT + d + i + n + r + t,tradition
+LH_INDEX_3D + RH_INDEX_3D + s,stranger
+a + d + i + m + r,charity
+c + f + r + t,freedom
+n + u + v,pour
 b + e + k,beef
 b + e + l + t + u,bullet
 c + i + r + u,curious
 d + l + s,disaster
-a + c + f + o + r,factory
-f + o + r + s,forest
-d + g + n,odd
+c + f + r,factory
+a + k + o,forest
+DUP + c + o,odd
 o + p + r + v,provide
-c + e + i + s + t,section
+c + e + s + t,section
 b + s + u + w,subway
-c + e + h + o,choke
-b + c + o + y,cowboy
-a + c + e + i,dirt
-f + g + n + r,frog
+LH_MID_1_3D + c + h,choke
+b + c + n,cowboy
+d + l + r + t,dirt
+f + g + o + r,frog
 m + p + u,pumpkin
 a + l + s + w,swallow
 a + b + c + o,bacon
-c + l + t,clever
-c + e + o + p + t,competition
+c + i + t,clever
 g + h + t,heh
-d + i + l,lick
-i + m + n + s,mission
-RIGHT_ALT + a + i + p + r,pair
-a + o + s,soap
-i + l + r + t,tail
+c + f + i + l,lick
+i + m + u,mission
+LEFT_ALT + a + i + p + r,pair
+a + o + p + s,soap
 DUP + o + r + t,tattoo
-a + c + i + y,activity
-b + c + l + r,bridge
+a + c + e + i + p,activity
+b + c + i + r,bridge
 d + e + t,detail
-d + e + i + t,diet
-i + n + s + t + u,insult
-LEFT_ALT + e + h + m + t,theme
+d + e + i,diet
+RH_RING_1_3D + i + n,insult
+LH_INDEX_3D + h + t,theme
 i + n + u + v,university
-LEFT_ALT + a + c + e + h + n,champagne
-a + c + h + i + n + r,charming
-a + c + o + p,compare
+RH_THUMB_1_3D + a + c,champagne
+RH_INDEX_3D + RH_THUMB_1_3D + c,charming
 g + t + u,gut
 a + m + p,map
 a + k + n + p,napkin
-' + a + l + p,apply
+a + l + p + y,apply
 a + c + h + l,challenge
-c + e + l + o + t,collect
+c + e + l + o,collect
 a + c + p + u,cupcake
-f + g + i + r,fridge
-DUP + a + i + m + n,imagination
-LEFT_ALT + a + p,pad
+k + l + r,fridge
+DUP + i + m + r,imagination
 c + i + r + s,script
 h + l + w,whip
-a + i + k,affair
+a + f + i + r,affair
 b + e + n,benefit
-b + e + o + y,beyond
-DUP + c + e + i + n + t,citizen
+b + e + y,beyond
+d + z,citizen
 a + g + o + r,grant
-j + k + u,junk
-DUP + a + i + l + m,magical
+. + n,junk
+DUP + m + r,magical
 m + o + p + r,prom
 c + h + s,schedule
 d + i + s + t + u,studio
@@ -1845,253 +1771,241 @@ e + i + s + w,wise
 b + e + i + l,bible
 c + e + l + u,clue
 c + i + s + u,suicide
-d + e + n + s + w,wednesday
-f + i + n + r + y,friendly
+d + e + w,wednesday
+f + i + r + t,friendly
 a + c + i + l,claim
-a + c + e + l + o + p,complicate
-d + o + t + u,doubt
-a + e + g + i + n,generation
+d + o + u + w,doubt
+g + n + t,generation
 a + g + p + r,grave
-q + r,require
+LH_INDEX_3D + q,require
 l + r + s + t,stair
 a + b + l + u,album
 c + p + t,depend
-d + i + m + r,maid
-DUP + m + n + o + r,moron
+d + l + m + r,maid
+m + n + o + r,moron
 a + c + e + n + s,necessary
-n + o + t + v,oven
+e + n + o + v,oven
 f + g + r + t,refer
-a + d + r + u,scratch
+a + d + r + s,scratch
 i + s + v,spill
-a + e + i + s,stain
+i + r + t + u,stain
 a + d + o + v,adopt
 b + r + s + u,brush
 d + e + i + l + v,delivery
-c + i + u,disappear
+d + l + u,disappear
 e + l + m,elementary
 h + m + o + u,humor
-a + m + q,amazing
-a + i + n + u,asian
-b + n + t,boot
-d + e + n + o,connection
-DUP + t + v,eve
-a + h + i + n,happiness
+RH_INDEX_3D + z,amazing
+DUP + a + i + n + s,asian
+b + e + o,boot
+d + e + n + o + t,connection
+DUP + e + v,eve
+h + r + v,happiness
 e + f + i + l + t,lifetime
 a + c + f + l + o,officially
 l + q,quality
-DUP + a + g + n + r,agreement
+LH_THUMB_2_3D + a + r,agreement
 a + g + r + u,argument
-LEFT_ALT + a + c + p + r,carpet
+LH_INDEX_3D + LH_THUMB_1_3D + a,carpet
 DUP + c + i + r + s,crisis
-LEFT_ALT + a + d + r + w,drawer
+a + b + c + r,drawer
 f + r + t + u,further
-c + d + i + n + r,incredibly
-DUP + e + l + o + s,loose
-f + r + s + u,refuse
+a + c + i + n,incredibly
+e + l + o + s,loose
+f + r + s + t,refuse
 i + k + r + s,risk
 e + f + l + s,selfish
-a + e + i + l + v,village
+i + l + r + v,village
 DUP + a + o,anger
 a + r + s + u,assure
 b + g + i + n,bingo
-b + n + u + y,bunny
-a + c + l + r,crawl
-c + h + r + t,demand
-a + d + e + s,desperate
-a + e + l + o + v,elevator
-DUP + o + r,goat
+b + n + u,bunny
+a + b + c + l + r,crawl
+a + d + e + m + n,demand
+d + s + t,desperate
+a + e + i + v,elevator
+g + n + r,goat
 e + h + n + o + y,honeymoon
-e + i + n + u,insist
+DUP + i + n + s + t,insist
 e + n + p + y,penny
-DUP + a + l + s + u,usual
-b + e + l + o + v,beloved
+a + l + s + u,usual
+b + e + l + o,beloved
 e + f + s,festival
-e + l + o + s + t,tennis
-LEFT_ALT + h + n + r + t,threaten
+e + i + n + s + t,tennis
+RH_THUMB_1_3D + r + t,threaten
 b + e + g + i,beginning
-DUP + c + i,cigar
-a + c + d + o,dancer
-RH_THUMB_1_3D + e,heck
-a + e + i + l + m,material
+DUP + c + l,cigar
+a + c + d + e + n,dancer
+LH_THUMB_1_3D + e + h,heck
 a + k + n + y,yankee
-LEFT_ALT + a + c + e + h,chapter
-LEFT_ALT + a + c + h,chat
+LH_THUMB_1_3D + a + h,chapter
+c + h + r + t,chat
 e + h + m + o,homeless
-RIGHT_ALT + a + l + p,lap
-a + j + m,major
-RIGHT_ALT + a + m + r,mark
-DUP + i + r + v,river
+LEFT_ALT + a + l + p,lap
+. + m,major
+RH_INDEX_3D + m + r,mark
+i + r + t + v,river
 a + h + r + s,shark
-g + h + n + r + s + t,strength
-a + c + d + e + i,accidentally
+RH_RING_1_3D + r + t,strength
+a + c + d + i,accidentally
 a + c + e + i + n,ancient
-DUP + c + e + l + o + t,collection
-c + e + i + x,exercise
-c + i + n + u,include
+c + e + l + o + t,collection
+c + r + t + x,exercise
+LH_THUMB_1_3D + i + n,include
 f + m + u,muffin
 e + f + n + o,offense
-c + n + r + s,screen
-DUP + m + o + t,tomato
+c + r + s + t,screen
+m + n + t,tomato
 g + h + r,aha
-a + c + e + f,cafeteria
+a + d + k,cafeteria
 a + c + p + r + y,crappy
-a + j + p,japanese
-DUP + e + s + t + u,statue
-i + p + s + u,supply
-e + s + u + v,versus
+. + r,japanese
+l + p + s + u,supply
+a + e + s + u + v,versus
 e + i + n + t + w,winter
-g + l + o + t,tool
-n + t + w,bend
-c + e + o + t,commitment
-d + i + r + s + t + u,disturb
+DUP + l + o + t,tool
+b + n + t,bend
+c + h + l + o + t,commitment
+c + i + u,disturb
 j + y,joy
-i + n + p + r + s + t,presentation
+n + p + r + t + u,presentation
 h + o + s + v,shove
 b + s + t,tube
 b + e + i + n,being
-e + i + m + x,experiment
+a + e + i + v + x,experiment
 e + f + l + o,fellow
-g + h + r + t,german
-a + j + r,jar
-i + m + n + t,mint
-i + p + y,physical
+a + e + g + h,german
+LEFT_ALT + j,jar
+i + m + n,mint
+m + p + y,physical
 i + n + p + u,punish
-DUP + m + o + r + t,remote
+m + n + r + t,remote
 l + s + u,slut
-DUP + i + s + t + w,twist
-RIGHT_ALT + a + c + p,cap
-a + c + i + n + r,criminal
-  + e,eight hundred
+i + s + t + w,twist
+LEFT_ALT + a + c + p,cap
+c + h + l + r,criminal
+e + g + h + i,eight hundred
 i + n + p + r + s,inspire
 a + l + m + o,main
-o + r + v,panda
+a + c + o + p,panda
 i + k + n + s,sink
-m + n + s + t,smooth
+h + m + o + s + t,smooth
 n + r + s,snap
 h + m + t + u,thumb
-e + i + n + s + t + w,witness
-a + b + n + o,abandon
+l + t + w,witness
+a + b + c + n,abandon
 a + d + e + k,affect
-RIGHT_ALT + a + b + e,beard
-b + c + e + u,bucket
-d + n + s,county
+LH_INDEX_3D + RH_INDEX_3D + b,beard
+b + c + u,bucket
+c + n + o + u,county
 g + i + r,gain
-m + o + p + t,poem
+e + m + o + p,poem
 o + r + t + v,reporter
-i + r + t + v,review
-g + i + n + r + t,training
+l + r + t + v,review
 a + m + n + o,among
-a + b + e + y,battery
 d + e + n + y,deny
 c + e + l + t,electric
 a + f + l + v,flavor
-a + f + o + w,forbid
-f + g + u,fudge
+k + n + r,forbid
+c + f + u,fudge
 a + h + o + r,hooray
-b + e + o + s,obsess
-o + p + s + t + v,positive
+b + o + s,obsess
+l + o + p + s,positive
 LEFT_ALT + b + o + r,rob
 a + g + i + n + s,signal
-d + l + o + s,solid
+RH_MID_1_3D + o + s,solid
 b + e + w,website
 a + e + y,aye
 c + e + n + t + u,century
-DUP + c + i + l,click
-LH_INDEX_3D + c,cracker
+d + i + k + l,click
+a + d + k + r,cracker
 - + d,dry-cleaning
 e + f + n,effort
-LEFT_ALT + a + e + g,gate
 e + h + k + o,hooker
-i + m + n + p + r + s,impression
+h + l + v,impression
 a + i + n + p + r,inappropriate
 e + i + n + p + s,inspector
-e + m + n + s + t,statement
 h + i + l + r + t,thrill
-e + l + o + w,wiener
+e + l + w,wiener
 b + c + n + o,bond
-f + i + l + t + y,filthy
+i + k + l + t,filthy
 DUP + a + n + r,grandfather
-e + h + o + u,host
-c + n + p + r,producer
-d + i + t + w,witch
+m + n + u,host
+d + o + r + v,producer
+b + l + t,witch
 a + o + p + r,appropriate
-c + d + e + n + o,coincidence
 f + n + r + u,furniture
 e + l + m + o,lemon
-d + i + n + r,load
-LEFT_ALT + m + o,mock
+d + l + o + r,load
 a + m + n + o + r,normally
-c + i + p + y,physics
+' + m + p,physics
 a + c + f + s,sack
-d + o + s + t,stock
+e + o + s,stock
 m + o + r + s + t,storm
-a + e + h + l + w,wheelchair
+e + h + l + w,wheelchair
 a + c + n + o + u,announce
 a + b + g,bagel
-DUP + c + l + o + t,cocktail
-DUP + c + e + o + t,committee
+d + k + n,cocktail
+c + e + h + l + o,committee
 b + c + r + t,crew
-d + e + n + s,defense
-e + m + t + x,extremely
+d + k + t,defense
+RH_INDEX_3D + e + x,extremely
 e + i + k + l,file
 a + h + i + r,haircut
 DUP + l + o + s,loss
-k + o + p + r,proof
-a + e + l + u,salt
-a + s + v,spare
+k + n + p + r,proof
+l + r + u,salt
+a + p + r + s,spare
 LEFT_ALT + e + x,ex
 a + f + i + r + y,fairy
 a + e + f + o,fort
 DUP + a + r + v,grape
-c + d + i + n + u,including
-a + e + m + u,makeup
-a + e + l + o,nation
+RH_MID_1_3D + c + i,including
+f + m + r,makeup
   + s,six hundred
 c + h + i + l,childhood
 d + e + l + v,develop
-c + f + n + r,reference
+k + o + r + t,reference
 h + o + r + s + t,shorts
-e + h + i + s + t,therapist
+RH_THUMB_1_3D + e + t,therapist
 LEFT_ALT + e + n + o + t,tone
-DUP + LEFT_ALT + a + c + e + n,accent
+LH_THUMB_1_3D + a + e,accent
 a + e + n + v,avenue
 b + e + l + o + w,below
 c + l + o + u,cloud
-d + i + n + s + t,distance
-a + e + u + x,exhaust
-DUP + n + r,goal
+c + l + s,distance
+e + m + x,exhaust
+DUP + o + r,goal
 e + g + s + u,suggestion
-g + o + r + y,grocery
+DUP + n + r,grocery
 b + i + l + t,belief
 b + m + s,bump
-d + l + m + o,inch
-j + r + u,jury
-RIGHT_ALT + a + e + n,neat
+LEFT_ALT + c + h + i + n,inch
+' + j,jury
+LH_INDEX_3D + a + n,neat
 d + g + o + s,odds
-r + s + v,reservation
 h + r + s + u,rush
 l + s + v,spider
-i + q + s + u,squirrel
-c + o + p + t,topic
-g + o + s + t,toss
+RH_RING_1_3D + q,squirrel
+l + o + p + t,topic
+DUP + o + s + t,toss
 f + i + n + u,uniform
-e + i + l + v,violence
 d + i + w,wide
 DUP + z,zoo
 b + g + o,boo
 b + l + s + u,bullshit
-c + l + r + u,cruel
+a + d + e + u,cruel
 a + d + i + l,dial
-a + e + j,jeans
+j + t,jeans
 e + i + l + p,pile
-n + o + p + s,poison
+l + o + p + u,poison
 r + u + v,pure
-m + n + r,romance
+a + m + n + r,romance
 a + l + s + v,slave
-DUP + l + o + s + w,slowly
-DUP + a + e + w,awake
+b + i + n + s,slowly
+b + k + r,awake
 b + e + l + y,belly
-b + m + n + t,booth
+n + t + w,booth
 e + g + n + t,gentle
 a + e + o + v,opera
 e + g + i + p,pipe
@@ -2101,668 +2015,612 @@ e + p + s + w,sweep
 o + s + w,sword
 l + t + u,ultimate
 d + t + w,debate
-e + l + o + x,explode
+e + l + v + x,explode
 a + f + l + o,float
-j + t,justice
+. + t,justice
 k + o + p,poker
 c + l + p + r,pride
-c + p + s,psych
-DUP + RIGHT_ALT + a + r,rare
+' + p + s,psych
 m + o + r + u,rumor
 DUP + e + i + l + t,title
-i + n + s + v,vision
-r + s + w,wrestle
+i + u + v,vision
+r + s + t + w,wrestle
 c + i + n + s,column
-d + n + o + t,connect
-c + e + h + o + y,hockey
-d + i + k + n,kidnap
-LEFT_ALT + i + l + m,limo
-a + i + n + p + u,painful
-a + e + m + p,path
-e + i + m + p,permission
+LH_MID_1_3D + c + n,connect
+LH_THUMB_1_3D + h + o,hockey
+a + d + i + k + n,kidnap
+LH_THUMB_1_3D + i + l,limo
+a + l + o + v,painful
+m + p + r + t,path
+h + r + t + v,permission
 c + i + n + p + r,prince
-c + o + p + r + s,process
-a + e + n + o + s,senator
-a + h + u,smash
-a + i + n + y,anytime
-LEFT_ALT + a + b,bat
-c + e + n + o + y,ceremony
+d + n + r + v,process
+e + o + u,senator
+h + m + r + s,smash
+' + a + n,anytime
+d + m + r + t,ceremony
 c + d + e + l,declare
-e + h + l + u,helpful
-LEFT_ALT + i + n + r,iron
+e + h + l,helpful
 i + n + p + r + t,print
-n + r + t + v,rope
-i + l + r + s,sail
-LEFT_ALT + a + d + e + n,attend
-LEFT_ALT + d + m + o,doom
+RH_THUMB_1_3D + o + r,rope
+i + r + u,sail
+LH_THUMB_1_3D + d + o,doom
 c + d + e + u,education
-f + l + s + u,flush
+f + l + u,flush
 f + r + y,fry
-e + i + m,melt
-a + n + o + p + r,pardon
+e + l + m + t,melt
+a + c + o + p + r,pardon
 a + i + p + s,passion
-e + n + o + p + s,personally
+a + e + o + p + s,personally
 c + n + o + p + r,popcorn
-LEFT_ALT + p + s + u,pussy
+RH_RING_1_3D + p + u,pussy
 i + z,zombie
-a + e + k + n,ankle
+a + i + k + n,ankle
 a + b + i + l,bail
-b + l + o + w,bowling
-c + d + i + s + u,discount
-e + i + m + n + t,entertainment
-a + j + z,jazz
-LEFT_ALT + i + l,lion
+b + o + w,bowling
+c + d + i + u,discount
+RH_MID_1_3D + e + t,entertainment
+j + q,jazz
 ' + a + p + r,prayer
-m + s + t,stamp
-b + e + t + y,betray
-a + b + c + l + r,bracelet
+m + r + s + t,stamp
+LH_INDEX_3D + b + t,betray
+RH_INDEX_3D + b + r,bracelet
 b + n + r + w,brownie
-DUP + LEFT_ALT + a + c + i + r,creative
-e + i + n + s + x,expression
-DUP + a + e + g + i + n,negative
-c + i + l + p,pickle
-p + u + z,puzzle
-c + i + p + r + t,recipe
+a + e + s + v + x,expression
+DUP + n + t,negative
+c + i + p,pickle
+RH_THUMB_1_3D + z,puzzle
+c + l + p + r + t,recipe
 b + r + s + t,stab
-d + o + r + t + w,toward
+o + r + t + w,toward
 a + p + w,wave
-h + t + w,wherever
-a + c + i + l + r,article
-a + b + c + r + s,backwards
-d + e + o,central
-a + h + m + u,hamburger
+a + e + h + w,wherever
+a + d + w,backwards
+c + n + t,central
+a + h + m,hamburger
 m + s + t + u,mustache
-g + i + n + p + u,pudding
+c + p + s,pudding
 e + k + s,seek
 d + i + l + s,slide
 DUP + i + t,tit
-LEFT_ALT + i + l + r + t,trial
+LH_MID_1_3D + r + t,trial
 m + o + p + r + t,trophy
 b + e + s + t,best
-LEFT_ALT + a + d + e + m,damage
+RH_INDEX_3D + d + m,damage
 c + d + e + n,decent
 a + e + i + l + s,easily
 DUP + e + g + i + n,engine
-j + o + u,journey
-e + h + k + t,ketchup
-b + l + o + r,lawn
-p + r + t + z,pretzel
-n + o + r + t + u,routine
-a + o + u,sand
+. + e,journey
+LH_RING_1_3D + k,ketchup
+l + o + r + w,lawn
+a + o + u,routine
+d + n + r + s,sand
 e + m + o + p + s,someplace
-c + r + s + t,stretch
+LH_INDEX_3D + RH_RING_1_3D + t,stretch
 h + r + w,whack
-b + l + o + y,bloody
+b + c + i + n,bloody
 a + b + n + r,brand
 b + i + r + s + t,british
-b + e + g + u,budget
+b + c + s,budget
 a + b + c + i,cabin
-d + e + m + t,determine
-d + e + g + o,doggie
-DUP + LEFT_ALT + e + i + n + t,entertain
+LH_INDEX_3D + d + t,determine
+d + g + n,doggie
+RH_INDEX_3D + RH_MID_1_3D + e,entertain
 e + h + l + m,helmet
-a + c + j,jackass
+. + c,jackass
 a + d + e + i + m,media
-DUP + m + n + o + t,motion
+e + h + n,motion
 e + k + o + p,poke
-a + c + i + l + p + r,practically
+LH_INDEX_3D + RH_INDEX_3D + p,practically
 c + h + o + s + t,scotch
 c + o + r + s + u,source
-n + s + v,spoil
-DUP + e + g + n + t,teenager
-DUP + l + r + t + u,turtle
-a + h + o + u,authority
+i + n + s + v,spoil
+LH_INDEX_3D + n + t,teenager
+a + e + l + u,turtle
+a + e + h + u,authority
 b + c + l + t,bleed
-c + h + o + t,comment
-LEFT_ALT + c + e + o + p + t,compete
+c + e + h + n,comment
 d + k + n + o,confidence
-c + n + o + p,convention
-d + e + k,defend
+d + n + o + v,convention
+c + f + t,defend
 a + f + l + s,flash
 h + l + r + t,heal
-h + l + v,hippie
+e + h + i + v,hippie
 m + p + r,phase
 e + p + t + u,puppet
-r + t + u + v,respond
-DUP + a + l + r + v,reveal
+o + r + s + t + v,respond
 a + h + r + u,sharp
-f + n + r + s + t,transfer
 DUP + i + w,wig
 a + i + l + u,aisle
-a + c + d + n + o,command
+c + h + o + r,command
 c + d + e + t,detective
 d + l + o + v,dolphin
 e + i + t + x,exit
-t + v + x,expert
 DUP + a + o + r,grand
 d + i + n + u,industry
 b + l + r + t,label
 i + l + m + t,limit
-a + m + r + u,mature
+a + e + m + u,mature
 c + i + p + t,pitch
 m + p + s,pump
-a + c + i + r + s,racist
-RIGHT_ALT + h + o + w,whom
-a + c + d + e + o,comedian
-c + e + l + o + p + t,compliment
+a + c + i + r,racist
+LH_MID_1_3D + h + w,whom
+c + h + n + t,comedian
 f + k + o + r,fork
 a + g + n + r + u,guarantee
-DUP + m + r,magician
+DUP + l + m + r,magician
 d + m + r + u,murderer
 DUP + c + o + r + u,occur
 a + k + o + p,pork
-DUP + c + e + o + s,soccer
+c + e + o + s,soccer
 DUP + a + c + e + s,access
-DUP + a + c + r + s,actress
-a + b + c + u,backup
+d + r + w,backup
 a + b + m,bam
 b + m + r + t,behave
 c + e + n + o + u,encourage
-DUP + RIGHT_ALT + e + s + t,estate
+RH_RING_1_3D + e + t,estate
 f + i + l + r,flirt
 c + h + n + r,handicap
-e + h + n + s,hose
+e + h + o + s,hose
 c + d + i + n,incident
 l + o + s + t,lost
-a + c + n + o + s,occasion
-a + e + o + u,route
-DUP + c + e + s + t,secretary
-DUP + a + c + l + s,classy
-c + e + f + n + o + s,confess
-d + n + o + r + w,drown
-LEFT_ALT + d + u,duh
-DUP + e + i + n + t + v,environment
+a + d + o + u,occasion
+n + r + s + t,route
+c + s + t,secretary
+a + c + l + u,classy
+c + f + n + o + t,confess
+d + o + r + w,drown
+e + i + n + p,environment
 a + e + f + l + s,false
-g + h + i + l,highly
-d + e + g + l,legend
-c + o + p + r + t + u,production
-LEFT_ALT + e + l + t,tale
-d + e + l + t,talented
-RIGHT_ALT + h + r + t,threat
-b + e + t + v,vegetable
+g + h + i,highly
+DUP + e + l,legend
+c + o + p + r + u,production
+LH_INDEX_3D + RH_THUMB_1_3D + t,threat
+DUP + t + v,vegetable
 a + e + m + o,amen
 a + c + i + p,capital
 c + i + r + s + u,cruise
-f + n + r + t,forth
+a + e + f + n,forth
 g + j,judgment
-DUP + e + n + o + s,nonsense
+e + n + o + s,nonsense
 e + k + o,offend
 a + e + g + p,pepper
-h + r + v,phrase
+a + m + p + r,phrase
 c + i + n + p,picnic
 a + i + p + r + v,privacy
-e + i + u,self
+e + i + s,self
 l + m + s,shitty
-RIGHT_ALT + a + c + h,attach
-RIGHT_ALT + b + i + l,billion
+RH_MID_1_3D + b + i,billion
 a + c + e + h + u,cheers
-c + h + o + r,coma
-d + n + o + r + t,contain
-DUP + LEFT_ALT + a + e + g + i + n,earring
+a + d + m + o,coma
+a + d + e + n + o,contain
 a + c + f + i + s,fascinating
 g + l + r,gal
 h + m + r,ham
 n + o + p + r,pronounce
 a + m + p + s,sample
-v + y,victory
-b + e + m + n,behold
-DUP + a + c + e + l,cereal
-d + e + n + o + t,concentrate
-d + r + t + v,depressed
-LEFT_ALT + a + d + m + r,drama
-a + e + l + x,explanation
-LEFT_ALT + a + e + f,fate
-a + h + l + w + y,hallway
+c + l + p,victory
+b + e + m + o,behold
+LH_MID_1_3D + RH_MID_1_3D + c,concentrate
+a + d + e + s + v,depressed
+RH_INDEX_3D + d + r,drama
+e + i + v + x,explanation
+a + h + l + w,hallway
 e + i + n + t + y,ninety
-a + c + i + p + r + u,particular
-l + p + r + t,pleased
-a + e + p + u,response
-i + l + q,liquor
-l + o + t + w,lower
+RH_INDEX_3D + RH_THUMB_1_3D + r,particular
+a + e + l + p + u,pleased
+n + r + s + t + v,response
+RH_MID_1_3D + q,liquor
+e + l + o + w,lower
 e + i + m + s,miserable
 LEFT_ALT + i + n + p,pin
 c + p + r + u,purchase
-a + e + i + u,satisfy
-h + n + s + u,shout
-e + i + t + u,site
+a + e + f + i + s,satisfy
+h + o + s + t + u,shout
+l + s + t,site
 e + g + h + t,thee
-l + o + t + u,unit
-LEFT_ALT + a + c + l + o + p,complaint
-RIGHT_ALT + c + d + n + o,condo
+i + n + t + u,unit
+LH_THUMB_1_3D + n + o,condo
 a + d + n + o,donate
 k + r + u,fur
-- + d + g + o,good-looking
-a + g + r + y,gravy
-a + i + m + n + r + y,imaginary
-a + e + l + m + o,lemonade
-l + m + s + u,muscle
-a + e + n + y,nearly
-n + u + v,opposite
-b + e + u,sweat
+- + DUP,good-looking
+a + g + p + r + y,gravy
+a + g + h + i,imaginary
+l + m + t,lemonade
+d + m + s + u,muscle
+LH_INDEX_3D + RH_INDEX_3D + n,nearly
+l + o + u + v,opposite
+s + t + w,sweat
 e + g + i + t,tiger
 a + b + l + u + v,valuable
-a + d + l + m + o,alcoholic
+d + i + n + r,alcoholic
 c + n + o + s + u,counselor
 a + f + i + l + u,failure
-LEFT_ALT + a + f + m + r,farmer
+LH_INDEX_3D + a + f,farmer
 a + h + n + o,horn
 a + l + m + p,lamp
 a + n + o + r,orange
-LEFT_ALT + a + c + e + p,peach
-DUP + l + o + r,roller
-f + s + t,staff
-e + h + l + t,thief
+RH_INDEX_3D + e + p,peach
+DUP + l + o + r + t,roller
+k + r + s + t,staff
+e + h + i + t,thief
 a + o + p + r + v,approve
-a + c + p + s + u,campus
 a + c + n + u,coast
-a + c + e + u,cure
-a + d + i + n + s,dinosaur
-c + d + i + l + r + t,directly
+a + d + e + s,cure
+RH_MID_1_3D + d + i,dinosaur
+c + d + i + r + t,directly
 a + h + n + u,haunt
-DUP + a + c + l + o,location
+a + c + e + l + o,location
 e + n + o + w,owner
-RH_INDEX_3D + p,patch
-m + n + r + t,treatment
 k + n + r + t + u,trunk
-a + b + n + o + r,abortion
-a + f + r + w,bark
-LEFT_ALT + a + b + n + r,bartender
+a + o + r + w,abortion
+a + b + k + r,bark
+RH_THUMB_2_3D + a + r,bartender
 b + n + r + u,brunch
 a + c + l + s + u,casual
 a + c + h + o + s,chaos
 c + e + h + i,chief
-LEFT_ALT + c + h + o,chop
-LEFT_ALT + d + s + t + u,dust
+RH_THUMB_1_3D + c + o,chop
+d + e + s + u,dust
 d + e + i + n + t,intend
-e + l + o + t + y,lottery
-a + i + m + s + u,musical
-e + g + n + o + p,opening
-a + e + n + o + p + s,personality
-i + l + p + s + u,publish
+RH_INDEX_3D + l + o,lottery
+i + m + s + u,musical
+e + n + o + p,opening
+a + e + n + p + s,personality
+p + s + w,publish
 a + e + g + s + u,sausage
 d + e + n + u,underneath
 a + f + n + u,unfair
-e + i + l + t + v,violent
-a + d + i + r + w,wizard
-a + o + r + w,aboard
+q + w,wizard
+a + b + c + o + r,aboard
 a + g + r + s,argue
-LEFT_ALT + a + e + m + p,attempt
-a + b + l + y,badly
+b + c + l + r,badly
 b + m + s + u,bush
-LEFT_ALT + f + l + o,fold
-f + g + o + t,footage
-e + g + h + i + t,height
+RH_MID_1_3D + f + o,fold
+f + n + t,footage
+e + h + i,height
 a + b + l + o + r,labor
-e + n + p + w,nephew
+e + m + n + p,nephew
 k + n + p + u,punk
-LEFT_ALT + a + c + i + n + r,reaction
 ' + h + s,shy
-DUP + c + r,cage
-c + l + p,civil
-DUP + c + e + l + o,colonel
+DUP + a + c,cage
+c + i + l + p,civil
+LH_MID_1_3D + c + l,colonel
 a + c + o + r + u,courage
 d + e + g + i + l,delightful
-e + m + n + o + t,emotion
-e + o + x,expose
+e + l + m + o + t,emotion
+e + o + v + x,expose
 c + e + f + n,fence
 e + g + l + u,glue
-LEFT_ALT + d + e + n + o,noodle
+RH_THUMB_1_3D + n + o,noodle
 a + g + n + o + r,organ
 e + l + o + p,pole
-a + f + g + i + r,refrigerator
+f + l + r + t,refrigerator
 k + s + u,skull
-i + t + x,taxi
-DUP + a + i + l + r,airline
-a + b + c + o + r,background
+i + r + t + x,taxi
+LH_INDEX_3D + a + i,airline
+LH_THUMB_1_3D + a + b,background
 a + b + r + v,bravo
-RH_THUMB_1_3D + c,cheek
-e + n + s + x,expense
+LH_INDEX_3D + RH_THUMB_1_3D + c,cheek
+n + t + v + x,expense
 i + m + r + s,irish
-LEFT_ALT + a + d + e + l,ladder
-LEFT_ALT + m + u,mug
-DUP + a + c + e + i + n,nickname
+RH_THUMB_1_3D + a + l,ladder
+a + c + f + i + n,nickname
 LEFT_ALT + a + e + p,pea
-a + c + i + n + p + r,principal
-RH_INDEX_3D + r,rack
-DUP + e + i + n + s,session
-d + e + l + o + s,soldier
+i + n + r + v,principal
+LH_THUMB_1_3D + RH_INDEX_3D + r,rack
+e + i + u,session
+d + l + o + s,soldier
 i + n + r + u,urine
-i + n + r + v,virgin
+DUP + i + r + v,virgin
 a + d + n + w,wander
-DUP + a + c + o + r,carrot
-LEFT_ALT + c + h + i + l,chili
-DUP + c + i + r + s + u,circus
+a + c + n + r,carrot
+d + i + l + m,chili
+c + l + r + u,circus
 a + f + m + o,former
-e + g + n + o,generous
+g + o + t,generous
 e + g + s,gesture
 a + h + k + l,halfway
-DUP + LEFT_ALT + a + i + n,ninja
-' + c + o,o'clock
-o + p + r + s + t,prostitute
+' + LH_MID_1_3D,o'clock
+n + p + r + s,prostitute
 e + h + l + s,shelter
-e + m + p + s,sperm
-c + e + h + n + o + t,technology
+p + t + u,sperm
+c + e + h + t,technology
 a + e + g + o,agent
-a + b + i + l + y,ability
+a + i + l + w,ability
 a + f + l + u + w,awfully
-c + e + h + y,cherry
-c + d + i + n + s + u,discussion
-c + d + e + o + u,documentary
-e + i + n + s + t + v,invest
-e + j + t,jet
-e + k + n + o,knowledge
-i + m + n + s + t,minister
+a + c + e + h + y,cherry
+c + d + i + s + u,discussion
+c + d + n,documentary
+e + i + n + s + v,invest
+RIGHT_ALT + j,jet
+k + n + o,knowledge
+i + m + n + s,minister
 h + m + o + t,motherfucker
 e + f + n + o + s,offensive
 m + n + p + r,promote
-DUP + i + r + t,retire
-DUP + i + n + s,singer
-p + t + u,specific
+e + g + i + n + s,singer
+c + e + i + p + s,specific
 d + e + n + s + u,sudden
-c + s + t,tuck
+c + t + u,tuck
 LEFT_ALT + i + n + s,sin
-RIGHT_ALT + a + c + h + r,chart
-RIGHT_ALT + a + d + g + r,grader
-LEFT_ALT + a + n,ant
+LH_THUMB_1_3D + RH_INDEX_3D + h,chart
+RH_INDEX_3D + g + r,grader
 b + l + s,bull
-a + c + f + r + u,carefully
-a + c + e + i + l,cleaning
+LH_INDEX_3D + LH_THUMB_1_3D + RH_INDEX_3D,carefully
+d + l + t,cleaning
 a + d + k + o,dork
 d + m + u + y,dummy
-m + r + t + x,exam
+a + e + m + x,exam
 e + h + i + l,helicopter
 m + o + s + t + u,moustache
-LH_INDEX_3D + RH_INDEX_3D,rate
-DUP + a + c + l + r,recall
-c + j + r,reject
+LH_INDEX_3D + j,reject
 k + l + s,ski
-' + p + s,spy
-DUP + LEFT_ALT + r + s + t,stress
-e + h + t + y,therapy
-t + u + v,upper
-g + n + o + p + s,sponge
-k + n + p + r,profit
+' + s + v,spy
+RH_INDEX_3D + RH_RING_1_3D + r,stress
+LH_INDEX_3D + RH_INDEX_3D + h,therapy
+e + u + v,upper
+n + o + p + s,sponge
+f + o + r + v,profit
 a + g + i + s,assignment
 b + o + u,bounce
 a + b + c + n + r,branch
 LEFT_ALT + c + d,cd
 a + d + i + l + y,daily
-c + d + i + t,dice
+c + d + l,dice
 d + g + i + n,dignity
-DUP + e + i + n + t + y,entirely
-k + l + r,flatter
+LH_INDEX_3D + RH_MID_1_3D + t,entirely
+a + e + f + i,flatter
 a + f + r + u,fraud
 LEFT_ALT + i + p + t,pit
-DUP + s + t + u,status
+DUP + r + s + t + u,status
 k + o + r + s + t,stroke
-e + f + i + t + y,terrify
 h + i + r + t + y,thirty-five
 g + o + y,yogurt
 a + n + r,random
-LEFT_ALT + b + l + o,blond
-b + c + s,cube
-' + a + e + l,alley
-DUP + LEFT_ALT + a + g + n + r,arrange
-c + n + o + p + u,coupon
-d + l + t,ditch
+RH_MID_1_3D + b + o,blond
+b + c + e + u,cube
+a + e + l + y,alley
+RH_MID_1_3D + a + r,arrange
+c + o + p + u,coupon
+d + i + t,ditch
 d + n + r + u,drunk
 DUP + c + e,edge
-a + b + g + l,gamble
-' + a + g + r,gray
-g + h + o + s + t,hostage
-f + i + m + n + r,inform
+a + g + r + y,gray
+e + h + o + u,hostage
+RH_MID_1_3D + f + i,inform
 e + i + k + l + y,likely
 a + f + m + s,mask
-a + e + n + u,nasty
+a + e + o + u,nasty
 l + o + y,olympics
-a + e + i + n + p + s,panties
-i + p + r + t,priest
+a + e + i + n + p,panties
+i + p + r + t + u,priest
 h + i + n + s,shine
-a + c + l + p,capable
-a + c + o + p + r,corporation
-d + e + g + l + t,delete
-d + n + t,dental
-DUP + e + n,engagement
-DUP + RIGHT_ALT + e + i + n + t,entitle
-h + o + w + y,howdy
-DUP + c + i + n + r,ironic
-DUP + e + m + n + o + t,movement
-l + o + p + r,piano
+RH_INDEX_3D + c + p,capable
+a + c + n + p + r,corporation
+d + e + l + t,delete
+d + e + o,dental
+DUP + e + o,engagement
+LH_INDEX_3D + RH_INDEX_3D + RH_MID_1_3D,entitle
+LH_THUMB_2_3D + h + o,howdy
+m + n + p,movement
+l + o + r + v,piano
 c + e + o + s + t,scooter
 i + l + s + v,silver
 g + i + l + s,slightly
-g + i + r + t,tragic
-a + d + e + n + u,underpants
+d + n + t + u,underpants
 a + b + c + i + n,cabinet
-d + e + t + w,debt
+b + c + t,debt
 b + g + l + o,global
-e + h + y,hereby
+h + r + t + w,hereby
 d + e + i + k + n,kindergarten
-m + r + s + t + u,mustard
+h + s + t + u,mustard
 - + o,old-fashioned
-d + o + r + v,procedure
-g + o + p + r + s,progress
+c + o + p + r + t,procedure
+g + n + p + r,progress
 a + c + e + l + s,scale
 c + e + l + s,select
 LEFT_ALT + b + i + r,rib
-RIGHT_ALT + a + d + m + r,armed
-a + o + r + s,astronaut
-a + b + c + y,backyard
-a + c + p + r + u,capture
-RH_INDEX_3D + c,cart
+LH_INDEX_3D + RH_INDEX_3D + m,armed
+RH_INDEX_3D + b + c,backyard
+a + c + e + p + u,capture
 a + c + i + n + s,casino
 a + c + e + h + o,catholic
-a + c + e + l + o,cleaner
+c + l + o + r + t,cleaner
 c + e + u,desert
 - + e + x,ex-boyfriend
 c + e + u + x,executive
-f + g + n + o + r,foreign
+a + e + k + o,foreign
 f + l + u + y,fully
-LEFT_ALT + a + e + l,lean
+RH_INDEX_3D + e + l,lean
 e + l + o + s + u,louse
-a + h + m + r,march
 n + o + v,novel
-  + e + n + o,one thousand
+  + n,one thousand
 c + i + l + s,slice
-c + p + s + t,species
-- + s,strip-club
+t + u + v,species
+i + r + s + t + v,strip-club
 DUP + e + i + w,weigh
-d + e + i + w,weirdo
-a + h + o + s + w,shadow
-a + c + l + o + p + s,accomplish
-a + b + c + r + u,barbecue
-a + d + e + u,cast
+a + b + e + i,weirdo
+c + h + r + s,shadow
+a + d + m + n,accomplish
+LH_INDEX_3D + RH_THUMB_2_3D + a,barbecue
+RH_RING_1_3D + a + c,cast
 d + r + s + u,curse
-d + k + t,define
-e + q + u,equipment
+d + e + i + k,define
+t + z,equipment
 e + f + v,fever
 DUP + g + i,gig
 a + h + m + r + s,harassment
-e + g + i + n + t,intelligent
-DUP + a + k + r,karate
-DUP + LEFT_ALT + a + e + m + n,manner
-a + i + j + m + r,marijuana
-LEFT_ALT + a + e + o + p,operate
-o + p + t + u,post
-e + q + s + u,quest
+RH_MID_1_3D + i + t,intelligent
+LH_INDEX_3D + a + k,karate
+a + e + h + n,manner
+. + h,marijuana
+LH_INDEX_3D + o + p,operate
+e + o + p + s,post
+LEFT_ALT + q,quest
 a + i + n + r + s,raisin
-g + i + l + r + u,religious
-DUP + i + k + n + s,skinny
-e + l + o + u,stinky
+g + i + l + r + t,religious
+f + l + s,skinny
+i + t + u,stinky
 h + i + s + u,sushi
 h + t + y,thy
-LEFT_ALT + e + h + w,whew
-a + e + g + i + l,allergic
-a + c + e + n + p,appearance
-LEFT_ALT + a + c + e,cave
+LH_INDEX_3D + h + w,whew
+LH_INDEX_3D + a + l,allergic
+RH_INDEX_3D + RH_THUMB_1_3D + e,appearance
 d + k + n + r + u,drunken
-f + i + m + r,fireman
-RIGHT_ALT + a + f + m + r,frame
+i + k + r + t,fireman
+RH_INDEX_3D + f + r,frame
 a + d + g + r + u,graduate
 h + m + r + t,hammer
 a + g + n + u,naughty
-  + n,nine hundred
-DUP + a + l + r + s,salary
-a + g + i + n + s + u,signature
-b + c + n + r,border
-a + e + f + s + w,afterwards
-c + i + r + t + u,curtain
-c + f + t,defeat
+  + e + i + n,nine hundred
+a + l + r + s,salary
+DUP + i + s,signature
+b + c + o + r,border
+LH_INDEX_3D + c + u,curtain
+d + k + r + t,defeat
 d + e + l + s,desire
 - + e + w + x,ex-wife
-f + i + r + w,firework
+a + e + i + k,firework
 b + m + r,habit
-RIGHT_ALT + a + e + l,lane
 DUP + a + m + n,management
-h + i + m + t,mighty
-i + l + m + s + u,muslim
+DUP + i + m,mighty
+l + m + s + u,muslim
 DUP + a + n + y,nanny
-c + e + i + n + y,nicely
-l + o + p + t,polite
-c + l + o + p + t,political
-LEFT_ALT + a + g + r,rage
+c + e + i + n,nicely
+LH_MID_1_3D + l + p,polite
+LH_MID_1_3D + RH_MID_1_3D + p,political
+LH_THUMB_2_3D + RH_INDEX_3D + r,rage
 a + b + i + n + r,rainbow
-DUP + e + l + m + s,smelly
-e + i + s + t + u,tissue
-LEFT_ALT + g + i + n + r + t,triangle
+e + l + m + s,smelly
+i + s + t + u,tissue
+LH_INDEX_3D + i + t,triangle
 e + l + s + u,useless
 i + s + t + v,visitor
-d + o + v,vodka
-DUP + a + l + o,angle
-a + m + n + o + u + y,anonymous
-a + c + d + e + l,calendar
+d + n + v,vodka
+DUP + a + i + n,angle
+a + n + o + y,anonymous
+c + i + n + r + t,calendar
 d + l + w,dibs
-LEFT_ALT + d + i,dip
-a + c + f + i + n,financial
-i + k + r,flat
-d + e + i + n + t + y,identity
-DUP + i + l + v,living
-g + i + r + s,register
-c + h + n + o + s,shocking
-h + n + o + s,shopping
+f + i + n + r,financial
+a + e + k + l,flat
+d + i + n + t,identity
+LH_MID_1_3D + l + v,living
+g + i + r + t,register
+c + h + n + s,shocking
+h + n + s + v,shopping
 l + s + x,sixth
 n + o + s + v,spoon
-r + s + t + w,strawberry
-DUP + LEFT_ALT + g + r + t,target
-DUP + LEFT_ALT + e + g + n + t,teenage
+LH_INDEX_3D + RH_INDEX_3D + RH_RING_1_3D,strawberry
 c + h + i + t,thick
 b + t + w,web
-LEFT_ALT + h + o + s + w,whoops
-d + n + o + u,counter
-a + e + g + n + y,agency
-a + c + n + r,carnival
-c + f + n + o + r,confirm
-d + n + r + v,corpse
+LH_MID_1_3D + RH_THUMB_1_3D + w,whoops
+c + n + o + t + u,counter
+DUP + a + e + o,agency
+a + c + i + n + r,carnival
+LH_THUMB_1_3D + RH_MID_1_3D + o,confirm
+c + o + p + r + s,corpse
 a + d + g + i + s,disagree
-a + e + f + u,feature
-f + l + m + r,firm
-DUP + i + l + m,hill
-e + h + l + o + u,hopefully
-. + a,jam
+LH_INDEX_3D + RH_INDEX_3D + f,feature
+f + i + m + r,firm
+g + h + i + l,hill
+h + n + v,hopefully
+RH_INDEX_3D + j,jam
 b + l + m + r,lamb
-DUP + l + o,log
-l + o + r + v,printer
-e + h + k + s + t,sketch
-LEFT_ALT + e + m + s + t,steam
-e + o + p + s + u,superhero
-b + e + i + l + t,terribly
-h + o + r + t + u,toothbrush
-DUP + c + n + o + u,council
+DUP + i + n,log
+l + o + p + r + t,printer
+e + k + s + t,sketch
+RH_INDEX_3D + RH_RING_1_3D + e,steam
+p + s + t + u,superhero
+h + o + t + w,toothbrush
+d + n + o + u,council
 c + d + t,deck
 a + d + g + o + r,dragon
 c + e + i + l + t,election
-RH_THUMB_1_3D + a,hah
 a + c + f + l,lack
 a + l + s + u + w,lawsuit
 c + e + l + t + u,lecture
-e + m + t + y,mysterious
-a + e + i + v,pleasant
-g + n + p + r,pregnancy
-RIGHT_ALT + a + d + r + w,reward
-LEFT_ALT + o + r + s,rose
-c + e + i + n + s + t,scientific
-a + c + e + i + p + s,specifically
+' + m + s,mysterious
+l + p + r + s + t,pleasant
+DUP + r + t + v,pregnancy
+RH_RING_1_3D + o + r,rose
+c + i + s + t,scientific
+c + p + s + t,specifically
 e + n + t + u,tune
 a + c + d + l,acid
 a + g + h + r,argh
 a + c + d + i + n,candidate
-d + k + l,differently
-DUP + c + e + n + o + y,economy
-e + g + h + i + t + y,eighty
+c + f + i,differently
+c + o + t,economy
+e + g + h + i + t,eighty
 e + f + g,fee
 a + f + l + m,flame
-a + f + n + o + u,foundation
-j + o + t,joint
-' + n,oy
+f + n + o + u,foundation
+. + l,joint
+LEFT_ALT + o + y,oy
 i + n + p + s + u,punishment
 a + l + r + y,rally
-c + i + n + p + r + t,reception
-q + r + u,request
-DUP + i + r + s + t,resist
-  + e + n + s + v,seven hundred
-c + h + n + s,shock
-RIGHT_ALT + o + r + s,sore
+q + r + t,request
+  + u,seven hundred
+d + m + o + s,shock
+LH_INDEX_3D + o + s,sore
 c + e + p + s + u,suspect
-DUP + i + n + u,union
-e + l + o + p + t,telephone
-DUP + a + c + e + s + u,accuse
+LH_MID_1_3D + n + u,union
+e + l + p + t,telephone
+a + c + e + s + u,accuse
 RIGHT_ALT + a + e + p,ape
-a + b + e + g,badge
-RIGHT_ALT + a + b + n + r,barn
+LEFT_ALT + a + b + n + r,barn
 d + u + w,buck
 d + i + t + v,divide
-DUP + LEFT_ALT + e + i + n + t + y,eternity
-e + h + l + o + s,hopeless
-DUP + LEFT_ALT + e + i + n + t + v,intervention
-DUP + a + m + r + s,mattress
-DUP + a + i + l + m + r,millionaire
-b + e + o + s + v,observe
+e + h + o + v,hopeless
+RH_INDEX_3D + RH_MID_1_3D + i,intervention
+RH_MID_1_3D + i + m,millionaire
+b + e + o + s,observe
 a + e + k + p + s,speaker
 c + i + p + s,spicy
-d + i + m + s + t + u,stadium
-d + n + s + t,standard
-d + n + r + s,syndrome
-a + h + n + u + y,unhappy
+d + i + r + s + t,stadium
+d + n + r + s + t,standard
+' + n + s,syndrome
+h + n + r + u,unhappy
 b + n + v,vow
-o + t + u + y,youth
-a + d + i + m + r,admire
+o + u + y,youth
+a + d + l + m + r,admire
 a + b + m + u,ambulance
 b + n + o + u,bonus
-DUP + c + n + o + s,commission
+c + h + l + o + s,commission
 c + h + o + r + t,crotch
 a + d + e + g,deer
 f + n + o + t + u,fountain
-DUP + a + g + r + s,grease
-DUP + a + i + m + n + r,immigrant
-i + n + r + u + y,injury
-e + l + o + t + u,intense
-j + o + r + u,journal
-a + c + h + l + u,launch
+DUP + l + m,immigrant
+LH_MID_1_3D + j,injury
+e + i + n + t + u,intense
+LH_RING_1_3D + j,journal
+a + l + o + u,launch
 a + d + e + l + m,medal
 e + i + l + m,mile
-DUP + c + r + s + u,rescue
-DUP + e + m + s + t,semester
-LEFT_ALT + i + r + t,tire
+c + r + s + t + u,rescue
+e + m + s + t,semester
+LH_INDEX_3D + LH_MID_1_3D + t,tire
 o + r + s + w,worship
 d + e + g + s,seed
 d + o + t,dot
-. + a + m,a.m.
-RH_MID_1_3D + a,alert
-c + e + f + n + o + t,confident
-c + n + r + u,currently
-c + l + s,disco
+. + RH_INDEX_3D,a.m.
+RH_MID_1_3D + a + e,alert
+LH_MID_1_3D + LH_THUMB_1_3D + n,confident
+c + n + r + t + u,currently
+c + d + l + s,disco
 f + n + s,found
-f + r + s + t + u,frustrate
-l + m + p,improve
-c + e + i + n + t + u,intercourse
-DUP + e + i + n + s + t + v,investment
-e + j + y,jelly
-LEFT_ALT + a + l + o,loan
-LEFT_ALT + o + p + r + s + t,protest
-i + r + t + u,seal
+f + r + s + u,frustrate
+a + i + m + p,improve
+LH_MID_1_3D + n + t,intercourse
+i + n + p + t,investment
+. + y,jelly
+LH_MID_1_3D + a + l,loan
+LH_MID_1_3D + p + r,protest
+LEFT_ALT + a + e + l + s,seal
 e + i + l + s,silent
-e + m + p + t + u,temperature
-c + e + i + l + s + t,testicle
+e + h + t + v,temperature
+c + e + i + s + t,testicle
 i + p + t + y,typical
 a + n + s + u,unusual
 a + o + r + v,approach
@@ -2770,1765 +2628,1566 @@ a + i + l + p + r,april
 b + n + w,bow
 a + c + e + i + s,castle
 d + e + l + o,dine
-a + c + e + f + i + n,fiance
+i + k + n + r,fiance
 DUP + g + o,goo
-DUP + e + g + n + o,governor
-DUP + LEFT_ALT + l + o + t,lotion
-a + e + m + s + u,measure
-d + e + m + o,modern
-d + e + k + n,necklace
+DUP + n + v,governor
+LH_MID_1_3D + l + t,lotion
+a + e + m + s,measure
+d + m + o + t,modern
+d + n + t,necklace
 LEFT_ALT + n + o + r,nor
 a + g + o + r + s,orgasm
 e + o + p + t,poetry
-a + n + o + r + s,reasonable
-c + h + r + s,scam
-h + i + u,shift
+a + d + m + s,scam
+h + l + u,shift
 a + e + k + n + s,sneaker
-g + i + r + s + t,straighten
-LEFT_ALT + p + t,tap
-i + k + n + u,unlike
 b + c + e + n,bench
 b + j,blowjob
-a + c + h + i + n + s,championship
-d + k + o,coke
+LH_THUMB_1_3D + RH_THUMB_1_3D + a,championship
+c + e + f + o,coke
 a + d + k + n + r,darkness
 a + d + i + r + y,diary
 g + i + l + u,guilt
-DUP + e + i + m + n + t,intimate
-a + g + h + l + u,laughter
+i + m + n + t,intimate
+a + g + l + u,laughter
 d + l + o + t,lend
-DUP + a + g + n + o + r,organization
+o + q,organization
 l + p + r + u,purple
-LEFT_ALT + c + i + r,rice
+LH_THUMB_1_3D + i + r,rice
 e + i + m + n + s,seminar
-LEFT_ALT + e + i + n + s,senior
-e + h + u,sheep
-e + i + p + s + u,upside
+e + i + n + u,senior
+h + s + t,sheep
+i + p + s + u,upside
 e + h + v,vehicle
 e + n + s + t + v,seventy
 a + c + e + h + i,achieve
 c + d + l + r,addiction
-a + c + h + i + r + u,architecture
+RH_THUMB_1_3D + a + c + r,architecture
 d + e + m + n + o,demon
-- + d + r + y,dry-cleaner
-a + d + m + u,dumbass
-f + r + z,freezer
+- + c,dry-cleaner
+LH_THUMB_1_3D + d + u,dumbass
+f + r + t + z,freezer
 d + g + i + u,guide
-LEFT_ALT + a + h + m + r,harm
+a + h + m + r,harm
 h + k + n + o,honk
-a + e + i + n + s,install
-a + m + o + s,mascot
+l + o + t + u,install
+a + d + m + u,mascot
 a + i + m + s,massive
-LEFT_ALT + e + l + m + t,metal
-e + o + t + u,nest
-DUP + e + l + o + t,nineteen
-l + o + p + s + t,possibility
+LH_INDEX_3D + m + t,metal
+e + o + s + t,nest
+DUP + e + i + n + t,nineteen
+l + o + p + s + w,possibility
 a + i + p + r + s,praise
-c + i + p + r + s,prescription
+c + p + r + s + t,prescription
 c + n + p + r + u,produce
-a + l + m + o + s,salmon
+a + l + m + s,salmon
 n + o + r + s + u,surround
-d + g + r + t,tragedy
-DUP + l + o + r + t,troll
-a + n + o + w,wagon
+g + l + o + r + t,troll
+DUP + a + w,wagon
 h + i + s + w,whisper
-m + u + y,yummy
+DUP + m + u + y,yummy
 LEFT_ALT + a + b + n,ban
-b + c + i + n,bind
-- + a + b + n + r,brand-new
-b + e + l + t + u + y,butterfly
-DUP + c + e + i + l,ceiling
+d + l + o + w,bind
+b,brand-new
+b + e + u,butterfly
+c + i + l + t,ceiling
 c + n + o + s + t,constantly
-b + i + n + t,elbow
-c + e + i + l + t + y,electricity
-a + c + e + n + x,exchange
-DUP + a + r + u,grass
+l + o + t + w,elbow
+c + e + i + t,electricity
+c + t + x,exchange
+DUP + a + g + r + s,grass
 i + m + n + s + u,misunderstanding
-DUP + i + n + r + u,reunion
-a + c + d + r + s,sacred
+i + n + r + t + u,reunion
+a + c + r + u,sacred
 a + e + g + s,sergeant
 g + l + o + s,solo
-' + s,syrup
-LEFT_ALT + e + h + o + t,therefore
-DUP + i + m + n + t,timing
+' + r + s,syrup
+LH_INDEX_3D + RH_INDEX_3D + RH_THUMB_1_3D,therefore
+i + m + t,timing
 h + i + s + t + w,whistle
-h + i + k + n,knight
-LEFT_ALT + a + b + e + l,ballet
+DUP + i + k + n,knight
+RH_MID_1_3D + a + b,ballet
 a + d + l + w,blade
 a + b + l + s,blast
-a + b + c + e + i + l,celebration
+b + c + e + i,celebration
 c + e + h + u,cheesecake
-a + c + e + n + o + u,communicate
+d + m + o + u,communicate
 DUP + c + o + u,cough
 c + i + l + p + r,cripple
-d + z,dozen
+d + o + z,dozen
 f + i + n + w,following
 a + d + g + o,goddamn
 e + g + h + l,heel
 LEFT_ALT + a + d + l,lad
 DUP + n + o,noon
-DUP + LEFT_ALT + n + o,onion
-i + l + r + v,relieve
-a + i + s + v,saving
+i + l + r + t + v,relieve
+a + s + v,saving
 c + h + s + t,scheme
-c + e + i + l + s,silence
-a + e + k + s,skate
-- + e + n + t + w + y,twenty-two
-l + o + u + v,volunteer
+i + l + s + t,silence
+k + r + s,skate
+b + e + n + t,twenty-two
+RH_MID_1_3D + o + v,volunteer
 a + i + l + p,application
-DUP + a + c + i + n,cinnamon
-DUP + c + n + o + t + u,coconut
-c + n + o + r + s + t,construction
-DUP + a + e + s,easter
-- + e + g + x,ex-girlfriend
-e + l + v + x,explore
-a + g + h + i,highway
+c + h + i + n + r,cinnamon
+d + n + o + s,coconut
+c + e + n + o + s,construction
+LH_INDEX_3D + RH_RING_1_3D + a,easter
+l + t + v + x,explore
+g + h + l,highway
 i + l + m + p,imply
-e + o + p + t + y,pottery
+e + n + p + t,pottery
 a + k + o + s,soak
-c + l + s + t,sticker
+e + l + u,sticker
 i + r + s + u + v,survivor
-k + s + t,task
+a + e + k + s,task
 a + g + o + y,yoga
 b + r + t + u,beast
-b + g + i + l,biology
-LH_THUMB_1_3D + a,carve
 d + e + i + s + t,destiny
 d + e + o + t,detention
-c + d + l + r + t,direct
+a + c + d + e + i,direct
 d + i + l + r,drill
-DUP + g + i + l + r,grill
+g + i + l + r,grill
 e + n + o + p + t,potential
-a + h + l + r + s,rehearsal
-LEFT_ALT + a + d + l + r,related
 b + i + n + r,ribbon
 a + g + p + s,spaghetti
 f + s + t + u,stuffing
-a + e + s + u,surely
-- + e + h + n + t + w + y,twenty-three
+i + r + s + t + u,surely
+b + e + o + t,twenty-three
 d + m + r + s,drum
-DUP + a + c + n + o + u,accountant
-RIGHT_ALT + c + h + i + l,chill
-a + c + e + o + s,coaster
-c + d + n + o + t,conditioner
+a + d + n + u,accountant
+RH_THUMB_1_3D + c + i,chill
+c + n + r + s,coaster
+LH_MID_1_3D + LH_THUMB_1_3D + RH_MID_1_3D,conditioner
 LEFT_ALT + c + e + n + o,cone
-d + k + r + t,deaf
+LH_INDEX_3D + RH_INDEX_3D + d,deaf
 d + i + m + s,dismiss
 d + l + t + v,dive
-DUP + e + o,error
-a + e + h + u,hers
-e + j + w,jewelry
+g + o + r + t,error
+h + r + s + t,hers
+. + w,jewelry
 a + d + e + m + y,mercy
-a + n + r + u + y,naturally
 c + e + f + i + n,nickel
 b + j + o,object
-c + i + n + r + s,scissors
-c + e + l + s + t,secretly
-a + d + m + s,smack
-o + p + r + s + t + u + v,supportive
+d + l + o + u,scissors
+LH_THUMB_1_3D + e + s,secretly
+a + c + h + u,smack
+o + s + u + v,supportive
 c + f + i + t,tick
 a + f + l + w,waffle
 b + c + i,wicked
 d + i + s + w,wisdom
-DUP + n + w,woo
+DUP + o + w,woo
 ' + a + e + s,essay
 b + l + t + u,butler
 a + d + e + l + y,deadly
 c + d + e + i + l,delicate
-c + d + e + n + o + u,document
-e + m + n + o + t + y,emotionally
-b + e + l + s + t,establish
+c + d + o + s,document
+e + i + m + n + t,emotionally
 f + l + t + u,flute
-g + l + o + r,gorilla
-DUP + g + o + r,groom
-g + h + o + r,horror
-a + h + m + n + u,humanity
-f + m + r,maker
-DUP + LEFT_ALT + a + i + m + n + r,martini
+g + i + n + r,gorilla
+g + h + o + r,groom
+a + g + h + o,horror
+a + h + m + u,humanity
+a + h + k,maker
 LEFT_ALT + d + m + u,mud
 ' + d + e + n,needy
-' + s + v,psychic
-c + d + r + u,reduce
-RIGHT_ALT + d + r + t,retarded
+u + v + y,psychic
+c + d + r + t + u,reduce
 LEFT_ALT + d + o + r,rod
 b + r + s,rubber
-DUP + r + u,rug
-RH_RING_1_3D + t,steer
-b + m + o + s,symbol
+g + r + u,rug
+h + u + y,symbol
 e + f + i + s + t,testify
-h + i + r + t + u,thirsty
-RIGHT_ALT + d + i + n + r + t,traditional
+h + i + r + s + t,thirsty
 c + d + e + s + u,succeed
 LEFT_ALT + b + m + o,mob
 a + b + c + i + s,basic
-h + r + t + w,behalf
+a + b + e + l + m,behalf
 b + o + t + y,booty
-b + i + r + s,bridesmaid
+d + i + r + w,bridesmaid
 d + m + o + r,chore
-LEFT_ALT + c + n + o,coin
-a + b + c + n,crowded
-e + n + o + p + v,envelope
-c + e + i + t + x,exciting
-g + i + n + r + s + t,greetings
-a + d + e + i + m + n,medication
-a + c + e + i + n + s,necessarily
-DUP + a + n + o + r,organize
-DUP + a + e + o + v,overreact
+b + c + n + r,crowded
+l + o + t + v,envelope
+c + e + i + x,exciting
+d + e + l + m,medication
+c + e + n + u,necessarily
+n + z,organize
+LH_INDEX_3D + o + v,overreact
 a + e + g + n + p,pageant
-a + l + o + v,principle
-a + l + r + w,rabbi
-e + n + s + z,sneeze
-DUP + s + t,tasty
-b + c + o + t,tobacco
-RIGHT_ALT + e + h + w,whee
+c + l + o + p + r,principle
+a + b + l + r,rabbi
+RH_RING_1_3D + z,sneeze
+' + r + s + t,tasty
+b + o + r + t,tobacco
+RH_THUMB_1_3D + e + w,whee
 a + c + f + i,facility
-f + l + s,skirt
-c + d + l + t,dedicate
+i + k + u,skirt
+c + d + i + t,dedicate
 d + e + s + v,despite
-a + d + n + o + w,download
+d + n + w,download
 e + f + t,fetus
-f + g + i + r + t,frighten
-a + f + g + r,grateful
-a + g + i + r,gravity
+f + g + i + r,frighten
+LH_INDEX_3D + RH_INDEX_3D + g,grateful
+a + g + i + p + r,gravity
 h + i + l + r,hail
-' + a + h,hay
-e + h + i + u,hideous
-h + o + y,hobby
+a + h + y,hay
+c + e + h + l,hideous
+h + o + w + y,hobby
 a + e + g + l + y,legally
 g + h + i + l + t,lighting
-' + b + l + o,lobby
+b + l + o + y,lobby
 g + l + o + u,lung
-a + i + m + n + s + u,musician
+h + l + s + u,musician
 e + p + t + y,petty
-i + n + p + t,plot
-c + n + p + r + s,presence
-m + n + o + p + r + t,promotion
-a + c + d + i + r,radioactive
-a + e + i + l,relief
-DUP + c + o + r + s + u,resource
-a + i + l + r + s,sailor
+LEFT_ALT + l + o + p + t,plot
+a + e + n + p + u,presence
+a + m + o + p,promotion
+a + c + l + r,radioactive
+f + i + l + r + t,relief
+o + r + s + t + u,resource
+i + l + r + s,sailor
 b + n + s,sober
 a + f + o + s,sofa
-LEFT_ALT + e + n + t + v,tavern
-DUP + e + o + s + t,toaster
-DUP + a + n + u,annual
-RH_INDEX_3D + b,bathe
+a + i + n + u,annual
 b + i + r + u,burrito
-c + l + o + r + t,catalog
-c + e + h + l,cheerleader
-a + b + c + n + o,combination
-b + c + e + n + o,combine
-DUP + c + n + o + s + u,conclusion
-d + g + n + o + t,cotton
+a + d + e + l + o,catalog
+a + c + e + h + l,cheerleader
+DUP + c + n + o + t,cotton
 LEFT_ALT + a + b + c + r,crab
-DUP + LEFT_ALT + a + e + s,erase
 a + f + i + l + r,fairly
 k + n + u,fund
 g + h + n,hog
 h + i + r + u,hurricane
-j + u + y,july
+' + .,july
 a + m + n + s,mansion
-m + o + r + t + y,motorcycle
-e + g + i + n + p,pigeon
-c + l + o + p + s + t,politics
+d + m + o + r + t,motorcycle
+g + l + p,pigeon
+RH_THUMB_1_3D + l + o,politics
 g + o + p + r + t,proper
 q + y,qualify
-c + i + n + p + r + s + t,receptionist
-DUP + c + o + r,recover
-a + r + u,sarcasm
-e + h + i + s,sheriff
+c + n + p + r + t,recover
+a + r + s,sarcasm
+m + s + t,sheriff
 g + h + o + s,shoo
 ' + o + s,soy
 c + i + p + s + u,suspicious
 a + e + u + w,sweaty
-c + e + h + i + n + t,technique
+RH_INDEX_3D + q,technique
 g + h + i + t,thigh
 o + t + x,toxic
-- + DUP + e + n + t + w + y,twenty-seven
-- + m + u,uh-uh
+' + e + n + t + w,twenty-seven
+- + h + u,uh-uh
 e + s + t + v,vest
-d + i + r + w,crib
-a + e + m + n + s + u,amusement
-DUP + a + e + v,average
-a + d + w,backpack
-a + i + n + w,balance
+d + l + r + w,crib
+a + m + s + u,amusement
+LH_INDEX_3D + a + v,average
+LH_THUMB_1_3D + RH_INDEX_3D + b,backpack
+b + l + o + r,balance
 b + e + v,beverage
-n + w + x,boxer
-c + f + n + o + t,confession
-d + e + l + y,deeply
-a + c + f + i + r,fabric
-h + r + t + v,herpes
-RIGHT_ALT + h + o,hobo
-h + r + y,hybrid
-a + c + i + n + r + s,increase
-RIGHT_ALT + e + h + m + t,meth
-p + r + v,prevent
-i + p + r + u,prisoner
-c + n + o + p + r + t,protection
-u + z,queer
-f + r + s + t,refresh
+o + w + x,boxer
+d + e + k + n + o,confession
+c + e + l + p,deeply
+a + f + r + w,fabric
+a + e + h + s + v,herpes
+h + w + y,hybrid
+d + i + n + r + t,increase
+LEFT_ALT + e + h + m + t,meth
+p + r + t + v,prevent
+i + p + r + s,prisoner
+LH_INDEX_3D + LH_MID_1_3D + p,protection
+g + q,queer
+a + e + f + u,refresh
 g + h + s + u,shush
-LEFT_ALT + p + r + s + t,strap
-LEFT_ALT + r + t + y,tray
 c + u + y,yuck
-h + n + v,vomit
+h + l + o + v,vomit
 a + c + d,academy
 a + o + s + u,anus
-a + b + i + y,babysitter
-b + n + r + t,banner
-a + e + n + w,beneath
+a + b + y,babysitter
+a + b + e + o,banner
+b + n + r + t,beneath
 b + c + l,bid
-d + l + r + w,bladder
-c + i + t + u,cult
-RIGHT_ALT + a + d + e + l,dealer
+a + d + i + w,bladder
+c + l + t + u,cult
+RH_MID_1_3D + a + d + e,dealer
 e + k + l,flesh
 f + i + l + u,fulfill
-h + i + n,hint
+l + m + o,hint
 h + m + s,hump
 c + i + n + t,identify
 d + i + m + n + t,intimidate
-LEFT_ALT + a + e + h + l,leather
-a + d + m + n,madness
-e + l + m + y,merely
-l + m + o,mole
-n + z,nazi
-a + i + n + p + s,passionate
-RH_THUMB_1_3D + a + r,rap
-DUP + c + n + r + t,recent
-DUP + a + e + i + l + s,satellite
-a + h + m + o + s,shampoo
+LH_INDEX_3D + RH_INDEX_3D + l,leather
+d + m + n + r,madness
+a + e + l + m + y,merely
+l + m + o + t,mole
+RH_MID_1_3D + z,nazi
+a + u + v,passionate
+LEFT_ALT + a + p + r,rap
+h + m + r + u,shampoo
 e + l + s + v,sleepy
 DUP + m + s + u,smug
-a + u + v,spray
-LEFT_ALT + r + s + t + w,straw
-e + m + p + s + u,supermarket
-LEFT_ALT + d + e + n + t,tend
-- + e + n + o + t + w + y,twenty-one
+a + r + s + v,spray
+e + s + u + v,supermarket
+c + e + o + t,tend
+e + o + t + w + y,twenty-one
 b + m + r + u,umbrella
-l + r + s + t + w,wrestler
+r + t + u + w,wrestler
 d + s + w,bud
-b + n + o + t,boner
-RIGHT_ALT + i + r + t,riot
+b + e + n + o,boner
 c + h + t + u,chess
-LEFT_ALT + c + h + i + n,chin
+RIGHT_ALT + c + h + i + n,chin
 d + i + l + v,clip
 c + e + n + o + p,concept
-LEFT_ALT + c + o + r,core
+LH_INDEX_3D + c + o,core
 d + g + t,deed
-d + e + s + t + u,destruction
-a + d + i + l + s,display
+d + e + t + u,destruction
+d + i + s + v,display
 LEFT_ALT + a + d + n,dna
 DUP + e + i,eighth
-DUP + a + e + i + l + m,eliminate
+h + i + l + t,eliminate
 e + g + o + s,goose
 h + m + o + s,homosexual
-l + o + t + v,invention
-a + h + m + o + r,marathon
+e + i + n + t + v,invention
 a + e + i + m + n,meaning
 i + m + n + u,minus
-d + m + o + u,ouch
-a + e + o + p + w,paperwork
+d + m + n + u,ouch
 g + i + l + p + r,pilgrim
 g + l + p + u,plug
 g + p + s + t,psst
-a + c + l + p + r,replacement
-n + r + s + u,surrender
-d + o + r + s + t + w,towards
-DUP + a + u + v,vacuum
+n + r + s + t + u,surrender
+n + r + t + w,towards
+a + d + u + v,vacuum
 a + h + o + y,ahoy
-c + r + t + y,crystal
-DUP + c + r + t,data
-RIGHT_ALT + d + e + n + o,done
+c + r + y,crystal
+d + g + r + t,data
+LEFT_ALT + d + e + n + o,done
 ' + d + r,dryer
-d + e + l + o + t,editor
+d + e + i + t,editor
 DUP + e + l + o + v,evolve
 b + k + l + o,flow
-DUP + m + r + t,germ
-RIGHT_ALT + a + g + r,grace
-a + g + h + r + s,harsh
-DUP + e + g + i + n + t,intelligence
-a + j + w,jaw
-c + i + j + u,juicy
+g + h + r + t,germ
+LH_INDEX_3D + LH_THUMB_2_3D + a,grace
+a + m + r + u,harsh
+LH_MID_1_3D + RH_INDEX_3D + n,intelligence
+. + b,jaw
+. + d,juicy
 i + l + p + s + t,lipstick
-c + i + l + u,luckily
+c + f + l + u,luckily
 d + e + i + m + u,medium
-i + m + n + r,minority
-e + h + n + o + v,overnight
-a + c + i + l + p + r + u,particularly
-a + m + p + y,payment
+LH_MID_1_3D + m + n,minority
+a + e + n + o + v,overnight
+a + p + y,payment
 c + n + s + t,scenario
 b + c + r + s + u,scrub
-h + l + u,shiny
-g + h + l + o + t + u,thoughtful
-o + s + t + v,tops
-LEFT_ALT + b + i + r + t,tribe
-h + l + o + r + t + w,worthless
-i + m + n + r + t,retirement
+l + m + u,shiny
+h + n + s + t,thoughtful
+o + p + t + u,tops
+RH_INDEX_3D + i + r,tribe
+h + o + r + t + w,worthless
 g + h + i + r,righty
 a + b + o + s,absolute
-b + r + z,breeze
-- + 9,9-1-1
+RH_THUMB_2_3D + z,breeze
+/ + 9,9/1/01
 a + d + j,adjustment
 a + d + e + o + v,adoption
 a + h + n + y,anyhow
-RIGHT_ALT + a + e + h + l,athlete
 b + r + s + t + u,burst
 DUP + a + c + o,cocoa
 c + o + r + t + u,courtesy
-c + n + r + t + u,current
+a + c + e + n + u,current
 d + g + n + u,dough
-LEFT_ALT + a + b + e + m,embrace
+RH_THUMB_2_3D + e + m,embrace
 a + k + x,fax
-f + l + o + s,foolish
-a + d + e + l + o,locate
+LH_MID_1_3D + f + l,foolish
+d + l + o + r + t,locate
 DUP + e + m + o,memo
-e + m + n + t + y,mentally
-LEFT_ALT + i + m + n + r,minor
-m + n + o + r + t,monitor
+RH_MID_1_3D + e + m,mentally
+LH_MID_1_3D + RH_MID_1_3D + m,minor
+RH_MID_1_3D + m + o,monitor
 DUP + m + o,moo
-o + q,quote
-DUP + a + c + n + o + r,raccoon
-c + d + s + t + u,seduce
+RIGHT_ALT + q,quote
+a + c + n + o + r,raccoon
+c + s + t + u,seduce
 DUP + e + l + s + v,sleeve
-LEFT_ALT + g + n + r + s + t,strangle
-h + i + n + s + u,sunshine
-c + i + l + t,tickle
-b + e + n + t,tower
+h + n + s + u,sunshine
+d + i + k + t,tickle
+LH_THUMB_2_3D + o + t,tower
 DUP + o + r + t + v,troop
-e + l + o + u + v,volume
-DUP + a + i + n + w,wingman
+h + l + o + u + v,volume
+DUP + i + n + w,wingman
 DUP + s + u + w,wuss
-DUP + c + n + o + s + t,constant
+d + n + o + s + t,constant
 LEFT_ALT + c + e + u,cue
-a + c + d + e + n + o,acknowledge
+d + k + r,acknowledge
 a + d + e + i + n,addition
 a + b + u,bass
-b + e + g + i + l + s,blessing
+b + l + s + t,blessing
 b + i + s + u,businessman
 a + c + l + r + s,classroom
-DUP + LEFT_ALT + c + i + l,clinic
-b + c + n,coward
-a + d + i + r + v,driveway
+LH_MID_1_3D + LH_THUMB_1_3D + l,clinic
+a + d + o + w,coward
+d + l + r + v,driveway
 DUP + c + e + l + t,elect
 f + i + s + t,fist
-- + g + n + o + r,grown-up
-a + c + d + e + i + n,indicate
-d + g + i + n + r,ingredient
-c + i + n + s + t,instance
-e + j + u,june
-e + g + h + i + l + t,lighten
+b + g + o + r,grown-up
+c + d + i + n + r,indicate
+DUP + i + n + r,ingredient
+e + l + o + u,instance
+j + o + u,june
+DUP + i + l,lighten
 i + l + m + r,mailman
-DUP + e + m + o + t,meteor
+LH_THUMB_1_3D + e + t,meteor
 LEFT_ALT + m + o + p,mop
-LEFT_ALT + b + e + n + o,noble
-a + j + m + p,pajamas
-a + c + i + p + y,physically
+RH_THUMB_2_3D + n + o,noble
+. + p,pajamas
+h + v + y,physically
 LEFT_ALT + o + p + r,pro
-a + d + g + i + r,regarding
 d + n + r + t + v,reverend
-g + o + r + t,root
+DUP + n + r + t,root
 l + s + t + u,slutty
-k + l + o + s,sniff
+f + i + n + s,sniff
 e + l + s + w,swell
-- + h + i + r + t + y,thirty-one
+' + h + i + r + t,thirty-one
 h + m + s + u,mushroom
-a + d + e + n + v,advanced
-m + r + s + u,amuse
-a + c + e + n + o + s,ancestor
-DUP + a + c + i,attic
+RH_THUMB_1_3D + a + v,advanced
+a + e + m + s + u,amuse
+a + d + e + n + s,ancestor
+DUP + a + c + e + i,attic
 b + c + l + o + r,broccoli
-c + i + r + s + t + u,circumstance
-c + h + l + o + t,clothing
+c + l + r + s,circumstance
+c + h + i + n + t,clothing
 a + c + d + e,decade
-d + i + r + s,disorder
+d + i + n + r + s,disorder
 d + e + g + n + u,dungeon
-e + l + o + t + u + v,evolution
-c + e + i + n + t + x,exception
+e + l + o + u + v,evolution
+LH_THUMB_1_3D + e + x,exception
 c + f + n + u,function
 f + g + t,geek
-g + l + o + r + u,glorious
-g + o + p + s,gossip
-a + h + i + l + y,happily
-RIGHT_ALT + d + i,id
+DUP + l + o + r,glorious
+g + o + u,gossip
+a + h + i + v,happily
+LEFT_ALT + d + i,id
 i + l + m + r + t,military
-d + n + t + u,nude
-LEFT_ALT + a + n + p,pan
-a + d + l + r + v,paradise
-e + p + v,pervert
-d + i + n + v,pinch
+c + n + t + u,nude
+RIGHT_ALT + a + n + p,pan
+a + c + i + p + r,paradise
+a + e + p + v,pervert
+c + l + o + p,pinch
 ' + i + p + t,pity
-DUP + n + o + r + t,rotten
-e + h + n + s + t + v,seventh
+RH_INDEX_3D + o + r,rotten
+e + o + s + v,seventh
 a + i + l + m + s,similar
-DUP + c + o + r + t,tractor
-DUP + e + n + t + u,tunnel
-DUP + LEFT_ALT + a + i + n + v,vanilla
-LEFT_ALT + a + e + i + l + v,violate
+e + o + t + u,tunnel
+RH_MID_1_3D + a + v,vanilla
 d + r + t + w,wreck
-i + p + z,zip
-b + e + i + m + t,bedtime
-RIGHT_ALT + a + c + e + p,cape
-c + d + o + r + s,crossword
-d + e + g + i + n + s,designer
-e + m + n + o + u,enormous
-LEFT_ALT + e + m + t + x,extreme
-a + f + g + i + l + r,fragile
-g + n + t,genetic
-e + g + l + t,length
-DUP + i + l,lightning
-a + f + i + m + n,magnificent
+LEFT_ALT + z,zip
+b + c + e + t,bedtime
+LEFT_ALT + a + c + e + p,cape
+c + n + r + u,crossword
+d + e + i + u,designer
+a + e + n + o,enormous
+RH_THUMB_2_3D + e + t,extreme
+a + f + g + r,fragile
+e + g + i + n + t,genetic
+e + g + l + o,length
+DUP + i + l + m,lightning
+DUP + a + m + o,magnificent
 a + f + m + n,mankind
-a + h + l + m + r + s,marshmallow
-a + b + e + l + m,meatball
+a + h + m + r + u,marshmallow
+LH_THUMB_1_3D + RH_INDEX_3D + e,meatball
 e + m + u,messy
 m + n + o + t + u,mount
 a + n + v + y,navy
 e + o + p + u,oppose
-a + e + n + p + s,passenger
+a + e + o + p + u,passenger
 a + g + l + p + y,playground
 e + n + p + s,possession
 a + o + p + r + s,proposal
-c + o + p + s,psycho
+' + c + p + s,psycho
 a + f + i + n + r,rainforest
-LEFT_ALT + e + o + p + s + t,stereotype
 g + n + s + u,sunglasses
-e + h + t + v,temp
-e + h + n,thou
+LEFT_ALT + e + m + p + t,temp
+m + o + t + u,thou
 a + i + n + r + u,urinal
 LEFT_ALT + a + h + w,wah
-i + l + p + r + u,republican
+p + r + t + u + w,republican
 a + b + s + u,abuse
 a + d + j + u,adjust
-a + l + o + p + r + v,approval
-LEFT_ALT + c + e + f + i + t,certificate
+a + n + r + v,approval
 c + x,complex
-c + e + n + o + s + t,contestant
+RH_INDEX_3D + c + n + o,contestant
 m + t + x,exhibit
 a + e + f + m,fame
 DUP + e + g + n,gene
-LH_MID_1_3D + h,hop
 b + i + n + s + v,invisible
 e + i + k + t,kitten
 a + e + l + o + p,laptop
-l + m + o + r,maniac
-h + m + t + y,myth
+i + m + n + r,maniac
+m + t + y,myth
 d + e + g + i + n,needle
 l + m + p + r,prime
 k + p + u,puke
-a + g + i + n + r,rating
-DUP + r + s + v,reserve
-DUP + a + c + i + r + s,sarcastic
-m + t + u,shelf
+DUP + r + s + t + v,reserve
+a + r + u,sarcastic
+e + h + u,shelf
 e + k + l + s,skeleton
 b + i + m + s + u,submit
-e + p + s + u + v,supervisor
-m + p + s + t,symptom
+s + t + u + v,supervisor
+' + m + p + s,symptom
 i + r + u + v,virus
-a + e + n + s + w,weakness
-LEFT_ALT + a + b + l + r,barrel
-a + l + p + u,applause
-RIGHT_ALT + b + l + o,boil
-LEFT_ALT + a + b + g + r,brag
-b + c + l + u,buckle
+f + r + t + w,weakness
+RH_INDEX_3D + RH_THUMB_2_3D + r,barrel
+a + l + p + s + u,applause
+DUP + a + r + w,brag
+LH_THUMB_1_3D + b + u,buckle
 b + g + l + r + u,burglar
-DUP + LEFT_ALT + a + c + e + l,caller
-LEFT_ALT + a + c + n + o + r,carton
-d + e + k + n + o,donkey
-i + n + r + t + v,environmental
-a + e + q + u,equal
-a + e + n + x,expand
+RH_MID_1_3D + a + c,caller
+d + k + n + o + t,donkey
+a + e + i + n + v,environmental
+e + q + u,equal
+a + e + n + v + x,expand
 f + i + u,flu
-a + f + o + r,forehead
-DUP + RIGHT_ALT + g + r + t,greet
-DUP + e + i + l + s,illness
-LEFT_ALT + i + n + r + u,injure
+a + e + k + n,forehead
 e + f + i + l + s,lifestyle
 b + e + j + o,objection
-g + o + r + t + u,outrage
-a + e + u + v,pasta
-LEFT_ALT + a + c + i + l + p + r,practical
-DUP + c + r + s,recess
-c + l + r + y,recycle
-LEFT_ALT + a + h + r + s,rehearse
-a + o + r + u,roast
+RH_INDEX_3D + o + u,outrage
+a + e + g + p + s,pasta
+LH_THUMB_1_3D + a + p + r,practical
+DUP + c + r + s + t,recess
+c + r + t + y,recycle
+a + o + r + s,roast
 DUP + a + l + s,salsa
-- + e + n + s + t + v,seventy-five
-m + r + s + t,shred
-l + o + p + u,sloppy
-a + e + h + m + o + s,somewhat
+n + s + t + v,seventy-five
+m + r + t + u,shred
+' + l + o + p + s,sloppy
+e + m + n + s,somewhat
 c + i + s + t + u,suitcase
 DUP + e + n + s + t,tense
 a + e + l + v + y,valley
-DUP + c + e + n + t,entrance
-LEFT_ALT + a + e + i + p,appetite
-DUP + a + c + n + o + s,association
-a + n + o + r + y,attorney
+d + o + r + s,association
 b + i + k + n,bikini
 n + u + w,bun
-b + c + l + o + u,clubhouse
-c + f + n + o + r + t,confront
-b + c + n + o + r + t,contribute
+b + c + l + u,clubhouse
+c + f + n + o + r,confront
+RH_MID_1_3D + c + o + t,contribute
 DUP + c + i + r + t,critic
-d + e + i + n + s,depressing
+a + d + e + u + v,depressing
 d + i + m + t,dime
-c + d + i + u,discovery
-d + e + k + t,effective
-c + t + x,excitement
-LEFT_ALT + c + e + i + n + t + x,expectation
-b + e + o + w + y,eyebrow
+c + d + l + u,discovery
+c + e + f + i + t,effective
+c + e + i + t + x,excitement
+e + w + y,eyebrow
 k + l + u,fluffy
-RIGHT_ALT + a + c + e + h,headache
+LH_INDEX_3D + a + h,headache
 d + i + n + t + v,independent
-e + g + i + n + t + y,integrity
-DUP + LEFT_ALT + a + k + r,karma
+e + g + l + o + t,integrity
+RH_INDEX_3D + k + r,karma
 i + l + z,lizard
-DUP + i + n,logic
+LH_THUMB_2_3D + l + o,logic
 i + l + p + r,plain
-e + n + p + t,poet
-i + q + u,quietly
-a + i + l + r + v,relative
-k + r + s,safely
+e + o + t + v,poet
+' + q,quietly
+a + e + k + u,safely
 h + i + n + r + s,shrink
 a + h + l + s,slam
-i + p + r + s + u,surprisingly
-e + g + i + n + s + t,testing
-g + h + o + r + t + u,throughout
-m + n + o + r + t + u,tournament
+p + r + s + u,surprisingly
+e + i + t + u,testing
+h + o + r + t + u,throughout
+n + o + r + t + u,tournament
 a + d + o + r + w,wardrobe
 i + r + s + w,wrist
-DUP + e + n + v,nerve
-d + e + o + s,deposit
-RIGHT_ALT + i + l + r + t,trail
+DUP + a + e + n + v,nerve
+d + e + o + v,deposit
 a + c + l + o + r,collar
 b + c + i + y,bicycle
 LEFT_ALT + a + e + h + m,ahem
 a + i + k + l,alike
-DUP + a + e + g + l + y,allergy
-a + e + h + i + s,atheist
-LH_THUMB_1_3D + h,chamber
-c + e + h + s + u,cheeseburger
-c + e + n + o + s,conscience
-c + d + l + u,cuddle
-e + i + n + s + t + x,existence
+LH_INDEX_3D + RH_MID_1_3D + a,allergy
+LH_THUMB_1_3D + RH_INDEX_3D + RH_THUMB_1_3D,chamber
+d + e + m + s,cheeseburger
+RH_RING_1_3D + c + n + o,conscience
+c + d + e + l + u,cuddle
+e + i + s + x,existence
 DUP + a + l,gallery
-DUP + c + i + n + s + t,instinct
-i + n + r + s + t + u,instruction
+c + i + n + s + t,instinct
+a + e + i + n + s,instruction
 a + l + o + y,loyal
-h + i + n + r,maintain
-DUP + a + e + i + m + n,maintenance
-a + e + i + m + n + s,meaningless
-l + m + o + r + t,memorize
+l + m + o + r,maintain
+a + h + i + n,maintenance
+a + e + l + m + o,meaningless
+h + z,memorize
 e + i + l + m + s,missile
 l + m + o + s,moist
 LEFT_ALT + a + g + n,nag
 - + n,ninety-five
-l + o + p + r + t,paintball
-LEFT_ALT + a + e + n + p,pattern
-c + i + p + t + y,physicist
-e + n + o + p + s + t,pointless
-LEFT_ALT + l + o + p + s,polish
-a + d + i + n + r,reading
-d + l + s + t,sitcom
+a + e + l + o + v,paintball
+' + h + v,physicist
+RH_MID_1_3D + RH_THUMB_1_3D + o,polish
+c + l + s + t,sitcom
 g + h + i + l + s,slight
 f + o + s + t,softball
-i + r + s + t + v,strip
+l + r + s + t + v,strip
 e + l + m + p + t,temple
-DUP + o + r + t + u,torture
-w + x,wax
+LH_INDEX_3D + o + t,torture
+LH_THUMB_2_3D + x,wax
 d + e + o + w,wooden
-DUP + e + i + n,inner
+DUP + a + e + i + n,inner
 e + i + k,elf
-a + d + i + w,claw
+RH_INDEX_3D + c + l,claw
 ' + a + l,layer
-k + r + s + t,refund
+f + n + r + t + u,refund
 c + l + y,cycle
-a + n + r + s + w,awareness
-b + g + r,baggage
-LEFT_ALT + c + l + o + s,closing
+LH_INDEX_3D + RH_INDEX_3D + w,awareness
+a + b + e + g,baggage
+LH_THUMB_1_3D + l + o,closing
 c + f + i + r,cricket
-c + d + o + t,decorate
-d + e + i + k,definition
+c + d + e + o,decorate
+d + e + k + l,definition
 d + e + l + o + v,development
-c + d + i + l + s,discipline
+RH_RING_1_3D + d + i,discipline
 DUP + c + e + i + n,ending
-e + n + t + y,entry
-e + l + o + s + x,explosion
+i + t + v + x,explosion
 f + o + r + z,frozen
-RH_INDEX_3D + RH_THUMB_1_3D,hack
 a + e + h + m + o,homemade
 e + h + n + t + u,hunter
-e + k + l + t,kite
-DUP + LEFT_ALT + a + e + i + m + n,meantime
-DUP + a + e + m + o,mortgage
+k + l + t,kite
+RH_MID_1_3D + a + e + m,meantime
+DUP + m + o + r + t,mortgage
 a + c + h + n + o,nacho
 DUP + m + n,oho
-LH_THUMB_1_3D + a + p,pact
-a + c + e + l + p,palace
+LH_THUMB_1_3D + RH_INDEX_3D + p,pact
+a + c + l + p,palace
 a + p + s + w,password
-e + g + l + p,pledge
-d + n + o + v,pond
-l + o + r + s,resolution
+c + l + p + t,pledge
+LH_MID_1_3D + n + p,pond
+l + o + r + s + t,resolution
 DUP + i + r,rig
-a + c + f + i + r + s,sacrifice
+a + c + i + r + s,sacrifice
 c + e + t + u,sector
 e + n + s + u,sunset
-s + t + u + v,superior
-g + n + o + r + s + u,surgeon
-LH_INDEX_3D + t,tease
-h + s + t + u,thus
-- + e + i + n + t + w + y,twenty-eight
-e + i + t + v,vegetarian
-d + e + i + t + v,videotape
-o + r + u + w,workout
+a + e + p + s + u,superior
+DUP + r + s + u,surgeon
+m + t + u,thus
+' + e + o + t + w,twenty-eight
+g + p + t,vegetarian
+c + e + i + p,videotape
+f + n + r + w,workout
 o + u + w,wound
 p + r + y,pyramid
 b + k + u,buffet
-a + i + n + q,antique
+a + e + i + n + q,antique
 a + e + g + l + p,appeal
-DUP + RIGHT_ALT + a + g + n + r,arrangement
+RH_INDEX_3D + n + r,arrangement
 b + e + l + s + u,blues
 c + l + o + s + u,closure
-LEFT_ALT + a + d + i + m + r,dramatic
-DUP + a + e + g + n + y,generally
+LH_THUMB_1_3D + a + d + r,dramatic
+DUP + o + t,generally
 g + i + n + u,guinea
-e + h + i + t + y,hysterical
+h + t + u + y,hysterical
 DUP + LEFT_ALT + i + l,ill
 LEFT_ALT + d + i + l,lid
 e + h + m + o + t,method
-g + o + r + s + t + u,outrageous
-g + l + p + t,peel
-RIGHT_ALT + a + h + r + s,rash
+LH_RING_1_3D + o + t,outrageous
+e + g + l + p,peel
+LEFT_ALT + a + h + r + s,rash
 - + o + s,so-called
-c + o + p + s + t,sophisticated
+m + o + p + s,sophisticated
 DUP + l + o + s + t,stool
 g + r + s + t + u,struggle
 b + l + s + t + u,subtle
 e + n + p + s + u,suspend
-DUP + LEFT_ALT + e + i + n + s + t,tension
-a + e + h + l + w + y,wealthy
+e + l + o + s + t,tension
+LH_THUMB_2_3D + a + e,wealthy
 c + h + s + u,cushion
 b + g + l + r + t,rebel
-a + h + k,mafia
+h + k + r,mafia
 LEFT_ALT + a + i + m,aim
-LEFT_ALT + a + o + u,auto
 b + e + o + w,bowel
 b + e + m + u,bummer
-RIGHT_ALT + a + c + e,cater
 LEFT_ALT + c + e + o,ceo
-c + h + u + y,chubby
-c + f + o + r + t,comfort
-LEFT_ALT + c + f + n + o + t,conflict
+LH_RING_1_3D + c + h,chubby
+RH_THUMB_1_3D + c + n + o,conflict
 c + n + o + p + t,convert
 ' + a + d + i + r,dairy
-d + i + s + v,division
+d + i + u + v,division
 d + n + o + r,donation
 LEFT_ALT + d + e + i + t,edit
-e + i + v + x,expire
-e + f + l + y,flyer
-a + f + k + r,freaky
+a + e + l + v + x,expire
+f + l + y,flyer
 DUP + c + n,goods
-h + m + r + s,hamster
-e + h + n + o + s + t,honesty
-DUP + a + g + i + n + r,ignorant
-a + i + n + p + r + s,inspiration
-a + m + r + s + u,masturbate
+a + e + h + m + u,hamster
+e + h + n + o + s,honesty
+RH_MID_1_3D + g + i,ignorant
+a + i + n + p + s,inspiration
+m + r + s + t + u,masturbate
 e + i + m + n,melon
-e + m + o + p + t,metaphor
-d + e + i + m + t,midget
+LH_INDEX_3D + LH_THUMB_1_3D + t,metaphor
+LH_MID_1_3D + d + m,midget
 a + l + m + o + r,moral
-e + l + m + o + t,motel
+e + h + l + o + t,motel
 LEFT_ALT + e + n + t,net
-  + e + h + n + o,one hundred fifty
-LEFT_ALT + a + c + i + p + r,participate
-a + q + u,quarterback
-LEFT_ALT + a + d + i + n + r,radiation
-RIGHT_ALT + a + r + w,raw
-DUP + a + l + r,relate
-d + i + n + r + s,resident
-- + e + n + o + s + t + v,seventy-two
-e + g + n + s + u,snuggle
-e + h + o + s + t + u,southern
-d + i + t + u,sticky
-- + h + r + t,three-way
+  + e + n + o,one hundred fifty
+LH_RING_1_3D + q,quarterback
+LH_MID_1_3D + a + d + r,radiation
+LEFT_ALT + a + r + w,raw
+c + i + r + s + t,resident
+o + s + t + v,seventy-two
+DUP + n + s + u,snuggle
+e + o + s + u,southern
+d + l + s + t,sticky
+RH_INDEX_3D + h + r,three-way
 LEFT_ALT + i + n + t,tin
-o + p + r + w,workplace
-DUP + o + z,zoom
-c + i + n + r + t,acting
-i + p + r + s + t + u,spiritual
+a + f + n + w,workplace
+RIGHT_ALT + z,zoom
+l + u + v,spiritual
 LEFT_ALT + l + o + s + t,slot
-DUP + a + c + e + i,activate
-a + b + c + i + r,briefcase
-DUP + c + i + n,cologne
-RIGHT_ALT + c + e + o + p + t,competitive
-a + d + e + s + v,depression
+a + c + e + l + p,activate
+b + i + k + r + t,briefcase
+DUP + c + l + o,cologne
+d + r + s + t + v,depression
 e + n + t + x,extend
-e + f + g + i + t,fighter
-e + g + n + t + y,gently
+f + g + l,fighter
+e + g + o + t,gently
 g + n + o,gone
-a + d + g + i + r + u,graduation
+a + d + g + r + s,graduation
 DUP + l + r,grief
-g + h + o + r + t,growth
-c + e + f + i + n + t,infect
-DUP + a + e + l,latte
-a + e + k + l,leak
-DUP + a + g + l + o,logical
-LEFT_ALT + l + r + u,lure
-DUP + a + m + n + o + r,macaroni
-e + i + l + m + u,millennium
-- + e + i + n + t + y,ninety-nine
-LEFT_ALT + e + l + o + v,olive
-a + d + n + o + r,ordinary
-LEFT_ALT + e + o + t + u,outer
+b + g + n + r,growth
+e + f + i + n,infect
+k + l + r + t,leak
+LH_MID_1_3D + g + l,logical
+LH_INDEX_3D + l + u,lure
+a + d + m + o + r,macaroni
+LH_MID_1_3D + l + m,millennium
+' + e + i + n + t,ninety-nine
+LH_INDEX_3D + d + o,ordinary
+LH_RING_1_3D + RH_INDEX_3D + o,outer
 o + x,oxygen
-a + c + e + p + u,peaceful
+LH_THUMB_1_3D + a + e + p,peaceful
 m + n + o + p,phony
-c + l + o + p + r + t,protocol
-a + c + i + l + r + s,realistic
-c + i + l + r + t,recital
-a + b + m + r,remarkable
-a + b + g + o + s,sabotage
+a + c + e + o + p,protocol
+r + s + w,sabotage
 d + l + r + s,sadly
 a + k + p + r + s,sparkle
-- + h + i + r + t + w + y,thirty-two
+h + l + r + t + y,thirty-two
 LEFT_ALT + o + t + w,tow
-l + u + v,vulnerable
-LEFT_ALT + a + e + s + w,waters
+l + o + t + u + v,vulnerable
 LEFT_ALT + f + l + o + w,wolf
-h + u + y,yum
+LEFT_ALT + m + u + y,yum
 a + k + l + o,loaf
-e + m + p + u,perfume
-RH_THUMB_2_3D + a,bare
-DUP + m + r + s + u,resume
-LEFT_ALT + a + c + r + s,scar
-DUP + a + e + n,agenda
-DUP + a + g + i + n + s,assign
-a + g + o + u,autograph
-DUP + a + i + w,await
-LEFT_ALT + a + b + i + l + r,billionaire
-b + k + o + s,bookstore
-b + e + u + y,buyer
-LH_THUMB_1_3D + RH_THUMB_1_3D,charade
-a + c + e + l + o + p + s,collapse
-LEFT_ALT + c + d + n + o + t,conditioning
-c + e + n + o + q + s,consequence
-d + k + n + r,crooked
+a + e + k + p + u,perfume
+LH_INDEX_3D + RH_INDEX_3D + RH_THUMB_2_3D,bare
+h + r + s + t + u,resume
+a + d + r + u,scar
+a + d + e + g + n,agenda
+DUP + a + i + s,assign
+a + e + g + o + u,autograph
+DUP + a + e + i + w,await
+LH_MID_1_3D + RH_MID_1_3D + b,billionaire
+b + k + o,bookstore
+b + u + y,buyer
+LH_INDEX_3D + a + c + h,charade
+a + c + l + o + p,collapse
+RH_MID_1_3D + c + d + o,conditioning
+LH_THUMB_1_3D + q,consequence
+c + f + n + r,crooked
 c + l + r + t + u,cultural
-a + d + g + i + n,dating
-LEFT_ALT + c + d + e,december
+LH_THUMB_1_3D + d + e,december
 d + i + l + t,deli
 a + e + i + m + x,examine
-b + g + o + r,grown
+a + b + g + o,grown
 h + m + o + r,hormone
-LEFT_ALT + h + s + u,hush
-c + e + i + n + s + u,insecure
-RH_MID_1_3D + i,intention
-LH_MID_1_3D + n,international
+RH_RING_1_3D + h + u,hush
+d + e + i + n + s,insecure
+LH_MID_1_3D + RH_MID_1_3D + t,intention
+LH_MID_1_3D + RH_INDEX_3D + RH_MID_1_3D,international
 a + k + o + r,karaoke
 a + e + l + m + p,maple
   + e + n + o + t,one thousand one hundred
 n + p + s + t,pose
-a + c + i + p + s,psychiatrist
-g + h + o + s + t + u,shotgun
-LEFT_ALT + d + e + s + t,steady
-g + r + s + t,strategy
-LEFT_ALT + e + m + p + t,tempt
-LEFT_ALT + e + t + v,vet
+c + p + u + y,psychiatrist
+g + h + o + s + t,shotgun
+RH_THUMB_1_3D + e + m + t,tempt
+e + t + v,vet
 i + k + y,yikes
-RH_THUMB_1_3D + o,hood
-d + r + w,dawn
-DUP + m + n + r + t,motor
-DUP + e + o + t,tent
-m + o + t + u,tumor
+d + n + r + w,dawn
+DUP + a + e + m + o,motor
+DUP + e + n + t,tent
+m + o + r + t + u,tumor
 a + b + e + m + u,bathtub
 a + d + n + r + w,broad
-b + l + r + t + u,brutal
+LH_RING_1_3D + b + r,brutal
 b + u + z,buzz
-LEFT_ALT + a + c + i + n + p,campaign
 c + d + n + o + u,conduct
-d + n + v,copier
-a + c + n + r + y,cranky
-DUP + LEFT_ALT + e + n + t,eternal
+d + i + n + v,copier
+a + d + n + r,cranky
 f + m + n + r,foam
 f + i + y,fyi
 DUP + e + g + l + o,google
-d + g + r,greedy
+DUP + c + r + t,greedy
 h + i + y,hiya
 e + i + k + s,kisser
 DUP + a + l + v,lava
-DUP + LEFT_ALT + e + l + o + s,loosen
+RH_RING_1_3D + l + o,loosen
 a + b + i + l + m,mailbox
-l + o + r + t + v,naive
-b + e + n + o + v,november
-RIGHT_ALT + a + c + i + l + p + r,particle
-c + e + p + s + t,perspective
+i + n + r + t + v,naive
+n + o + t + v,november
+a + c + e + p + s,perspective
 i + l + p + r + v,privilege
-l + o + r + s + v,resolve
+l + o + r + t + u,resolve
 a + c + f + r + s,scarf
-DUP + i + n + r + t,trainer
 a + b + n + u,unable
-a + c + e + n + u,unacceptable
+d + o + r + u,unacceptable
 f + n + o + r + u,unfortunate
 d + u + v,update
-DUP + a + l + o + v,volcano
-LEFT_ALT + d + e + w,weed
-h + o + r + t + w + y,worthy
+a + d + l + o + v,volcano
+LH_INDEX_3D + d + w,weed
+a + e + o + w,worthy
 a + i + u + v,vault
-a + e + m + n + p,permanent
 DUP + a + g,gag
-LEFT_ALT + a + c + d + e + i,addicted
-RIGHT_ALT + a + b,bah
-e + i + t + w,bitter
-LEFT_ALT + a + b + c + r + s,braces
-a + c + h + u,cashmere
-LEFT_ALT + c + h + i,chimp
-c + n + o + s + t + u,communist
-DUP + c + n + o + s + t + u,consultant
+a + c + d + e + l,addicted
+b + e + i + t,bitter
+LH_THUMB_1_3D + a + b + r,braces
+c + h + r + u,cashmere
+LH_MID_1_3D + RH_THUMB_1_3D + c,chimp
+d + m + n + s,communist
+d + n + o + s + u,consultant
 c + i + q + r + t,criticize
-c + e + i + t + u,cutie
-c + d + r + t,decaf
-d + e + m + n + o + s,demonstrate
-d + l + o + r + t,denial
-d + i + r + s + t,distraction
+c + i + t + u,cutie
+LH_INDEX_3D + c + d,decaf
+d + e + m + n,demonstrate
+RH_MID_1_3D + d + e,denial
+d + i + t + u,distraction
 d + k + n + u,dunk
-LEFT_ALT + d + e + i + n + t,edition
-a + b + e + m + n + s,embarrassment
+d + e + l + o + t,edition
+LH_THUMB_1_3D + b + e,embarrassment
 e + n + s + t + x,extension
 f + i + r + s,frisbee
-DUP + a + i,grind
+d + g + i + n + r,grind
 a + h + i + r + y,hairy
-a + d + m + o,handy
-h + l + m + u,humble
-g + j + u,juggle
+a + c + h + n + y,handy
+LH_THUMB_1_3D + h + u,humble
+. + g,juggle
 LEFT_ALT + i + k + t,kit
-DUP + a + l + o + y,loyalty
+' + l + o,loyalty
 l + r + y,lyric
-a + e + m + o + s,maestro
-DUP + a + i + m + r,margarita
+RH_RING_1_3D + a + e + m,maestro
+DUP + a + m + r,margarita
 e + l + m + o + s,molest
-a + d + o + u,occasionally
-e + h + o + v,overwhelm
-a + m + p + r + y,pharmacy
-p + r + s + v,preserve
-l + o + p + r + y,properly
-DUP + m + o + r + s + t,restroom
+a + c + l + o + s,occasionally
+a + b + e + o + v,overwhelm
+a + h + r + v,pharmacy
+p + r + s + t + v,preserve
+l + o + r + t + v,properly
 a + d + e + s + u,secure
 e + l + m + s + t,settlement
 d + n + s + u,sundae
-LEFT_ALT + h + i + t,thai
-LEFT_ALT + d + o + t,toad
-DUP + i + l + r + t,trailer
-f + n + o + r + s + t,transform
-DUP + LEFT_ALT + e + s + t + u,uterus
-DUP + a + i + l + v,violation
-e + l + w + y,weekly
+LH_INDEX_3D + t + u,uterus
+f + t + w,weekly
 DUP + l + o + w,blog
 f + i + l + y,flying
 a + d + i + v,advise
-DUP + LEFT_ALT + a + l + r,altar
-a + b + e + l + m + s,assembly
-b + r + t + v,beaver
+a + e + h + s + w,assembly
+a + b + e + v,beaver
 a + b + l + z,blazer
-LEFT_ALT + c + o + p + r + s,compromise
 c + n + o + p + s,conspiracy
-DUP + c + i + l + r + t,critical
-a + d + e + u + v,devastated
-a + d + i + m + n + s,disappointment
-a + d + i + n + r + w,drawing
-d + m + s + u,dumpster
-RIGHT_ALT + a + e + f,feather
+LH_MID_1_3D + c + r,critical
+d + r + t + u + v,devastated
+d + i + r + s,disappointment
+a + d + i + r + w,drawing
+LH_RING_1_3D + d + m,dumpster
 f + i + r + u,furious
-d + e + g + o + s,goddess
+d + e + g + o,goddess
 e + h + o + s + u,housekeeper
-a + i + m + u,immature
-a + c + j + p,jackpot
-a + i + j + r,janitor
-e + g + j + u,jungle
-a + k + n + o + r,korean
-DUP + a + g + l + s,lasagna
-b + e + i + l + t + y,liberty
-e + n + o + t + v,opponent
+a + e + i + m + u,immature
+f + j,jackpot
+a + j + o,janitor
+. + DUP,jungle
+LH_INDEX_3D + k + o,korean
+DUP + a + l + u,lasagna
+e + i + l + w,liberty
+n + o + p + t,opponent
 e + g + n + p,penguin
-g + o + p + t,photographer
+m + o + p + t,photographer
 k + p + s,puffy
-LH_THUMB_1_3D + a + r,racket
 g + l + r + t,region
-n + r + t + w,robe
+a + e + n + w,robe
 LEFT_ALT + e + s + w,sew
-m + r + t + u,shatter
-DUP + c + e + i + n + s,sickness
+RH_INDEX_3D + h + s,shatter
+c + f + i + s,sickness
 d + e + i + k + s,sidekick
 DUP + a + k + n + s,skank
-i + u + v,spice
-DUP + RIGHT_ALT + r + s + t,starter
+c + l + p + s,spice
 LEFT_ALT + i + r + s + t,stir
-c + r + s + t + u,structure
-RIGHT_ALT + b + s + u,sub
-m + p + t,tampon
+d + r + s + t + u,structure
+LEFT_ALT + b + s + u,sub
+m + n + p + r + t,tampon
 c + o + t + u,touchdown
-LEFT_ALT + i + m + p,pimp
-b + i + k + r + t,brief
+LH_THUMB_1_3D + i + p,pimp
+b + k + l + r + t,brief
 a + x,anxiety
 ' + a + b,bay
-c + e + h + i + s,chemistry
-a + d + e + l + s,desperately
+LH_INDEX_3D + LH_THUMB_1_3D + h,chemistry
+d + e + u + v,desperately
 a + d + e + i + w,diabetes
-a + d + l + m + r,diarrhea
-c + d + i + n + t,dictionary
-a + d + m + o + r,doorman
-e + l + o + t + x,exploit
-a + f + y,fatty
-i + k + u,fluid
-f + o + r + t + y,forty-two
+RH_INDEX_3D + d + i,diarrhea
+c + d + l + t,dictionary
+a + d + m + n + r,doorman
+e + l + o + v + x,exploit
+a + e + f + y,fatty
+f + i + l + s,fluid
+- + k,forty-two
 f + k + n + u,funky
 d + e + g + n,gender
 g + i + l + t,glitter
-a + g + h + r + u,harass
+a + g + h + r + s,harass
 LEFT_ALT + e + h + n,hen
-a + i + m + p,improv
-e + f + i + n + t,interfere
-i + n + r + y,irony
-RIGHT_ALT + a + d + i + m + r,married
-e + n + o + t + v + y,novelty
-e + p + w,phew
-i + p + r + u + v,previous
-RIGHT_ALT + a + h + r,rehab
-d + g + i + n + r + t,reindeer
-d + i + m + n + r,reminder
-DUP + n + r + s + t,resent
+h + i + r + v,improv
+LH_INDEX_3D + i + n + t,interfere
+a + i + m + r,married
+LH_MID_1_3D + n + v,novelty
+m + p + t,phew
+i + p + r + t + v,previous
+i + m + n + r + t,reminder
 d + g + o + r + t,rodeo
 DUP + a + e + s + v,severe
 e + i + l + p + s,slippery
 f + m + o + s,smoker
 k + o + p + s,spooky
-- + d + t,ta-da
-DUP + LEFT_ALT + e + o + t,terror
-- + g + h + i + r + t + y,thirty-eight
-LEFT_ALT + n + p + r + s + t,transplant
-DUP + LEFT_ALT + a + i + l + v,villain
-a + h + s + w,whatsoever
+- + r + t,ta-da
+' + h + l + r + t,thirty-eight
+RH_MID_1_3D + i + v,villain
+a + e + h + u + w,whatsoever
 n + s + t + u,stunt
-c + d + n,dock
+LH_MID_1_3D + c + d,dock
 . + a + k,a.k.a.
-DUP + LEFT_ALT + a + c + r + u,accurate
-RH_INDEX_3D + l,alter
+LH_RING_1_3D + a + c,accurate
 LEFT_ALT + a + h + s,ash
-a + e + h + n + u,authentic
 a + b + i + u,basis
 b + e + g + o,booger
 b + k + o + r,broken
-a + c + e + h + i + l,chemical
+LH_THUMB_1_3D + RH_THUMB_1_3D + e,chemical
 a + d + l + v,clap
 c + e + l + o + s,closely
-DUP + c + e + n + o + s,commissioner
-c + h + n + u,communication
+c + h + l + o + u,commissioner
+c + h + n + o + u,communication
 c + d + t + u,dutch
-DUP + n + t,engineer
-c + f + r + t,federal
-LEFT_ALT + c + e + f + t,fetch
-- + f + o + r + t + y,forty-eight
-f + l + r + t,fried
+DUP + e + i + n,engineer
+e + k + t,fetch
+f,forty-eight
+c + f + i + r + t,fried
 g + l + o + r + y,glory
-a + d + e + g + o,godfather
+RH_THUMB_1_3D + g + o,godfather
 a + h + l + m + r,harmless
-i + m + p + r + t,importantly
-e + g + l + o + u,lounge
-h + i + l + m + s,milkshake
-m + n + t + u,mutant
-e + g + n + o + t,negotiate
+i + m + n + p,importantly
+LH_RING_1_3D + l + o,lounge
+h + i + k + l,milkshake
+m + n + r + t + u,mutant
+e + g + n + o,negotiate
 b + e + n + o + t,notebook
-DUP + e + l + o + t + u,outlet
+e + l + o + t + u,outlet
 a + c + p + y,paycheck
 a + g + o + p,prop
-m + q,quantum
-LEFT_ALT + a + g + n + r,range
+a + q + u,quantum
+RH_INDEX_3D + RH_MID_1_3D + r,range
 LEFT_ALT + a + e + n + s,sane
 a + s + x,saxophone
-i + m + u,smiley
-a + l + o + r + s,solar
-a + c + e + p + s,spaceship
-e + m + t + u,stem
+h + i + l + s,smiley
+a + l + o + s,solar
+c + p + r + s,spaceship
+e + h + s + t,stem
 g + i + n + s + t,sting
-g + o + r + s + t,storage
-e + l + s + t + u,suite
-n + o + u,unlock
+LH_MID_1_3D + s + t,storage
+e + i + s + t + u,suite
 a + b + r + u,urban
-LEFT_ALT + a + w + y,wacky
-DUP + a + i + r + w,warrior
-c + n + o + r + s,congress
-a + d + n + r,adore
-a + g + i + r + s,aggressive
+a + i + r + w,warrior
+DUP + c + n + o,congress
+a + d + o + r,adore
+LH_INDEX_3D + LH_THUMB_2_3D + RH_INDEX_3D,aggressive
 a + b + c + l + o,balcony
-RIGHT_ALT + a + b + e + m,beam
+LEFT_ALT + a + b + e + m,beam
 a + c + i + p + u,cappuccino
-RH_INDEX_3D + c + h,charm
-d + k + n,cock
-c + e + n + o + s + u,consume
+RH_INDEX_3D + c + h + r,charm
+RH_MID_1_3D + c + o + s,consume
 a + c + f + n + r,crank
-a + e + o + p + u,european
-a + e + k + u,fatso
-c + f + i,fiction
-a + e + h + s + u,headquarters
-c + e + h + l + o,holder
-LEFT_ALT + c + e + i + n,income
+a + e + o + u + v,european
+a + e + f + o + s,fatso
+c + f + l,fiction
+c + e + h + i + n,holder
+LH_THUMB_1_3D + RH_MID_1_3D + i,income
 LEFT_ALT + i + k + n,ink
-i + m + n + r + s + t + u,instrument
+a + e + i + n + u,instrument
 j + x,jinx
-d + i + k + n + y,kindly
-i + l + q + u,liquid
-l + m + u,lump
-DUP + a + m + o,magnet
-LEFT_ALT + a + i + m + n + r,marketing
-a + g + n + o + r + y,originally
+RH_MID_1_3D + i + k,kindly
+i + l + q,liquid
+l + m + p + u,lump
+DUP + m + n + r,magnet
+DUP + a + l + o,originally
 k + p + t,pfft
 g + i + p + y,piggy
-LEFT_ALT + a + e + i + n + p,pineapple
-DUP + o + v,poo
-LEFT_ALT + c + o + p + r,porch
-c + l + p + r + t,predict
-c + i + l + p + r + s,priceless
-i + p + r + t + y,priority
-a + h + r + v,ramp
-d + i + r + t + v,receipt
-LEFT_ALT + r + s + t + u,rusty
-d + o + r + s,sandal
+RH_MID_1_3D + RH_THUMB_1_3D + i,pineapple
+LH_INDEX_3D + RH_THUMB_1_3D + o,porch
+d + i + r + t + v,predict
+d + l + r + t + v,priceless
+LH_INDEX_3D + i + p,priority
+LEFT_ALT + a + m + p + r,ramp
+a + d + e + i + v,receipt
+RH_RING_1_3D + r + u,rusty
+a + d + i + n + s,sandal
 e + i + s + z,seize
-a + e + n + s + v,servant
 d + e + i + s + w,sidewalk
 f + g + i + n + s,significant
 a + g + l + s + u,slaughter
 i + n + p + s + t,spine
 b + o + s + t + u,stubborn
 b + m + s + t + u,stumble
-DUP + a + u,urge
-g + n + r + u,urgent
+DUP + r + u,urge
+DUP + a + u,urgent
 LEFT_ALT + a + e + l + v,veal
-LEFT_ALT + i + n + w,wink
+RH_MID_1_3D + i + w,wink
 c + h + n + o + t,notch
-LEFT_ALT + c + s + u,scum
-DUP + e + s + w,sewer
+LH_RING_1_3D + c + s,scum
+DUP + a + e + s + w,sewer
 a + b + g + i + r,bargain
 d + i + n + r + v,driving
-DUP + a + m + r,remark
-LEFT_ALT + a + b + o + r,abort
+LH_MID_1_3D + a + b,abort
 a + d + e + l + v,active
 LEFT_ALT + a + d + i,aid
-a + i + p + u,aspirin
-a + b + e + k + y,bakery
+a + i + s + v,aspirin
+b + k + r + t,bakery
 b + g + i,biggie
-LH_MID_1_3D + b,bold
-LH_INDEX_3D + RH_THUMB_2_3D,brat
-c + e + t + y,cemetery
-DUP + a + c + e + l + s,cleanse
-a + c + e + l + o + u,colleague
-DUP + LEFT_ALT + c + l + o,colon
-c + f + n + o + s + u,confusion
-a + c + n + o + r + u,congratulate
-c + e + n + o + t + x,context
-c + p + r + s + t,creeps
+RH_THUMB_2_3D + l + o,bold
+d + e + m + t,cemetery
+LH_INDEX_3D + c + l,cleanse
+LH_INDEX_3D + c + l + o,colleague
+c + f + n + o + u,confusion
+d + g + n + o,congratulate
+RH_INDEX_3D + RH_MID_1_3D + c + o,context
+c + p + r + t + u,creeps
 d + g + l + u,dull
 LEFT_ALT + e + g + o,ego
 f + g + o,fog
 f + u + z,fuzzy
 d + i + n + u + v,individual
-e + i + n + p + s + t,insensitive
+RH_MID_1_3D + i + s,insensitive
 e + i + n + u + v,investigation
 i + n + s + t + v,investor
-i + p + r + t + u,irresponsible
+i + r + t + u + v,irresponsible
 i + k + n + t,knit
-DUP + e + m + t,meter
-a + e + m + n + o,nominate
-DUP + a + e + l + m + o,oatmeal
-DUP + e + l + m + o + t,omelet
-DUP + e + o + v,overcome
-a + e + l + p + u,plaque
+e + h + l + o,omelet
+d + o + r + t + v,overcome
+a + l + p + z,plaque
 a + p + s + u,pursue
-c + f + l + r,reflect
-LEFT_ALT + a + i + l + r,relation
-LEFT_ALT + p + r,rep
-c + h + r + u,shack
-c + l + o + s + t,sincere
-e + f + m + t,theft
-c + i + r + t + y,tricky
+c + f + l + r + t,reflect
+RH_THUMB_1_3D + a + s,shack
+d + i + n + s + t,sincere
+e + h + k + t,theft
+d + i + k + r + t,tricky
 m + t + u + y,tummy
-- + e + i + n + t + w + x + y,twenty-six
-d + n + o + s,undo
+b + e + n + t + y,twenty-six
+LEFT_ALT + d + n + o + u,undo
 c + e + n + s + u,unnecessary
-e + n + p + u,unpleasant
+e + i + n + p + u,unpleasant
 LEFT_ALT + a + e + s + v,vase
 a + i + s + w,waist
-LEFT_ALT + i + q,iq
+LH_MID_1_3D + q,iq
 a + n + s + w,swan
-m + p + r + t,premiere
-h + n + s + t,thunder
+i + m + p + r + t,premiere
+m + n + t + u,thunder
 b + i + z,bizarre
-c + f + i + l,cliff
-LEFT_ALT + b + c + o,comb
-a + c + i + u,curl
-a + d + e + i + l + s,disable
-c + d + i + r + s + t,district
-DUP + e + m,emerge
+RH_THUMB_1_3D + c + i + l,cliff
+d + l + r + u,curl
+a + d + i + s + w,disable
+d + l + t + u,district
+DUP + m + r + t,emerge
 h + t + v,emperor
 d + e + i + n + u,endless
-a + f + i + n + s,fantasize
+a + e + f + n + s,fantasize
 LEFT_ALT + f + k + l + o,folk
-f + n + o + r + t + u + y,fortunately
-DUP + a + v,gap
+f + o + r + s + t,fortunately
+g + p + r,gap
 e + g + l + o + s,goggles
-a + h + k + n + s,handshake
-i + l + u,illusion
+a + c + h + n + s,handshake
+i + l + s + u,illusion
 f + i + n + t,infection
-e + f + i + n + u,influence
-a + b + e + i + l,liberal
-l + m + t + u,mutual
+LH_MID_1_3D + f + n,influence
+i + l + t + w,liberal
+l + m + r + t + u,mutual
 DUP + n + u,nun
-. + p,p.m.
-a + c + e + i + n + p,patience
-c + i + p + u,pickup
-LEFT_ALT + o + p + r + t,portrait
-n + p + t + u,possess
-a + b + i + r + s,rabies
-c + d + n + r,redneck
-DUP + LEFT_ALT + a + l + r + v,relevant
-DUP + i + n + r + s + t,restrain
-a + c + f + i + n + s,satisfaction
-c + d + e + n + o + s,secondly
+. + v,p.m.
+LH_MID_1_3D + c + p,pickup
+LH_MID_1_3D + RH_THUMB_1_3D + r,portrait
+e + n + p + u,possess
+a + l + r + w,rabies
+c + d + n + r + t,redneck
+a + e + i + k + s,satisfaction
+d + e + o + s,secondly
 LEFT_ALT + i + p + s,sip
-n + o + u + v,sponsor
-i + k + n + p + r + s,sprinkles
-e + l + t + u,steel
+n + o + p + r + s,sponsor
+l + p + r + s,sprinkles
+DUP + e + l + s + t,steel
 b + i + s + t + u,subtitle
-c + f + l + r + t,tackle
-c + t + y,tacky
-e + i + t + y,territory
-o + r + s + t + u,tourist
-d + m + n + r + t,tremendous
+d + k + l + r + t,tackle
+c + f + r + t + y,tacky
+a + e + l + o + u,tourist
 LEFT_ALT + i + m + r + t,trim
 t + u + x,tux
-g + p + t,vegan
-LEFT_ALT + b + o + w,womb
-e + i + n + s + t + u,institute
+DUP + a + e + v,vegan
+i + n + s + t + u,institute
 p + r + w,paw
 a + b + e + n + s,absence
-LEFT_ALT + a + c + e + l + p,acceptable
-a + e + h + s + w,assemble
-DUP + a + c + e + i + n + s,assistance
+RH_INDEX_3D + c + e,acceptable
+b + m + r + s + t,assemble
+a + e + l + o + s,assistance
 b + i + s,bluff
 b + g + i + r + t,bribe
-DUP + LEFT_ALT + c + e + n + o,conceive
-LEFT_ALT + d + e + i + n,diner
+LH_INDEX_3D + c + n + o,conceive
+LH_MID_1_3D + d + n,diner
 d + g + n + o + r,donor
-l + t + v + x,expel
-a + i + k + n,finals
-DUP + a + i + r,garlic
-DUP + i + n + r,groin
-d + m + n + r,handful
+k + l + o + r,finals
+a + g + i + l + r,garlic
+LH_MID_1_3D + g + r,groin
+RH_MID_1_3D + a + h,handful
 h + i + k,hike
-i + m + n + p + r + t,importance
-i + m + n + t + y,intimacy
+h + i + n + v,importance
+e + h + i + n,intimacy
 e + i + n + p + t,inventor
-e + h + n + o + t,mentor
-DUP + m + u + y,mummy
-e + h + i + n,ninth
+e + m + n + o + t,mentor
+' + DUP + m + s,mummy
+h + l + o + t,ninth
 c + o + p + u + y,occupy
-a + h + v,pamphlet
-a + e + p + s + u,pause
-i + n + p + r + t + u,pretentious
+RH_INDEX_3D + m + p,pamphlet
+a + s + u + v,pause
 a + c + h + n + r,ranch
-DUP + r + s + t + v,reverse
-DUP + o + r + s + t,rooster
-a + b + c + l + r + s,scramble
+DUP + r + t + u + v,reverse
+LH_MID_1_3D + r + s,rooster
+a + d + m + r + s,scramble
 a + c + p + r + s,scrape
-DUP + a + e + i + n + s,sensation
+RH_MID_1_3D + e + s,sensation
 h + l + s + t + u,shuttle
-DUP + l + s + t,stall
+DUP + l + r + s + t,stall
 m + n + o + s + u,summon
-LEFT_ALT + d + t,tad
-LEFT_ALT + n + t,tan
 g + n + r + t,tango
-DUP + e + n + t + y,teeny
+e + n + t + y,teeny
 e + g + h + n + t,tenth
-' + h + i + r + t,thirty-six
-- + DUP + e + i + n + t + w + y,twenty-nine
-u + x,unexpected
-c + i + n + r + u,unicorn
+i + m + r + t + y,thirty-six
+' + b + e + n + t,twenty-nine
+LH_RING_1_3D + x,unexpected
+RH_MID_1_3D + i + u,unicorn
 k + n + o + u,unknown
 a + n + p + u,unpack
 e + f + s + u,useful
-a + i + r + v + y,variety
-i + s + u + v,vicious
-e + o + t + v,voter
+RH_INDEX_3D + r + v,variety
+d + i + n + s + v,vicious
+RH_INDEX_3D + o + v,voter
 a + i + n + r + w,warning
 i + n + r + t + w,writing
 m + n + p + t,photograph
-e + j + k,jerky
+. + k,jerky
 a + m + n + u,manure
 a + r + z,razor
-h + l + o + r,animate
-LEFT_ALT + a + m,atm
-a + m + o + p + s,atmosphere
-a + b + n + o + u,boundary
-LEFT_ALT + a + c + d + o + r,cardboard
-a + c + e + h + l,cherish
-DUP + a + c + i + l,civilization
+h + i + n + r,animate
+a + e + m + o + s,atmosphere
+n + s + w,boundary
+a + c + d + r,cardboard
+c + h + i + r + t,cherish
 c + h + n + o + r,commander
 c + n + o + q,conquer
 d + e + n + o + v,convenience
-LH_THUMB_1_3D + r,cram
 a + d + e + i + l,deadline
 c + d + e + o + t,detector
 d + g + r + s + t,dresser
-DUP + e + l,elegant
-e + l + m + p,empire
-e + o + t + x,extraordinary
-a + d + g + n + r + s,grandson
+g + l + t,elegant
+e + i + m + p,empire
+RH_INDEX_3D + RH_THUMB_2_3D + e,extraordinary
+DUP + a + c + n + r,grandson
 e + h + l + v,helpless
-c + h + i + r + s + t,historical
-h + l + o + t,hottie
-c + d + e + i + n + t,identical
-LH_MID_1_3D + RH_MID_1_3D,initiate
+e + h + i + s,historical
+RH_INDEX_3D + h + o,hottie
+c + e + i + n + t,identical
 i + n + t + u + v,investigate
 c + h + l + t,itch
 - + j,jell-o
 j + v,juvenile
-LEFT_ALT + a + i + l,latin
 a + e + g + l + u,luggage
 a + e + m + n + q,mannequin
-l + m + o + t,motivate
+l + m + o + p + t,motivate
 DUP + c + i + n + t,niece
-a + o + p + s,passport
-a + i + m + p + r,pharmacist
-c + e + i + p + t,pitcher
-a + e + i + l + p,planetarium
-LEFT_ALT + g + n + o + p + s,poisoning
-LEFT_ALT + a + c + e + l + o + p,policeman
-d + l + r + t + v,precisely
+a + o + p + u,passport
+RH_INDEX_3D + i + p,pitcher
+RH_INDEX_3D + l + p,planetarium
+LH_MID_1_3D + RH_THUMB_1_3D + l,policeman
 f + n + r + v,profile
-c + d + n + o + r + s,reconsider
-i + l + r + t + u,ritual
-a + e + o + w,robbery
+LH_MID_1_3D + RH_INDEX_3D + r,ritual
+b + o + r + t + y,robbery
 - + e + f + l + s,self-esteem
 DUP + e + m + n + s,semen
 - + i + s + x,six-pack
 e + g + i + l + s,sleigh
-e + n + o + p + s + t + u,spontaneous
-DUP + r + t + u,stat
-g + i + n + s + t + u,stunning
+n + o + p + s + t,spontaneous
+DUP + r + s + t,stat
+e + i + n + s + u,stunning
 p + r + s + t + u,supper
-LEFT_ALT + b + t,tab
-- + h + i + r + t + u + y,thirty-four
-- + h + i + r + t + v + y,thirty-seven
-DUP + LEFT_ALT + e + l + o + t,tolerate
-DUP + LEFT_ALT + n + r + s + t,translate
+' + i + m + r + t,thirty-four
+l + m + r + t + y,thirty-seven
+RH_MID_1_3D + o + t,tolerate
 e + t + u + x,tuxedo
-a + d + o + w,wand
-d + e + i + m + n + s,dimension
-LEFT_ALT + a + e + i + l + s,serial
-DUP + i + n + t,toll
-a + c + e + f + i,affection
+LEFT_ALT + a + d + n + w,wand
+d + e + i + m + n,dimension
+g + l + o + t,toll
+LH_THUMB_1_3D + a + e + f,affection
 - + a,african-american
-a + c + h + n + o + r,anchor
-a + h + n + r,anthropology
-LEFT_ALT + a + m + o,atom
-a + h + o + r + u,author
-b + c + e + l + o,blend
-b + i + k + l,blink
-LEFT_ALT + b + e + l + o,blonde
-a + b + k + r + s,brakes
+a + d + m + n + o,anchor
+a + e + h + o + u,author
+b + i + n + t,blend
+RH_THUMB_2_3D + i + l,blink
+LH_MID_1_3D + RH_THUMB_2_3D + l,blonde
+RH_INDEX_3D + b + k + r,brakes
 a + d + e + w,breed
-b + c + o + r + u,brochure
+LH_MID_1_3D + b + r,brochure
 a + c + l + y,clay
 c + l + o + t + u,coitus
-DUP + LEFT_ALT + c + n + o + r + t,correction
+LH_INDEX_3D + LH_MID_1_3D + c,correction
 c + l + r + u + y,curly
-c + d + o + s + t + u,custody
-d + e + i + s + v,diversity
+c + n + s + t + u,custody
+LH_THUMB_1_3D + d + i,diversity
 d + g + o + t,dodge
-a + d + l + o + r,drain
+a + d + i + n + r,drain
 d + e + y,dye
 d + n + y,dynamite
-a + e + i + q + u,equation
-RIGHT_ALT + a + d + e + n,errand
-c + e + l + u + x,exclusive
-a + h + i + l + m,halftime
-a + e + h + i + n,hearing
-LH_MID_1_3D + RH_THUMB_1_3D,hoop
+a + e + q + u,equation
+c + e + l + x,exclusive
+a + h + i + k,halftime
 h + k + n + u,hunk
 a + d + i + n + v,invade
 a + i + n + s + v,invasion
-a + e + j + o,jealousy
-g + i + j,jingle
-d + j + u,judgmental
-DUP + i + k + n,kingdom
-LEFT_ALT + l + o + p,lollipop
+RH_RING_1_3D + j,jealousy
+LH_THUMB_2_3D + j,jingle
+RH_THUMB_1_3D + j,judgmental
+DUP + k + l + o,kingdom
 i + l + y,lying
 a + i + m + n + p,manipulate
 a + m + x,max
-e + h + m,mechanic
-d + m + o + t,mode
+d + m + n + t,mode
 a + n + o + r + w,narrow
-LEFT_ALT + a + h + o,oath
 d + g + o + r,odor
-n + o + s + t + u,outstanding
+a + e + o + s + u,outstanding
 LEFT_ALT + l + o + w,owl
 e + g + o + p,pope
-a + s + u + v,pursuit
+i + p + r + s + u,pursuit
 l + r + t + y,rely
-LEFT_ALT + i + n + p + r + t + u,reputation
-DUP + LEFT_ALT + o + r + s + t,restore
-h + m + r + y,rhyme
+h + r + y,rhyme
 LEFT_ALT + m + r + u,rum
-c + n + p + s,scoop
+c + o + p + s,scoop
 c + o + r + s + t,scrotum
-e + l + o + p + s,spoiler
-e + p + s + t + u,superstar
+LH_MID_1_3D + p + s,spoiler
+r + s + t + u + v,superstar
 a + f + r + s + u,surface
 e + g + n + s + t,teens
 DUP + e + t + w,tweet
   + o + t + w,two thousand
-c + d + e + n + u,undercover
-DUP + e + n + t + v,veteran
-DUP + e + i + v,viewer
+d + e + o + u,undercover
+RH_INDEX_3D + e + v,veteran
+b + i + t + v,viewer
 h + i + n + w,whine
 d + i + n + s + w,windshield
-LEFT_ALT + a + b + i,bait
-c + e + i + p,epic
-f + n + r + w,working
+RH_INDEX_3D + b + i,bait
+LEFT_ALT + c + e + i + p,epic
+a + b + k + o,working
 e + h + o + s + v,shovel
 c + e + t + u + x,execute
-a + c + f + i + l + r,fireplace
+f + i + r + t + v,fireplace
 e + f + g + l,flee
-RIGHT_ALT + f + l + o,flood
-- + a + h + l,half-hour
-LEFT_ALT + e + g + h + i + t,heritage
-e + h + o + s + u + w,housewife
-c + i + n + r + s + t + u,instructor
+LH_MID_1_3D + RH_MID_1_3D + f,flood
+h,half-hour
+m + n + s + u,housewife
+RH_MID_1_3D + RH_RING_1_3D + i,instructor
 e + f + l + o + t,leftover
 e + i + l + u,lieutenant
 a + b + l + o + v,lovable
-a + e + m + n + o + y,mayonnaise
-i + m + n + p + r,microphone
+a + m + o + y,mayonnaise
+d + i + m + n + r,microphone
 d + i + n + t + u,nudity
-a + b + g + l + o,obligation
-b + e + n + o + s,obsession
-a + l + o + p + r,patrol
+RH_MID_1_3D + RH_THUMB_2_3D + o,obligation
+b + o + s + t,obsession
 ' + a + e + l + s,salty
-a + c + h + n + s,schnapps
-e + s + t + u + v,setup
-h + l + o + r + s + t,shortly
-LEFT_ALT + o + r + s + u,sour
-c + e + p + s + t + u,spectacular
-d + e + o + s + t,steroid
+c + h + n + r + s,schnapps
+e + p + s + t + u,setup
+h + n + r + s,shortly
+n + r + s + u,sour
+c + e + p + s + t,spectacular
 m + o + p + s + t,stomp
-a + i + r + s + u + v,survival
-a + e + h + i + s + w,sweatshirt
-LEFT_ALT + e + h + i + s + t,theirs
-DUP + LEFT_ALT + i + r + t,traitor
+l + r + s + u + v,survival
+LH_INDEX_3D + s + w,sweatshirt
+e + h + l + t,theirs
 i + p + t + u,uptight
-DUP + a + i + l + r + v,arrival
+a + i + l + r + v,arrival
 b + r + y,babysit
-a + b + c + s,backstage
+RH_THUMB_2_3D + a + c,backstage
 b + g + n,boogie
 b + o + s + u,busboy
 b + c + o + t + u,buttocks
 c + h + l + r + t,camel
-DUP + RIGHT_ALT + a + c + e + l,cattle
-c + h + l + r,chalk
-LH_INDEX_3D + c + h,cheater
-LEFT_ALT + c + e + l + o,clone
-d + n + w,cobra
-b + c + n + o + r + t + u,contribution
-d + e + o + v,devote
-d + g + l + o + t,doodle
-DUP + a + e + u,ease
-DUP + LEFT_ALT + c + e + i + n + t,erection
+RH_MID_1_3D + a + c + h,chalk
+LH_INDEX_3D + LH_THUMB_1_3D + RH_THUMB_1_3D,cheater
+RH_THUMB_2_3D + c + o,cobra
+LH_MID_1_3D + c + n + t,contribution
+d + e + o + t + v,devote
+d + e + g + l + o,doodle
+DUP + a + e + s,ease
 d + i + l + r + t,ideal
 DUP + a + e + l + s,lease
-a + d + e + g + l,legendary
+DUP + l + t,legendary
 a + b + r + s + u,absurd
-LEFT_ALT + a + d + i + n,additional
-a + d + e + i + s + v,advertise
-a + e + i + p + z,appetizer
-DUP + a + c + i + n + r,attraction
-LEFT_ALT + b + c + i + r,brick
-c + d + n + r + t,canned
-DUP + LEFT_ALT + a + c + e,caterer
+LH_MID_1_3D + a + d,additional
+RH_INDEX_3D + d + v,advertise
+LH_INDEX_3D + b + i,brick
+a + c + d + e + o,canned
 c + h + i + l + y,chilly
-c + l + r + s,classmate
-LEFT_ALT + c + d + e + n + o + u,conclude
-d + n + o + s + u,consult
-c + l + o + r + t + y,correctly
-c + o + y,cozy
-DUP + c + i + r + s + t + u,curiosity
+a + c + h + l + s,classmate
+RH_MID_1_3D + RH_RING_1_3D + c + o,consult
+LH_THUMB_1_3D + o + r,correctly
+c + o + q,cozy
+c + i + n + r + u,curiosity
 LEFT_ALT + d + m + o + r,dorm
 a + c + d + e + u,educate
-a + c + d + e + i + u,educational
-e + h + n + s + t + u,enthusiasm
-i + k + l + t,filth
-e + f + i + n + s + t,fitness
-f + g + n + o + r + s,forgiveness
+c + d + s + t,educational
+e + h + n + s + t,enthusiasm
+f + i + l + m + t,filth
+e + f + i + n + t,fitness
+a + f + g + o,forgiveness
 f + l + o + u,foul
 g + i + n + t,genitals
-a + d + g + n + o,goddamned
+d + g + n + r,goddamned
 e + g + t + u,gutter
 a + e + h + l + o,heroin
-h + l + o + r + y,horribly
-e + h + l + o + s + u,household
+h + l + o + r,horribly
+e + h + n + s + u,household
 LEFT_ALT + h + r,hr
 e + i + k + n,infinite
-RIGHT_ALT + c + e + i + n + t,inject
-k + l + r + t,leaf
+LEFT_ALT + a + e + f + l,leaf
 LEFT_ALT + a + e + l + p,leap
-LEFT_ALT + i + k + l,link
-LEFT_ALT + l + o + v,loving
+LH_MID_1_3D + RH_MID_1_3D + v,loving
 a + i + m + n + y,manly
-a + e + m + p + s,masterpiece
-b + n + o + s + u,obnoxious
+RH_RING_1_3D + a + m,masterpiece
+LH_MID_1_3D + x,obnoxious
 l + m + o + y,olympic
 a + e + n + o + p,opener
-DUP + LEFT_ALT + n + o + r + t,orientation
-DUP + g + n + o + r,origin
 h + o + r + v,orphan
-a + e + n + p + y,penalty
-c + d + i + n + r + s,residence
+RH_MID_1_3D + e + p,penalty
+d + l + r + s + t,residence
 a + h + l + o + s,shallow
-h + i + m + s,shipment
-l + o + r + s + t,siren
-e + m + o + u,soothe
+h + i + s + v,shipment
+LH_INDEX_3D + i + s,siren
+e + h + o + s + t,soothe
 a + k + n + p + s,spank
-c + i + r + s + t,strict
-g + n + o + r + s + t,strongly
-e + o + p + s + u + w,superpower
-DUP + LEFT_ALT + i + l + v,violin
-- + a + e + w,wake-up
+c + l + r + s + t,strict
+n + o + r + s + t,strongly
+RH_THUMB_1_3D + s + u,superpower
+- + a + e + f + w,wake-up
 DUP + a + m + s,mass
 c + e + n + s + t,scent
 g + i + p + r,grip
 c + d + o + r + t,recorder
-LEFT_ALT + a + c + e + n + p,acceptance
+RH_THUMB_1_3D + a + c + e,acceptance
 a + c + q,acquaintance
 a + c + q + u,acquire
-a + g + h + i + l + r,alrighty
-DUP + a + e + i + l + v,alternative
+DUP + a + i + l + r,alrighty
 a + n + x,anxious
-l + p + r + s,applaud
-a + b + e + l + o,baloney
-d + l + r + v,capacity
-c + h + i + l + s,childish
+a + i + p + u,applaud
+a + i + n + w,baloney
+LH_MID_1_3D + a + c + p,capacity
+LH_THUMB_1_3D + h + i,childish
 LEFT_ALT + a + c + l + o,cola
-LEFT_ALT + c + d + e + t,detect
-c + e + o + t + x,exotic
-DUP + e + g + i + l,giggle
+LH_THUMB_1_3D + d + e + t,detect
+e + o + x,exotic
+e + g + i + l,giggle
 g + h + n + o,gnome
 a + d + g + i + u,guidance
 h + i + t + u,historic
-c + f + l,kiddo
+RH_THUMB_1_3D + i + k,kiddo
 k + o + s,kosher
 b + i + l + m,limbo
-a + l + m + o + r + u,marvelous
 DUP + i + m + n + u,minimum
-DUP + i + m + s,missy
+' + i + m + s,missy
 a + e + n + s + u,nauseous
-a + b + e + o + s + v,observation
-b + o + s + t,obstacle
-a + e + f + l + o + v,overlook
+b + e + o + u,observation
+o + s + t + w,obstacle
+LH_THUMB_1_3D + e + o,overlook
 h + i + l + v,philosophy
-DUP + c + i + r + t + u,recruit
-a + e + s + u + x,sexuality
-a + e + h + n + s,shenanigan
-f + i + l + s,silk
+c + i + r + t + u,recruit
+e + s + u + x,sexuality
+e + h + n + s,shenanigan
+i + k + l + u,silk
 i + p + s + w,swipe
-e + l + o + p + s + t,topless
-DUP + m + r + t + u,trauma
+e + l + o + p + t,topless
 e + m + n + p + u,unemployed
-e + i + k + n + u,unlikely
-LEFT_ALT + d + e + i + t + v,verdict
-i + n + r + t + v + y,virginity
-DUP + i + n + t + v,vitamin
+DUP + a + i + v,virginity
+h + i + r + t + v,vitamin
 - + x,x-ray
 a + l + o + r,oral
 a + f + i + r + s,affairs
-LEFT_ALT + a + e + h + m + n,anthem
-RH_RING_1_3D + a,ashtray
-DUP + a + i + s,assist
+RH_RING_1_3D + a + h,ashtray
+DUP + a + e + i + s,assist
 a + b + e + k + n,banker
-a + d + k,cafe
-d + k + r,caffeine
-RIGHT_ALT + c + n + o,con
-a + d + e + n + o,container
+LEFT_ALT + a + c + e + f,cafe
+a + c + e + f + i,caffeine
+LEFT_ALT + c + n + o,con
+LH_MID_1_3D + RH_INDEX_3D + c + n,container
 d + n + o + t + v,convenient
-LEFT_ALT + c + d + o + r,cord
-c + h + o + r + t + u,courthouse
-DUP + c + i + r + s + t,criticism
+c + d + o + r,cord
+a + c + e + o + u,courthouse
+a + c + e + i + u,criticism
 b + c + r + u,curb
-LEFT_ALT + a + d + w,dawg
-d + e + g + i + l + t,delight
-d + e + i + u,distant
+LH_THUMB_2_3D + a + d,dawg
+d + g + i + l + t,delight
+d + e + l + u,distant
 d + i + z,dizzy
-d + g + i + n + r + s,dressing
-LEFT_ALT + c + e + o + t,erotic
-a + b + e + l + y,eyeball
+d + i + r + t + u,dressing
+a + b + e + y,eyeball
 a + c + f + i + l,facial
 f + l + r + v,flap
-f + n + r + s,freshen
+f + m + r + s + t,freshen
 g + x,galaxy
-a + d + g + i + n + r + u,guardian
-g + h + l,highlight
-a + m + n + r,hoard
+g + r + s,guardian
+e + g + h + i + l,highlight
+a + h + n + r,hoard
 g + h + y,hygiene
-DUP + i + n + s + t + u,institution
+LH_MID_1_3D + n + s,institution
 e + k + p,keeper
-DUP + c + e + l + t + u,lettuce
-d + l + m + r,maiden
-b + e + m + s,membership
+e + l + t + u,lettuce
+d + i + m + r + t,maiden
+b + m + r + t + u,membership
 LEFT_ALT + d + i + l + m,mild
-e + i + m + u,misery
-e + i + m + s + t,mistaken
+i + m + s + t,misery
+i + m + t + u,mistaken
 i + m + x,mixer
-a + l + o + r + v,parlor
-RIGHT_ALT + a + e + l + p,platter
-n + o + p + t + y,pointy
-' + l + o + p + r,poorly
+a + l + o + p + r,parlor
+RH_MID_1_3D + a + p,platter
+l + o + p + r + y,poorly
 a + l + o + p + u,population
-c + l + o + p + s,psychology
+' + d + s + v,psychology
 i + k + r + u,risky
 b + g + o + r + t,robber
-DUP + n + r + u,runner
+DUP + n + r + t + u,runner
 n + r + u + w,runway
-c + h + l + o + s,scholarship
-h + i + l + s,slim
-i + s + u + w,swimsuit
-e + m + o + p + t + y,temporary
+c + h + i + n + s,scholarship
+i + l + m + u,slim
+i + u + w,swimsuit
+e + m + o + p + t,temporary
 e + q + t,tequila
-h + k + n + t + u,thankful
+h + k + n + r + t,thankful
 i + l + p + r + t,triple
 l + o + r + u,urinate
 a + d + i + l + v,valid
-DUP + LEFT_ALT + i + n + w,winning
-DUP + LEFT_ALT + c + n + o + t,convict
-d + n + r + w,crown
-k + l + o + u,floss
+LH_MID_1_3D + n + w,winning
+b + c + n + o + r,crown
+f + l + o + s,floss
 e + t + u + w,stew
-a + d + i + m + n + r + s,administration
-a + c + i + n + u,auction
-RIGHT_ALT + a + b + i + l + r,billboard
-b + e + o + u,bouquet
+a + d + i + m + n,administration
+a + c + e + l + u,auction
+RH_MID_1_3D + RH_THUMB_2_3D + i,billboard
+b + o + u + z,bouquet
 b + o + r + u,bourbon
-a + b + i + n + r + w,brainwash
-a + b + k + o + r,breakdown
-DUP + LEFT_ALT + a + c + l + r,caramel
-a + c + e + i + u,casting
+a + l + o + r + w,brainwash
+a + d + e + l + s,casting
 DUP + a + c + e + u,cease
-d + e + m + s,cheesy
+d + e + m + u,cheesy
 c + h + l + o + r,choir
-DUP + c + o + y,cocky
-DUP + RIGHT_ALT + c + n + o + r + t,contraction
-DUP + LEFT_ALT + a + c + o + r,creator
-LEFT_ALT + d + i + r,drip
-a + e + o + p + s,espresso
+c + f + o + y,cocky
+LH_MID_1_3D + RH_MID_1_3D + c + t,contraction
+LH_MID_1_3D + d + r,drip
+a + e + o + s + v,espresso
 DUP + c + e + n + s,essence
 a + c + e + l + x,exclamation
-e + i + m + n + x,experimental
+i + r + t + v + x,experimental
 a + c + f + u,faculty
-a + e + f + i + n,finale
+LH_MID_1_3D + RH_THUMB_1_3D + n,finale
 f + l + r + w,flaw
-DUP + LEFT_ALT + a + g + l + o,gallon
-RIGHT_ALT + a + d + g + n + r,gardener
-LEFT_ALT + a + g + r + s,greasy
+DUP + a + i,gallon
+RH_THUMB_1_3D + a + g + r,gardener
 a + h + m + o,hammock
 LEFT_ALT + h + i + v,hiv
 e + h + n + u,hostess
-DUP + RIGHT_ALT + e + i + n + t + v,initiative
-i + l + t + v,liver
-LEFT_ALT + a + d + e + i + m,mermaid
+e + i + l + v,liver
 DUP + i + m + n,mingle
 DUP + e + m + o + s,moose
 m + o + q + s,mosquito
 a + l + m + r + u,mural
 - + n + o,no-one
-DUP + RIGHT_ALT + n + o,non
-c + h + o + r + s,orchestra
-a + g + n + o + p + r,orphanage
+DUP + LEFT_ALT + n + o,non
+a + d + e + m + o,orchestra
+a + h + o + v,orphanage
 e + i + l + m + p,pimple
-LEFT_ALT + l + o + p + r + t,portal
-LEFT_ALT + c + i + p + r,prick
-u + v + y,psychological
-b + i + l + r + u,rebuild
-c + f + n + r + t,reckon
-c + o + r + y,recovery
+LH_INDEX_3D + LH_MID_1_3D + RH_THUMB_1_3D,portal
+RH_THUMB_1_3D + i + r,prick
+d + u + v + y,psychological
+b + i + r + t + u,rebuild
+c + f + o + r + t,reckon
+a + c + e + n + p,recovery
 - + r,rip-off
-a + i + l + m + s + u,simulate
-DUP + a + i + l + m + s + u,simulation
-a + q + s + u,squad
-c + e + h + o + t,technical
-DUP + LEFT_ALT + c + e + l + o + t,tolerance
-b + i + r + t + u,tribute
-c + e + l + p,vice
-LEFT_ALT + e + i + l + v,vile
+i + l + m + s + u,simulate
+h + i + l + s + u,simulation
+q + s + u,squad
+c + e + h + n + t,technical
+RH_INDEX_3D + RH_MID_1_3D + o,tolerance
+i + r + t + u + w,tribute
+i + l + t + v,vile
 d + i + l + w,wilderness
-h + n + r + w,worm
-DUP + g + i + r + t,trigger
-a + d + k + l,calf
-LEFT_ALT + a + c + e + l + o + p + s,accomplishment
+a + h + o + w,worm
+DUP + i + r + t,trigger
+c + f + l + r,calf
+LH_MID_1_3D + a + c,accomplishment
 a + d + i + m + s,admission
 b + e + i + s,beside
-LEFT_ALT + a + b + c + e,cabbage
-DUP + a + c + e + n + o,cocaine
+RH_INDEX_3D + RH_THUMB_2_3D + c,cabbage
+RH_INDEX_3D + c + o,cocaine
 c + f + l + o + r,colorful
-DUP + c + n + o + r + s + t,controversial
-DUP + c + o + r + t + u,courtroom
-d + l + r + u,crispy
+LH_MID_1_3D + RH_INDEX_3D + RH_MID_1_3D + c,controversial
+a + c + e + o + s,courtroom
+c + i + p + r + s,crispy
 ' + a + d + e + l,delay
-d + e + m + o + s + t,domestic
-DUP + a + e + n + s,eastern
+d + e + m + o + u,domestic
 e + h + l + s + w,elsewhere
-- + e + u + x,ex-husband
+- + t + x,ex-husband
 a + e + g + x,exaggerate
-- + a + e + f,father-in-law
+RH_THUMB_1_3D,father-in-law
 c + e + f + s,feces
 f + m + o + r + u,formula
-f + r + w,freeway
-g + n + o + r + u,grownup
+DUP + o + r + w,grownup
 a + e + h + l + u,hallelujah
-h + l + o + s + t,hostile
-h + l + r + t + u,hurtful
+e + m + o + u,hostile
+h + k + r + t + u,hurtful
 d + i + n + s + u,industrial
-RH_INDEX_3D + i + n,intern
-a + c + i + n + r + y,ironically
-i + l + r + t + v,irrelevant
-RIGHT_ALT + a + e + i + l + s,isolate
+RH_INDEX_3D + e + i + n,intern
+a + e + i + l + v,irrelevant
 k + n + o + t,knot
-LEFT_ALT + a + d + l + o + r,landlord
-LEFT_ALT + a + d + e + i + l + s,leadership
-a + e + j + m,majesty
-DUP + LEFT_ALT + e + m,merge
-DUP + e + m + n + o + u,monologue
-  + e + i + n,nine thirty
-' + g + o + r,orgy
-d + e + o + u + v,overdue
-e + o + s + v,postpone
-LH_THUMB_2_3D + a + r,rag
-DUP + g + i + n + r + s + t,registration
+RH_THUMB_1_3D + a + e + l,leadership
+LH_THUMB_1_3D + j,majesty
+  + e + i + n + t,nine thirty
+g + o + r + y,orgy
+a + d + e + n + v,overdue
+n + p + t + u,postpone
+LEFT_ALT + a + g + r,rag
+a + e + g + i,registration
 h + r + t + y,rhythm
-c + d + r + s,screwdriver
+b + c + r + s + t,screwdriver
 b + c + s + u,scuba
-DUP + c + e + i + l + s + t,selection
+c + e + l + s + t,selection
 h + l + s + t,shell
-d + l + o + s + t,sincerely
-DUP + e + i + s + t,sitter
-DUP + l + r + s + t,startle
-l + p + r + s + t,stripe
-DUP + l + o + r + s + t,stroller
-RIGHT_ALT + d + s + t + u,stud
-b + c + i + r + s + u,subscription
+c + l + o + s + t,sincerely
+RH_INDEX_3D + i + s,sitter
+a + e + i + p + s,stripe
+LH_MID_1_3D + r + s + t,stroller
+LEFT_ALT + d + s + t + u,stud
+d + s + u + w,subscription
 i + n + r + s + u,sunrise
 e + o + p + t + u,toupee
-DUP + LEFT_ALT + c + n + o + s + u,unconscious
-d + e + n + s + t + u,underestimate
+LH_THUMB_1_3D + n + u,unconscious
+d + o + t + u,underestimate
 i + n + q + u,unique
-a + i + r + u + v,various
+a + i + n + r + v,various
 LEFT_ALT + e + i + n + v,vein
-p + t + w,weep
-e + h + i + s + w,whiskey
+e + p + w,weep
+b + i + m,whiskey
 i + t + w + y,witty
-h + l + o + r + t,memorial
-e + i + m + p + t,permit
+l + m + o + r + t,memorial
+a + e + i + m + p,permit
