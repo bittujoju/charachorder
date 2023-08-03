@@ -1,64 +1,63 @@
-# frozen_string_literal: true
-require 'csv'
+require "csv"
 
 class ChordGenerator
-  MIN_CHORD_LENGTH = 2
-  MIN_WORD_LENGTH = 2
-  ALT_KEYS = %w[LEFT_ALT RIGHT_ALT].freeze
+  MIN_CHORD_LENGTH = 2.freeze
+  MIN_WORD_LENGTH = 2.freeze
+  ALT_KEYS = %w(LEFT_ALT RIGHT_ALT).freeze
   # Setting this to true will cause shorter words to have shorter chords
   # and longer words to have longer chords
-  LENGTH_PROPORTIONAL = false
+  LENGTH_PROPORTIONAL = false.freeze
   KEY_MIRROR_MAP_L = {
-    ',' => ';',
-    'u' => 's',
-    "'" => 'y',
-    '.' => 'j',
-    'o' => 'n',
-    'i' => 'l',
-    'e' => 't',
-    'r' => 'a',
-    'v' => 'p',
-    'm' => 'h',
-    'c' => 'd',
-    'k' => 'f',
-    'z' => 'q',
-    'w' => 'b',
-    'g' => 'DUP',
-    'x' => nil
+    "," => ";",
+    "u" => "s",
+    "'" => "y",
+    "." => "j",
+    "o" => "n",
+    "i" => "l",
+    "e" => "t",
+    "r" => "a",
+    "v" => "p",
+    "m" => "h",
+    "c" => "d",
+    "k" => "f",
+    "z" => "q",
+    "w" => "b",
+    "g" => "DUP",
+    "x" => nil
   }.freeze
   KEY_MIRROR_MAP_R = KEY_MIRROR_MAP_L.invert.freeze
   KEY_FINGER_MAP = {
-    'LH_PINKY' => %w[LEFT_ALT],
-    'LH_RING_1' => %w[, u '],
-    'LH_MID_1' => %w[. o i],
-    'LH_INDEX' => %w[e r],
-    'LH_THUMB_1' => %w[m v k c],
-    'LH_THUMB_2' => %w[g z w],
-    'RH_THUMB_2' => %w[x b q],
-    'RH_THUMB_1' => %w[p f d h],
-    'RH_INDEX' => %w[a t],
-    'RH_MID_1' => %w[l n j],
-    'RH_RING_1' => %w[y s ;],
-    'RH_PINKY' => %w[RIGHT_ALT]
+     "LH_PINKY" => %w(LEFT_ALT),
+     "LH_RING_1" => %w(, u '),
+     "LH_MID_1" => %w(. o i),
+     "LH_INDEX" => %w(e r),
+     "LH_THUMB_1" => %w(m v k c),
+     "LH_THUMB_2" => %w(g z w),
+     "RH_THUMB_2" => %w(x b q),
+     "RH_THUMB_1" => %w(p f d h),
+     "RH_INDEX" => %w(a t),
+     "RH_MID_1" => %w(l n j),
+     "RH_RING_1" => %w(y s ;),
+     "RH_PINKY" => %w(RIGHT_ALT)
   }.freeze
   CONFLICTING_FINGER_GROUPS = {
-    'LH_PINKY' => %w[LEFT_ALT LH_PINKY_3D],
-    'LH_RING_1' => %w[, u ' LH_RING_1_3D],
-    'LH_MID_1' => %w[. o i LH_MID_1_3D],
-    'LH_INDEX' => %w[e r LH_INDEX_3D],
-    'LH_THUMB' => %w[m v k c LH_THUMB_1_3D g z w LH_THUMB_1_3D],
-    'RH_THUMB' => %w[x b q DUP RH_THUMB_1_3D p f d h RH_THUMB_2_3D],
-    'RH_INDEX' => %w[a t RH_INDEX_3D],
-    'RH_MID_1' => %w[l n j RH_MID_1_3D],
-    'RH_RING_1' => %w[y s ; RH_RING_1_3D],
-    'RH_PINKY' => %w[RIGHT_ALT RH_PINKY_3D]
+    "LH_PINKY" => %w(LEFT_ALT LH_PINKY_3D),
+    "LH_RING_1" => %w(, u ' LH_RING_1_3D),
+    "LH_MID_1" => %w(. o i LH_MID_1_3D),
+    "LH_INDEX" => %w(e r LH_INDEX_3D),
+    "LH_THUMB" => %w(m v k c LH_THUMB_1_3D g z w LH_THUMB_1_3D),
+    "RH_THUMB" => %w(x b q DUP RH_THUMB_1_3D p f d h RH_THUMB_2_3D),
+    "RH_INDEX" => %w(a t RH_INDEX_3D),
+    "RH_MID_1" => %w(l n j RH_MID_1_3D),
+    "RH_RING_1" => %w(y s ; RH_RING_1_3D),
+    "RH_PINKY" => %w(RIGHT_ALT RH_PINKY_3D)
   }.freeze
-  SKIP_OPTIONS = [true, false].freeze
 
   # Rearrange the order of the following array to your preference
   # ie, if you want to use 3d keys before using alt move use_3d_keys before use_alt_keys
   CHORD_GENERATOR_LOGIC = %i[
-    only_chars
+    skip_keys
+    all_keys
     use_mirror_keys
     use_alt_keys
     use_3d_keys
@@ -72,7 +71,7 @@ class ChordGenerator
 
   def generate
     words_list.each do |word|
-      raise 'Word is blank' if word.nil?
+      raise "Word is blank" if word.nil?
       next if word.length < MIN_WORD_LENGTH
 
       chord = calculate_chord(get_chars(word))
@@ -87,9 +86,9 @@ class ChordGenerator
   end
 
   def create_csv!
-    CSV.open(@chords_file, 'w') do |csv|
+    CSV.open(@chords_file, "w") do |csv|
       @used_chords.each do |word, chord|
-        csv << [chord.join(' + '), word]
+        csv << [chord.join(" + "), word]
       end
     end
   end
@@ -101,19 +100,18 @@ class ChordGenerator
   end
 
   def calculate_chord(chars)
-    SKIP_OPTIONS.each do |skip|
-      CHORD_GENERATOR_LOGIC.each do |logic|
-        chord = send(logic, chars, skip)
+    CHORD_GENERATOR_LOGIC.each do |logic|
+      chord = send(logic, chars)
 
-        return chord if chord
-      end
+      return chord if chord
     end
+
     nil
   end
 
   def get_chars(word)
     chars = word.chars
-    return chars.uniq.push('DUP') if has_duplicates?(chars)
+    return chars.uniq.push("DUP") if has_duplicates?(chars)
 
     chars.uniq
   end
@@ -122,16 +120,13 @@ class ChordGenerator
     @used_chords[word] = chord.sort
   end
 
-  def only_chars(chars, skip)
+  def skip_keys(chars)
     chord = []
     chars.each_with_index do |char, index|
       chord << char
+      next chord.pop if finger_conflict?(chord)
       next if (index + 1) < MIN_CHORD_LENGTH
-
-      if finger_conflict?(chord) || used_chord?(chord)
-        chord.pop if skip
-        next
-      end
+      next chord.pop if used_chord?(chord)
 
       return chord
     end
@@ -139,7 +134,21 @@ class ChordGenerator
     nil
   end
 
-  def use_mirror_keys(chars, skip)
+  def all_keys(chars)
+    chord = []
+    chars.each_with_index do |char, index|
+      chord << char
+      next chord.pop if finger_conflict?(chord)
+      next if (index + 1) < MIN_CHORD_LENGTH
+      next if used_chord?(chord)
+
+      return chord
+    end
+
+    nil
+  end
+
+  def use_mirror_keys(chars)
     chord = []
     chars.each_with_index do |char, index|
       chord << char
@@ -151,13 +160,12 @@ class ChordGenerator
 
         return mirror_chord
       end
-      chord.pop if skip
     end
 
     nil
   end
 
-  def use_3d_keys(chars, skip)
+  def use_3d_keys(chars)
     chord = []
     chars.each_with_index do |char, index|
       chord << char
@@ -169,18 +177,23 @@ class ChordGenerator
 
         return three_d_chord
       end
-      chord.pop if skip
     end
 
     nil
   end
 
-  def use_alt_keys(chars, skip)
+  def use_alt_keys(chars)
     ALT_KEYS.each do |alt_key|
       chars_with_alt = chars + [alt_key]
-      chord = only_chars(chars_with_alt, skip)
+      chord = []
+      chars_with_alt.each_with_index do |char, index|
+        chord << char
+        next chord.pop if finger_conflict?(chord)
+        next if (index + 1) < MIN_CHORD_LENGTH
+        next if used_chord?(chord)
 
-      return chord if chord
+        return chord
+      end
     end
 
     nil
@@ -254,4 +267,5 @@ class ChordGenerator
 end
 
 # Replace words.txt with the path to your words file
-ChordGenerator.new('words.txt', 'chords.csv').generate
+ChordGenerator.new("words.txt", "chords.csv").generate
+
