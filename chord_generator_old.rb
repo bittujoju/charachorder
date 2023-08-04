@@ -33,7 +33,7 @@ class ChordGenerator
      "LH_INDEX" => %w(e r),
      "LH_THUMB_1" => %w(m v k c),
      "LH_THUMB_2" => %w(g z w),
-     "RH_THUMB_2" => %w(x b q),
+     "RH_THUMB_2" => %w(x b q DUP),
      "RH_THUMB_1" => %w(p f d h),
      "RH_INDEX" => %w(a t),
      "RH_MID_1" => %w(l n j),

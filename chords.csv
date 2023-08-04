@@ -361,10 +361,10 @@ LH_MID_1_3D + a,also
 LH_INDEX_3D + RH_MID_1_3D,news
 LH_THUMB_1_3D + h,christmas
 e + n + t,ten
-a,ass
+RH_THUMB_2_3D + a,ass
 LH_RING_1_3D + b,business
 LH_MID_1_3D + c,couple
-t,totally
+RH_THUMB_2_3D + t,totally
 LH_INDEX_3D + d,door
 g + y,gay
 t + x,exactly
@@ -433,7 +433,7 @@ e + j,enjoy
 LH_THUMB_1_3D + RH_THUMB_1_3D,fact
 LH_THUMB_1_3D + d,dance
 RH_RING_1_3D + n,soon
-RH_THUMB_2_3D + a,bar
+RH_INDEX_3D + RH_THUMB_2_3D,bar
 LH_THUMB_2_3D + RH_MID_1_3D,wonder
 j + k,joke
 RH_MID_1_3D + r,relationship
@@ -445,7 +445,7 @@ LH_INDEX_3D + c,card
 RH_RING_1_3D + g,song
 RH_RING_1_3D + b,bye
 LH_INDEX_3D + LH_THUMB_1_3D,coffee
-RH_INDEX_3D,awesome
+DUP + RH_INDEX_3D,awesome
 c + i + s,sick
 a + p + r,apartment
 LH_RING_1_3D + f,figure
@@ -455,9 +455,9 @@ RH_THUMB_1_3D + m,dream
 a + e + w,water
 c + d + e,decide
 o + s + t,store
-RH_THUMB_2_3D + t,bet
+b + e + t,bet
 LH_RING_1_3D + l,lunch
-RH_INDEX_3D + RH_THUMB_2_3D,anybody
+a + n + y,anybody
 RH_INDEX_3D + i,afraid
 RH_THUMB_2_3D + u,buddy
 LH_THUMB_1_3D + u,cute
@@ -468,7 +468,7 @@ LH_RING_1_3D + RH_THUMB_1_3D,full
 d + y,company
 RH_MID_1_3D + f,front
 a + e + m,ahead
-m,moment
+RH_THUMB_2_3D + m,moment
 a + c + s,case
 LH_RING_1_3D + RH_INDEX_3D,though
 RH_THUMB_2_3D + y,body
@@ -484,9 +484,9 @@ LH_INDEX_3D + g,grow
 LH_RING_1_3D + RH_THUMB_2_3D,build
 b + r + t,table
 RH_INDEX_3D + k,ticket
-LH_THUMB_1_3D,matter
+DUP + LH_THUMB_1_3D,matter
 a + c + e,cat
-s,sister
+RH_THUMB_2_3D + s,sister
 LH_MID_1_3D + g,girlfriend
 m + r + t,hat
 o + t + u,touch
@@ -495,11 +495,11 @@ a + d + m,damn
 - + m,mm-hmm
 LH_RING_1_3D + LH_THUMB_1_3D,club
 a + z,amaze
-RH_RING_1_3D,smell
+DUP + RH_RING_1_3D,smell
 f + g + i + t,gift
 LH_RING_1_3D + RH_RING_1_3D,serious
 RH_THUMB_1_3D + l,plan
-r + s + t,street
+RH_RING_1_3D + RH_THUMB_2_3D,street
 LH_INDEX_3D + o,order
 ' + d,cry
 e + z,zero
@@ -530,7 +530,7 @@ RIGHT_ALT + k,kick
 LH_THUMB_2_3D + b,bag
 LH_INDEX_3D + x,excite
 LH_RING_1_3D + w,wonderful
-a + e + u,seriously
+r + s + t,seriously
 LH_THUMB_1_3D + y,country
 m + o + u,mouth
 d + r + t,dear
@@ -556,14 +556,14 @@ h + r + t + u,truth
 LH_INDEX_3D + LH_MID_1_3D,ice
 f + l + o,follow
 LH_RING_1_3D + o,outside
-i,idiot
+DUP + LH_MID_1_3D,idiot
 LH_INDEX_3D + u,rule
 LH_RING_1_3D + a,absolutely
 a + g + i,against
 LH_INDEX_3D + a + m,american
 a + c + r + s,scare
 n + o + t,notice
-c,chicken
+LH_THUMB_1_3D + RH_THUMB_2_3D,chicken
 d + i + r,ride
 m + s + u,music
 i + j,join
@@ -581,7 +581,7 @@ c + e + s,secret
 o + p + t,top
 a + f + i,fair
 r + x,relax
-RH_RING_1_3D + RH_THUMB_2_3D,boyfriend
+RH_MID_1_3D + RH_THUMB_2_3D,boyfriend
 i + m + s,mistake
 RH_MID_1_3D + k,luck
 LH_RING_1_3D + g,group
@@ -595,7 +595,7 @@ f + k,freak
 a + f + u,fault
 c + q,quick
 i + l + t,till
-e,except
+DUP + LH_INDEX_3D,except
 g + i + n + s,single
 h + i + s,shirt
 c + h + o,choice
@@ -607,13 +607,14 @@ RH_THUMB_1_3D + y,fifty
 e + g + l,leg
 a + f + w,wake
 h + m + u,human
+a + e + u,star
 s + t + u,student
 a + i + r,air
 a + c + h + i,chair
 LH_THUMB_2_3D + u,gun
 RH_THUMB_2_3D + g,begin
 RH_INDEX_3D + d + e,death
-RH_THUMB_2_3D + s,boss
+b + o + s,boss
 a + e + p,present
 i + n + s + t,instead
 i + y,lucky
@@ -622,7 +623,7 @@ c + d + l + o,cold
 a + g + h,ahh
 e + v + x,explain
 LEFT_ALT + v,video
-RH_MID_1_3D + RH_THUMB_2_3D,brain
+a + b + r,brain
 c + h + n,completely
 RIGHT_ALT + v,voice
 a + c + f,cake
@@ -630,7 +631,7 @@ i + r + t,trip
 m + n + o,monkey
 h + n + u,hundred
 k + x,fix
-LH_INDEX_3D,entire
+e + i + n + t,entire
 t + v + x,expect
 i + l + m,million
 a + l + o + w,allow
@@ -638,8 +639,8 @@ RH_THUMB_1_3D + v,forever
 LH_RING_1_3D + LH_THUMB_2_3D,ugh
 c + h + i,hide
 g + h + u,huge
-LH_MID_1_3D,interesting
-r,roll
+i + n + t,interesting
+l + o + r,roll
 c + l + o + t,clothes
 f + r + s,fast
 LH_THUMB_2_3D + RH_THUMB_2_3D,grab
@@ -654,9 +655,9 @@ o + p + r + u,proud
 LH_RING_1_3D + e,uncle
 p + s + u,push
 b + t + u,butt
-o,offer
-l + o + r,lord
-u,unless
+e + f + o,offer
+d + l + o + r,lord
+DUP + LH_RING_1_3D,unless
 e + f + l,feeling
 i + s + u,suit
 - + u,uh-huh
@@ -676,11 +677,11 @@ a + i + l,alive
 r + t + v,pretend
 h + o + u,hospital
 a + d + s,sad
-LH_THUMB_1_3D + RH_THUMB_2_3D,bunch
+b + n + u,bunch
 a + h + l,half
 l + o + p,police
 f + i + s,fish
-w,window
+RH_THUMB_2_3D + w,window
 b + s + u,busy
 i + p + t,pie
 a + i + r + s,raise
@@ -695,14 +696,14 @@ a + b + o,boat
 l + r + t,tired
 LEFT_ALT + h + o,ho
 e + p + s + u,upset
-l,less
-n,nine
+DUP + RH_MID_1_3D,less
+e + i + n,nine
 h + o + t + u,thousand
 m + n + s,smoke
 b + e + m,embarrass
 a + b + n,band
 RH_INDEX_3D + b + e,bear
-RH_MID_1_3D,none
+e + n + o,none
 a + o + s,santa
 o + r + s + t,strong
 a + l + w,law
@@ -716,7 +717,7 @@ h + o + r,horrible
 h + i + s + t,shit
 a + f + o + v,favor
 a + h + n,handle
-LH_THUMB_2_3D,wall
+DUP + LH_THUMB_2_3D,wall
 c + o + p,cover
 a + h + r,arm
 a + e + v,perhaps
@@ -732,7 +733,7 @@ o + p + s,possible
 c + i + r,rich
 h + o + r + s,short
 i + k + n,king
-k,knock
+RH_THUMB_2_3D + k,knock
 c + f + n,cookie
 e + n + p,penis
 h + i + u,history
@@ -759,7 +760,7 @@ n + o + s,nose
 b + o + t,bother
 a + f + n,fan
 e + l + t,letter
-i + n + t,interested
+e + l + o,interested
 e + o + w,owe
 g + p + r + t,pregnant
 d + e + s + t,destroy
@@ -832,8 +833,7 @@ d + e + k + s,desk
 m + n + o + s,monster
 c + n + p,cop
 c + d + r + t,credit
-a + n + y,anywhere
-RH_THUMB_2_3D + k,breakfast
+a + n + w + y,anywhere
 a + b + s,bastard
 c + h + u,church
 h + i + r,hire
@@ -848,7 +848,7 @@ a + e + s + v,service
 j + w,jew
 LH_INDEX_3D + k,kitchen
 d + l + r,rid
-g,grandpa
+a + g + n + r,grandpa
 a + e + h + o,hero
 h + o + s + t,shot
 o + p + s + t,spot
@@ -860,7 +860,7 @@ c + i + r + t,trick
 a + h + o + s,asshole
 LH_RING_1_3D + i,issue
 RH_MID_1_3D + v,lovely
-v,visit
+RH_THUMB_2_3D + v,visit
 h + n + o + r,honor
 c + h + l,chick
 c + o + s,costume
@@ -880,7 +880,7 @@ m + q,magazine
 e + l + s + t,settle
 a + c + i,accident
 c + e + x,excellent
-e + i + n,neighbor
+e + g + i + n,neighbor
 a + b + o + r,board
 g + o + p,pop
 i + p + s,spirit
@@ -890,7 +890,7 @@ a + g + i + n,giant
 g + l + u,ugly
 o + t + y,toy
 a + c + e + n,cancel
-e + i + n + t,internet
+e + l + o + t,internet
 LH_INDEX_3D + s + t,strange
 a + n + u,aunt
 a + i + l + s,island
@@ -908,10 +908,10 @@ DUP + c + e + l,cell
 r + s + t + v,serve
 a + h + k + s,shake
 c + e + n,neck
-RH_THUMB_2_3D + w,bowl
+b + o + w,bowl
 c + n + o + t,control
 l + o + u,loud
-RH_THUMB_2_3D + m,bedroom
+b + c + t,bedroom
 a + e + h + v,heaven
 c + e + h + o,commercial
 a + d + r,draw
@@ -969,8 +969,8 @@ a + u + w,waste
 a + c + o,coat
 d + l + o,doll
 c + e + s + u,security
-a + b + r,warm
-e + f + o,football
+a + h + r + w,warm
+f + n + t,football
 d + e + m + o,model
 e + h + o + s + w,whose
 b + e + s,besides
@@ -1026,7 +1026,7 @@ DUP + e + m + s,mess
 l + p + r,planet
 c + r + u,scary
 LH_RING_1_3D + v,universe
-LH_RING_1_3D,upstairs
+p + s + t + u,upstairs
 e + g + n,genius
 a + d + n,dangerous
 n + t + u,nuts
@@ -1164,7 +1164,7 @@ d + r + v,vacation
 i + m + p,impossible
 q + s,square
 e + f + l + t,left
-a + g + n + r,grandma
+a + d + g + n + r,grandma
 g + o + r + s,gross
 a + i + v,pal
 i + l + m + s,smile
@@ -1192,7 +1192,7 @@ d + e + m + o + s,someday
 LH_MID_1_3D + b + l,blind
 l + o + s + v,solve
 a + e + s + w,sweater
-b + e + t,wet
+LEFT_ALT + e + t + w,wet
 a + c + e + f,attack
 b + e + g,beg
 DUP + c + i,cigarette
@@ -1266,7 +1266,7 @@ c + n + u,uncomfortable
 a + p + r + w,wrap
 c + h + t,cheap
 e + m + p,employee
-e + l + o,interview
+RH_INDEX_3D + i + n,interview
 k + p + r + t,perform
 p + r + s,spring
 RH_INDEX_3D + x,text
@@ -1301,7 +1301,7 @@ l + r + w,blanket
 d + l + m + o,comic
 a + d + e + l,leader
 a + c + l + o,local
-e + g + i + n,neighborhood
+e + g + h + i + n,neighborhood
 e + u + w,west
 b + r + u + y,bury
 h + o + r + w,whore
@@ -1408,7 +1408,7 @@ a + e + m + p,pathetic
 n + r + w,row
 g + h + i + s,sight
 a + i + l + v,available
-RH_THUMB_2_3D + v,brave
+a + b + r + v,brave
 d + i + l,climb
 RH_RING_1_3D + a + e,east
 i + m + p + r,impress
@@ -1426,7 +1426,7 @@ l + o + v,opinion
 i + p + s + t,spit
 n + r + v,van
 h + t + w,behavior
-e + l + o + t,interest
+RH_MID_1_3D + i + t,interest
 e + i + s + t,itself
 l + m + r,mirror
 c + n + r + t,recently
@@ -1440,10 +1440,10 @@ l + r + s + t + u,result
 i + k + r + s + t,strike
 a + c + n + o,corn
 d + o + r + t,correct
-a + d + g + n + r,grandmother
+DUP + a + r,grandmother
 g + h + i + n,nightmare
 o + r + s + u,ours
-y,yellow
+e + l + y,yellow
 i + r + s,rise
 c + h + i + r,christian
 d + g + o + u,doughnut
@@ -1467,7 +1467,7 @@ o + s + t + u,south
 c + p + r + t + y,creepy
 c + d + o + u,douchebag
 e + n + t + u + v,eventually
-RH_INDEX_3D + i + n,interrupt
+RH_INDEX_3D + RH_MID_1_3D + i,interrupt
 b + i + l + r,library
 d + r + t + u,rude
 LH_THUMB_1_3D + a + d,advertisement
@@ -1612,7 +1612,7 @@ p + u + y,puppy
 a + i + n + r,rain
 i + n + p + s,spin
 h + o + r + t,throat
-- + e + m,e-mail
+e,e-mail
 a + i + u,saint
 d + l + v,victim
 l + r + t + w,waitress
@@ -1623,7 +1623,7 @@ h + n + t + u,hunt
 e + m + n + u,menu
 m + u + y,mystery
 c + e + t,technically
-e + n + o,ton
+LEFT_ALT + n + o + t,ton
 LH_INDEX_3D + a + w,aware
 c + e + h + s,chest
 d + e + n + t,dentist
@@ -1660,7 +1660,7 @@ l + o + s + t + u,solution
 a + b + c + l,cable
 c + l + u,culture
 - + f,forty-five
-DUP + a + r,garage
+LH_INDEX_3D + a + g,garage
 l + m + r + t,male
 n + r + t + v,revenge
 h + i + r + s,shrimp
@@ -1681,7 +1681,7 @@ RH_THUMB_1_3D + o + w,woohoo
 a + d + n + v,advantage
 a + b + e + k + s,basket
 c + e + p,device
-LH_INDEX_3D + a + g,garden
+RH_INDEX_3D + g + r,garden
 i + p + r + t,patient
 i + k + n + p,pink
 n + p + r + s + t,represent
@@ -1696,7 +1696,7 @@ c + o + s + t + u,scout
 g + i + t + u,guitar
 e + m + n + t,mental
 e + i + n + s,sensitive
-e + n + t + w + y,twenty-four
+t,twenty-four
 RH_INDEX_3D + e + h,heat
 h + n + t,otherwise
 e + n + s + v,seventeen
@@ -1819,7 +1819,7 @@ i + l + r + v,village
 DUP + a + o,anger
 a + r + s + u,assure
 b + g + i + n,bingo
-b + n + u,bunny
+b + n + u + y,bunny
 a + b + c + l + r,crawl
 a + d + e + m + n,demand
 d + s + t,desperate
@@ -1884,7 +1884,7 @@ l + s + u,slut
 i + s + t + w,twist
 LEFT_ALT + a + c + p,cap
 c + h + l + r,criminal
-e + g + h + i,eight hundred
+LH_INDEX_3D,eight hundred
 i + n + p + r + s,inspire
 a + l + m + o,main
 a + c + o + p,panda
@@ -1909,7 +1909,7 @@ a + f + l + v,flavor
 k + n + r,forbid
 c + f + u,fudge
 a + h + o + r,hooray
-b + o + s,obsess
+b + e + o + s,obsess
 l + o + p + s,positive
 LEFT_ALT + b + o + r,rob
 a + g + i + n + s,signal
@@ -1936,7 +1936,7 @@ b + l + t,witch
 a + o + p + r,appropriate
 f + n + r + u,furniture
 e + l + m + o,lemon
-d + l + o + r,load
+d + i + n + r,load
 a + m + n + o + r,normally
 ' + m + p,physics
 a + c + f + s,sack
@@ -2057,7 +2057,7 @@ RH_RING_1_3D + p + u,pussy
 i + z,zombie
 a + i + k + n,ankle
 a + b + i + l,bail
-b + o + w,bowling
+b + l + o + w,bowling
 c + d + i + u,discount
 RH_MID_1_3D + e + t,entertainment
 j + q,jazz
@@ -2233,7 +2233,7 @@ l + o + u + v,opposite
 s + t + w,sweat
 e + g + i + t,tiger
 a + b + l + u + v,valuable
-d + i + n + r,alcoholic
+a + d + l + m + o,alcoholic
 c + n + o + s + u,counselor
 a + f + i + l + u,failure
 LH_INDEX_3D + a + f,farmer
@@ -2277,7 +2277,7 @@ a + g + r + s,argue
 b + c + l + r,badly
 b + m + s + u,bush
 RH_MID_1_3D + f + o,fold
-f + n + t,footage
+k + o + t,footage
 e + h + i,height
 a + b + l + o + r,labor
 e + m + n + p,nephew
@@ -2300,7 +2300,7 @@ k + s + u,skull
 i + r + t + x,taxi
 LH_INDEX_3D + a + i,airline
 LH_THUMB_1_3D + a + b,background
-a + b + r + v,bravo
+a + b + o + r + v,bravo
 LH_INDEX_3D + RH_THUMB_1_3D + c,cheek
 n + t + v + x,expense
 i + m + r + s,irish
@@ -2345,7 +2345,7 @@ d + e + n + s + u,sudden
 c + t + u,tuck
 LEFT_ALT + i + n + s,sin
 LH_THUMB_1_3D + RH_INDEX_3D + h,chart
-RH_INDEX_3D + g + r,grader
+LH_INDEX_3D + RH_INDEX_3D + g,grader
 b + l + s,bull
 LH_INDEX_3D + LH_THUMB_1_3D + RH_INDEX_3D,carefully
 d + l + t,cleaning
@@ -2375,7 +2375,7 @@ a + f + r + u,fraud
 LEFT_ALT + i + p + t,pit
 DUP + r + s + t + u,status
 k + o + r + s + t,stroke
-h + i + r + t + y,thirty-five
+RH_INDEX_3D,thirty-five
 g + o + y,yogurt
 a + n + r,random
 RH_MID_1_3D + b + o,blond
@@ -2410,7 +2410,7 @@ i + l + s + v,silver
 g + i + l + s,slightly
 d + n + t + u,underpants
 a + b + c + i + n,cabinet
-b + c + t,debt
+d + e + t + w,debt
 b + g + l + o,global
 h + r + t + w,hereby
 d + e + i + k + n,kindergarten
@@ -2438,7 +2438,7 @@ n + o + v,novel
   + n,one thousand
 c + i + l + s,slice
 t + u + v,species
-i + r + s + t + v,strip-club
+s,strip-club
 DUP + e + i + w,weigh
 a + b + e + i,weirdo
 c + h + r + s,shadow
@@ -2451,7 +2451,7 @@ t + z,equipment
 e + f + v,fever
 DUP + g + i,gig
 a + h + m + r + s,harassment
-RH_MID_1_3D + i + t,intelligent
+LH_MID_1_3D + n + t,intelligent
 LH_INDEX_3D + a + k,karate
 a + e + h + n,manner
 . + h,marijuana
@@ -2473,7 +2473,7 @@ RH_INDEX_3D + f + r,frame
 a + d + g + r + u,graduate
 h + m + r + t,hammer
 a + g + n + u,naughty
-  + e + i + n,nine hundred
+n,nine hundred
 a + l + r + s,salary
 DUP + i + s,signature
 b + c + o + r,border
@@ -2531,7 +2531,7 @@ DUP + i + n,log
 l + o + p + r + t,printer
 e + k + s + t,sketch
 RH_INDEX_3D + RH_RING_1_3D + e,steam
-p + s + t + u,superhero
+e + s + u + v,superhero
 h + o + t + w,toothbrush
 d + n + o + u,council
 c + d + t,deck
@@ -2552,7 +2552,7 @@ a + g + h + r,argh
 a + c + d + i + n,candidate
 c + f + i,differently
 c + o + t,economy
-e + g + h + i + t,eighty
+e + g + h + i,eighty
 e + f + g,fee
 a + f + l + m,flame
 f + n + o + u,foundation
@@ -2573,9 +2573,9 @@ LEFT_ALT + a + b + n + r,barn
 d + u + w,buck
 d + i + t + v,divide
 e + h + o + v,hopeless
-RH_INDEX_3D + RH_MID_1_3D + i,intervention
+LH_MID_1_3D + RH_INDEX_3D + n,intervention
 RH_MID_1_3D + i + m,millionaire
-b + e + o + s,observe
+o + u + w,observe
 a + e + k + p + s,speaker
 c + i + p + s,spicy
 d + i + r + s + t,stadium
@@ -2612,7 +2612,7 @@ c + d + l + s,disco
 f + n + s,found
 f + r + s + u,frustrate
 a + i + m + p,improve
-LH_MID_1_3D + n + t,intercourse
+LH_MID_1_3D + RH_MID_1_3D + t,intercourse
 i + n + p + t,investment
 . + y,jelly
 LH_MID_1_3D + a + l,loan
@@ -2725,7 +2725,7 @@ a + s + v,saving
 c + h + s + t,scheme
 i + l + s + t,silence
 k + r + s,skate
-b + e + n + t,twenty-two
+e + n + t + w + y,twenty-two
 RH_MID_1_3D + o + v,volunteer
 a + i + l + p,application
 c + h + i + n + r,cinnamon
@@ -2752,7 +2752,7 @@ b + i + n + r,ribbon
 a + g + p + s,spaghetti
 f + s + t + u,stuffing
 i + r + s + t + u,surely
-b + e + o + t,twenty-three
+b + e + n + t,twenty-three
 d + m + r + s,drum
 a + d + n + u,accountant
 RH_THUMB_1_3D + c + i,chill
@@ -2827,7 +2827,7 @@ d + e + s + v,despite
 d + n + w,download
 e + f + t,fetus
 f + g + i + r,frighten
-LH_INDEX_3D + RH_INDEX_3D + g,grateful
+LH_INDEX_3D + LH_THUMB_2_3D + a,grateful
 a + g + i + p + r,gravity
 h + i + l + r,hail
 a + h + y,hay
@@ -2875,8 +2875,8 @@ a + e + u + w,sweaty
 RH_INDEX_3D + q,technique
 g + h + i + t,thigh
 o + t + x,toxic
-' + e + n + t + w,twenty-seven
-- + h + u,uh-uh
+b + e + o + t,twenty-seven
+u,uh-uh
 e + s + t + v,vest
 d + l + r + w,crib
 a + m + s + u,amusement
@@ -2926,9 +2926,9 @@ h + m + r + u,shampoo
 e + l + s + v,sleepy
 DUP + m + s + u,smug
 a + r + s + v,spray
-e + s + u + v,supermarket
+s + t + u + v,supermarket
 c + e + o + t,tend
-e + o + t + w + y,twenty-one
+' + e + n + t + w,twenty-one
 b + m + r + u,umbrella
 r + t + u + w,wrestler
 d + s + w,bud
@@ -2942,7 +2942,7 @@ d + g + t,deed
 d + e + t + u,destruction
 d + i + s + v,display
 LEFT_ALT + a + d + n,dna
-DUP + e + i,eighth
+e + g + h + i + t,eighth
 h + i + l + t,eliminate
 e + g + o + s,goose
 h + m + o + s,homosexual
@@ -2965,9 +2965,9 @@ d + e + i + t,editor
 DUP + e + l + o + v,evolve
 b + k + l + o,flow
 g + h + r + t,germ
-LH_INDEX_3D + LH_THUMB_2_3D + a,grace
+LH_INDEX_3D + LH_THUMB_2_3D + RH_INDEX_3D,grace
 a + m + r + u,harsh
-LH_MID_1_3D + RH_INDEX_3D + n,intelligence
+LH_MID_1_3D + RH_INDEX_3D + RH_MID_1_3D,intelligence
 . + b,jaw
 . + d,juicy
 i + l + p + s + t,lipstick
@@ -3028,7 +3028,7 @@ a + d + o + w,coward
 d + l + r + v,driveway
 DUP + c + e + l + t,elect
 f + i + s + t,fist
-b + g + o + r,grown-up
+g,grown-up
 c + d + i + n + r,indicate
 DUP + i + n + r,ingredient
 e + l + o + u,instance
@@ -3046,7 +3046,7 @@ DUP + n + r + t,root
 l + s + t + u,slutty
 f + i + n + s,sniff
 e + l + s + w,swell
-' + h + i + r + t,thirty-one
+h + i + r + t + y,thirty-one
 h + m + s + u,mushroom
 RH_THUMB_1_3D + a + v,advanced
 a + e + m + s + u,amuse
@@ -3131,7 +3131,7 @@ a + r + u,sarcastic
 e + h + u,shelf
 e + k + l + s,skeleton
 b + i + m + s + u,submit
-s + t + u + v,supervisor
+a + e + p + s + u,supervisor
 ' + m + p + s,symptom
 i + r + u + v,virus
 f + r + t + w,weakness
@@ -3156,7 +3156,7 @@ DUP + c + r + s + t,recess
 c + r + t + y,recycle
 a + o + r + s,roast
 DUP + a + l + s,salsa
-n + s + t + v,seventy-five
+RH_RING_1_3D,seventy-five
 m + r + t + u,shred
 ' + l + o + p + s,sloppy
 e + m + n + s,somewhat
@@ -3225,7 +3225,7 @@ RH_MID_1_3D + RH_THUMB_1_3D + o,polish
 c + l + s + t,sitcom
 g + h + i + l + s,slight
 f + o + s + t,softball
-l + r + s + t + v,strip
+i + r + s + t + v,strip
 e + l + m + p + t,temple
 LH_INDEX_3D + o + t,torture
 LH_THUMB_2_3D + x,wax
@@ -3264,14 +3264,14 @@ DUP + i + r,rig
 a + c + i + r + s,sacrifice
 c + e + t + u,sector
 e + n + s + u,sunset
-a + e + p + s + u,superior
+p + r + s + t + u,superior
 DUP + r + s + u,surgeon
 m + t + u,thus
-' + e + o + t + w,twenty-eight
+e + o + t + w + y,twenty-eight
 g + p + t,vegetarian
 c + e + i + p,videotape
 f + n + r + w,workout
-o + u + w,wound
+n + o + u + w,wound
 p + r + y,pyramid
 b + k + u,buffet
 a + e + i + n + q,antique
@@ -3325,12 +3325,12 @@ LH_MID_1_3D + d + m,midget
 a + l + m + o + r,moral
 e + h + l + o + t,motel
 LEFT_ALT + e + n + t,net
-  + e + n + o,one hundred fifty
+o,one hundred fifty
 LH_RING_1_3D + q,quarterback
 LH_MID_1_3D + a + d + r,radiation
 LEFT_ALT + a + r + w,raw
 c + i + r + s + t,resident
-o + s + t + v,seventy-two
+n + s + t + v,seventy-two
 DUP + n + s + u,snuggle
 e + o + s + u,southern
 d + l + s + t,sticky
@@ -3350,14 +3350,14 @@ e + g + o + t,gently
 g + n + o,gone
 a + d + g + r + s,graduation
 DUP + l + r,grief
-b + g + n + r,growth
+b + g + o + r,growth
 e + f + i + n,infect
 k + l + r + t,leak
 LH_MID_1_3D + g + l,logical
 LH_INDEX_3D + l + u,lure
 a + d + m + o + r,macaroni
 LH_MID_1_3D + l + m,millennium
-' + e + i + n + t,ninety-nine
+RH_MID_1_3D,ninety-nine
 LH_INDEX_3D + d + o,ordinary
 LH_RING_1_3D + RH_INDEX_3D + o,outer
 o + x,oxygen
@@ -3367,7 +3367,7 @@ a + c + e + o + p,protocol
 r + s + w,sabotage
 d + l + r + s,sadly
 a + k + p + r + s,sparkle
-h + l + r + t + y,thirty-two
+' + h + i + r + t,thirty-two
 LEFT_ALT + o + t + w,tow
 l + o + t + u + v,vulnerable
 LEFT_ALT + f + l + o + w,wolf
@@ -3393,15 +3393,15 @@ c + l + r + t + u,cultural
 LH_THUMB_1_3D + d + e,december
 d + i + l + t,deli
 a + e + i + m + x,examine
-a + b + g + o,grown
+b + g + n + r,grown
 h + m + o + r,hormone
 RH_RING_1_3D + h + u,hush
 d + e + i + n + s,insecure
-LH_MID_1_3D + RH_MID_1_3D + t,intention
-LH_MID_1_3D + RH_INDEX_3D + RH_MID_1_3D,international
+LH_INDEX_3D + i + n + t,intention
+RH_INDEX_3D + e + i + n,international
 a + k + o + r,karaoke
 a + e + l + m + p,maple
-  + e + n + o + t,one thousand one hundred
+LH_MID_1_3D,one thousand one hundred
 n + p + s + t,pose
 c + p + u + y,psychiatrist
 g + h + o + s + t,shotgun
@@ -3541,7 +3541,7 @@ g + i + l + t,glitter
 a + g + h + r + s,harass
 LEFT_ALT + e + h + n,hen
 h + i + r + v,improv
-LH_INDEX_3D + i + n + t,interfere
+LH_INDEX_3D + RH_INDEX_3D + i + n,interfere
 a + i + m + r,married
 LH_MID_1_3D + n + v,novelty
 m + p + t,phew
@@ -3553,7 +3553,7 @@ e + i + l + p + s,slippery
 f + m + o + s,smoker
 k + o + p + s,spooky
 - + r + t,ta-da
-' + h + l + r + t,thirty-eight
+h + l + r + t + y,thirty-eight
 RH_MID_1_3D + i + v,villain
 a + e + h + u + w,whatsoever
 n + s + t + u,stunt
@@ -3601,7 +3601,6 @@ a + b + r + u,urban
 a + i + r + w,warrior
 DUP + c + n + o,congress
 a + d + o + r,adore
-LH_INDEX_3D + LH_THUMB_2_3D + RH_INDEX_3D,aggressive
 a + b + c + l + o,balcony
 LEFT_ALT + a + b + e + m,beam
 a + c + i + p + u,cappuccino
@@ -3682,7 +3681,7 @@ d + i + n + s + t,sincere
 e + h + k + t,theft
 d + i + k + r + t,tricky
 m + t + u + y,tummy
-b + e + n + t + y,twenty-six
+' + e + o + t + w,twenty-six
 LEFT_ALT + d + n + o + u,undo
 c + e + n + s + u,unnecessary
 e + i + n + p + u,unpleasant
@@ -3768,8 +3767,8 @@ m + n + o + s + u,summon
 g + n + r + t,tango
 e + n + t + y,teeny
 e + g + h + n + t,tenth
-i + m + r + t + y,thirty-six
-' + b + e + n + t,twenty-nine
+' + h + l + r + t,thirty-six
+b + e + n + t + y,twenty-nine
 LH_RING_1_3D + x,unexpected
 RH_MID_1_3D + i + u,unicorn
 k + n + o + u,unknown
@@ -3795,7 +3794,7 @@ d + e + n + o + v,convenience
 a + d + e + i + l,deadline
 c + d + e + o + t,detector
 d + g + r + s + t,dresser
-g + l + t,elegant
+DUP + e + i,elegant
 e + i + m + p,empire
 RH_INDEX_3D + RH_THUMB_2_3D + e,extraordinary
 DUP + a + c + n + r,grandson
@@ -3825,9 +3824,9 @@ e + g + i + l + s,sleigh
 n + o + p + s + t,spontaneous
 DUP + r + s + t,stat
 e + i + n + s + u,stunning
-p + r + s + t + u,supper
-' + i + m + r + t,thirty-four
-l + m + r + t + y,thirty-seven
+r + s + t + u + v,supper
+i + m + r + t + y,thirty-four
+' + i + m + r + t,thirty-seven
 RH_MID_1_3D + o + t,tolerate
 e + t + u + x,tuxedo
 LEFT_ALT + a + d + n + w,wand
@@ -3879,7 +3878,7 @@ LEFT_ALT + m + r + u,rum
 c + o + p + s,scoop
 c + o + r + s + t,scrotum
 LH_MID_1_3D + p + s,spoiler
-r + s + t + u + v,superstar
+RH_THUMB_1_3D + s + u,superstar
 a + f + r + s + u,surface
 e + g + n + s + t,teens
 DUP + e + t + w,tweet
@@ -3935,7 +3934,7 @@ d + e + g + l + o,doodle
 DUP + a + e + s,ease
 d + i + l + r + t,ideal
 DUP + a + e + l + s,lease
-DUP + l + t,legendary
+g + l + t,legendary
 a + b + r + s + u,absurd
 LH_MID_1_3D + a + d,additional
 RH_INDEX_3D + d + v,advertise
@@ -3981,8 +3980,8 @@ e + h + o + s + t,soothe
 a + k + n + p + s,spank
 c + l + r + s + t,strict
 n + o + r + s + t,strongly
-RH_THUMB_1_3D + s + u,superpower
-- + a + e + f + w,wake-up
+LH_RING_1_3D + p + s,superpower
+w,wake-up
 DUP + a + m + s,mass
 c + e + n + s + t,scent
 g + i + p + r,grip
@@ -4152,17 +4151,17 @@ a + e + g + x,exaggerate
 RH_THUMB_1_3D,father-in-law
 c + e + f + s,feces
 f + m + o + r + u,formula
-DUP + o + r + w,grownup
+a + b + g + o,grownup
 a + e + h + l + u,hallelujah
 e + m + o + u,hostile
 h + k + r + t + u,hurtful
 d + i + n + s + u,industrial
-RH_INDEX_3D + e + i + n,intern
+RH_MID_1_3D + e + i + t,intern
 a + e + i + l + v,irrelevant
 k + n + o + t,knot
 RH_THUMB_1_3D + a + e + l,leadership
 LH_THUMB_1_3D + j,majesty
-  + e + i + n + t,nine thirty
+  + e + i + n,nine thirty
 g + o + r + y,orgy
 a + d + e + n + v,overdue
 n + p + t + u,postpone
@@ -4175,7 +4174,7 @@ c + e + l + s + t,selection
 h + l + s + t,shell
 c + l + o + s + t,sincerely
 RH_INDEX_3D + i + s,sitter
-a + e + i + p + s,stripe
+l + r + s + t + v,stripe
 LH_MID_1_3D + r + s + t,stroller
 LEFT_ALT + d + s + t + u,stud
 d + s + u + w,subscription
